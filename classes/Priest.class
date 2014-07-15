@@ -1,0 +1,456 @@
+Name           Priest~
+Filename       Priest~
+Class          0
+Starting       1
+AttrPrime      4
+AttrSecond     5
+AttrDeficient  0
+Races          258048
+Nocombo        0
+Reclass        0 0 0
+Skilladept     95
+Thac0          18
+Thac32         12
+Hpmin          10
+Hpmax          15
+ManaMin        12
+ManaMax        16
+Expbase        1100
+Craftbase        0
+Resist         0
+Suscept        0
+Skill 'admonishing smite' 12 95
+Skill 'alertness' 37 95
+Skill 'aqua breath' 27 95
+Skill 'arch healing' 12 95
+Skill 'armor' 2 95
+Skill 'aura of courage' 88 95
+Skill 'bestow vitae' 15 95
+Skill 'bless' 1 95
+Skill 'bless water' 3 95
+Skill 'blindness' 6 95
+Skill 'cause light' 2 95
+Skill 'cause serious' 9 95
+Skill 'combat healing' 24 80
+Skill 'continual light' 7 95
+Skill 'create fire' 10 95
+Skill 'create food' 3 95
+Skill 'create spring' 11 95
+Skill 'create symbol' 8 95
+Skill 'create water' 6 95
+Skill 'cure affliction' 25 95
+Skill 'cure blindness' 4 95
+Skill 'cure light' 2 95
+Skill 'cure poison' 9 95
+Skill 'cure serious' 9 95
+Skill 'detect hidden' 8 95
+Skill 'detect invis' 6 95
+Skill 'detect magic' 8 95
+Skill 'dispel magic' 36 95
+Skill 'divine might' 15 95
+Skill 'earthquake' 7 95
+Skill 'faerie fire' 5 95
+Skill 'fireshield' 39 95
+Skill 'float' 11 95
+Skill 'fly' 21 95
+Skill 'greater heal' 38 65
+Skill 'greater smite' 60 95
+Skill 'helical flow' 43 95
+Skill 'identify' 15 95
+Skill 'know alignment' 20 95
+Skill 'lethargy' 28 95
+Skill 'lorox mist' 80 95
+Skill 'mass invis' 17 95
+Skill 'poison' 82 95
+Skill 'refresh' 7 95
+Skill 'remove curse' 15 95
+Skill 'restore life' 52 75
+Skill 'sanctuary' 18 95
+Skill 'scry' 24 95
+Skill 'sleep' 43 95
+Skill 'smite' 2 95
+Skill 'soothing sermon' 44 95
+Skill 'summon' 54 95
+Skill 'uplift' 42 95
+Skill 'valiance' 95 95
+Skill 'warm blooded' 4 95
+Skill 'weaken' 5 95
+Skill 'wizard sight' 15 95
+Skill 'word of recall' 16 95
+Skill 'aid' 1 95
+Skill 'anoint' 3 95
+Skill 'behead' 10 95
+Skill 'brew' 64 95
+Skill 'climb' 1 95
+Skill 'cook' 1 95
+Skill 'dehydrate' 10 95
+Skill 'dodge' 17 95
+Skill 'dual wield' 85 50
+Skill 'dye' 1 95
+Skill 'faith' 25 90
+Skill 'flint fire' 1 30
+Skill 'fourth attack' 50 60
+Skill 'higher magic' 20 95
+Skill 'kick' 1 95
+Skill 'layhands' 70 50
+Skill 'meditate' 16 95
+Skill 'mount' 1 95
+Skill 'parry' 20 95
+Skill 'pawn mark' 25 95
+Skill 'prayer' 25 95
+Skill 'remember' 40 95
+Skill 'ritual' 30 95
+Skill 'scan' 1 95
+Skill 'scribe' 78 95
+Skill 'search' 1 95
+Skill 'second attack' 16 80
+Skill 'shapeshift' 10 95
+Skill 'slice' 1 95
+Skill 'swim' 1 95
+Skill 'third attack' 30 70
+Skill 'trance' 32 95
+Skill '1h bludgeons' 1 95
+Skill 'staves' 1 95
+Skill 'celestial' 1 99
+Skill 'centaurian' 1 95
+Skill 'common' 1 99
+Skill 'demonic' 1 99
+Skill 'dwarven' 1 99
+Skill 'elven' 1 99
+Skill 'gnomish' 1 99
+Skill 'goblic' 1 99
+Skill 'hobbit' 1 99
+Skill 'infernal' 1 99
+Skill 'ogrian' 1 99
+Skill 'orcish' 1 99
+Skill 'pixish' 1 99
+Skill 'silent' 1 95
+Skill 'trollese' 1 95
+Title
+Man~
+Woman~
+Title
+Believer~
+Believer~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

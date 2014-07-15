@@ -1,0 +1,12 @@
+#CURRINDEX
+Vnum           1200
+Primary        1
+Name           STAFF~
+Charge         10
+Currency       150 1 5
+Currency       500 2 0
+Currency       100 3 0
+Currency       1200 4 0
+End
+
+#END

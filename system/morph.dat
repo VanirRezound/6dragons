@@ -1,0 +1,78 @@
+Morph             bear
+Vnum              1003
+Damroll           3~
+Hitroll           3~
+Keywords          bear~
+Longdesc          A massive black bear is chewing on a bone here.~
+ShortDesc         a black bear~
+Skills            bite claws bash~
+Used             237
+Armor            -50
+Level            10
+End
+
+Morph             wolf
+Vnum              1001
+Damroll           3~
+Hitroll           3~
+Keywords          wolf~
+Longdesc          A ferrious looking gray wolf is hunting its prey here.~
+ShortDesc         a gray wolf~
+Skills            bite hide claws~
+Used             149
+Armor            -50
+Level            8
+End
+
+Morph             bat
+Vnum              1005
+Damroll           1~
+Hitroll           1~
+Keywords          bat~
+Longdesc          A vampire bat hovers about here.~
+ShortDesc         a vampire bat~
+Affected          524288
+Used             128
+Armor            -50
+Level            5
+End
+
+Morph             gryphon
+Vnum              1006
+Damroll           2~
+Hitroll           2~
+Keywords          gryphon~
+Longdesc          A gryphon is standing here.~
+ShortDesc         a gryphon~
+Affected          524288
+Used             91
+Armor            -50
+Level            40
+End
+
+Morph             owl
+Vnum              1004
+Damroll           1~
+Hitroll           1~
+Keywords          owl~
+Longdesc          A white nosed owl is perched casually here.~
+ShortDesc         an owl~
+Skills            claws~
+Affected          524288
+Used             64
+Armor            -50
+Level            5
+End
+
+Morph             fish
+Vnum              1002
+Keywords          fish~
+Longdesc          A bass fish is navigating through the water here.~
+ShortDesc         a bass fish~
+Affected          -2147483648
+Used             15
+Armor            -50
+Level            5
+End
+
+#END

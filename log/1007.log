@@ -1,0 +1,248 @@
+Fri Jan  3 06:36:26 2014 :: Booting Database
+Fri Jan  3 06:36:26 2014 :: [*****] BOOT: ---------------------[ Boot Log ]--------------------
+Fri Jan  3 06:36:26 2014 :: Loading commands
+Fri Jan  3 06:36:26 2014 :: Loading mud channels...
+Fri Jan  3 06:36:26 2014 :: Loading sysdata configuration...
+Fri Jan  3 06:36:26 2014 :: Loading socials
+Fri Jan  3 06:36:26 2014 :: Loading skill table
+Fri Jan  3 06:36:26 2014 :: Sorting skill table...
+Fri Jan  3 06:36:26 2014 :: Remapping slots to sns
+Fri Jan  3 06:36:26 2014 :: Loading classes
+Fri Jan  3 06:36:26 2014 :: Loading races
+Fri Jan  3 06:36:26 2014 :: Loading herb table
+Fri Jan  3 06:36:26 2014 :: Loading tongues
+Fri Jan  3 06:36:26 2014 :: Making 6 Dragons stafflist
+Fri Jan  3 06:36:26 2014 :: Loading MSSP Data...
+Fri Jan  3 06:36:26 2014 :: Building wizinfo
+Fri Jan  3 06:36:26 2014 :: Initializing random number generator
+Fri Jan  3 06:36:26 2014 :: Setting time and weather.
+Fri Jan  3 06:36:26 2014 :: Loading holiday chart...
+Fri Jan  3 06:36:26 2014 :: Assigning gsn's
+ASSIGN_GSN: Skill rotten gut not found.
+Fri Jan  3 06:36:26 2014 :: Reading in area files...
+(help.are)
+limbo.are     : Rooms:     2 - 99    Objs:     2 - 99    Mobs:     1 - 99
+staff.are     : Rooms:  1200 - 1299  Objs:  1200 - 1299  Mobs:  1200 - 1299
+wild.are      : Rooms: 41000 - 44000 Objs: 41000 - 41026 Mobs: 41000 - 41039
+Fri Jan  3 06:36:26 2014 :: Loading buildlist
+Fri Jan  3 06:36:26 2014 :: staff/Admin
+Fri Jan  3 06:36:26 2014 :: Fixing exits
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: new_get_room_index: bad vnum 31093. Called from file db.c line 2814
+Fri Jan  3 06:36:26 2014 :: [*****] BOOT: Fix_exits: room 1210, exit north leads to bad vnum (31093)
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: Deleting north exit in room 1210
+Fri Jan  3 06:36:26 2014 :: Initializing economy
+Fri Jan  3 06:36:26 2014 :: Resetting areas
+Fri Jan  3 06:36:26 2014 :: Loading storerooms
+Fri Jan  3 06:36:26 2014 :: Loading clans
+Fri Jan  3 06:36:26 2014 :: Loading clans...
+Fri Jan  3 06:36:26 2014 :: throng.cln
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open clans/throng.cln for r. Called from clans.c:878
+clans/throng.cln: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: Cannot load clan file: throng.cln
+Fri Jan  3 06:36:26 2014 :: alliance.cln
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open clans/alliance.cln for r. Called from clans.c:878
+clans/alliance.cln: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: Cannot load clan file: alliance.cln
+Fri Jan  3 06:36:26 2014 :: halcyon.cln
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open clans/halcyon.cln for r. Called from clans.c:878
+clans/halcyon.cln: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: Cannot load clan file: halcyon.cln
+Fri Jan  3 06:36:26 2014 :: $
+Fri Jan  3 06:36:26 2014 ::  Done clans 
+Fri Jan  3 06:36:26 2014 :: Loading quests
+Fri Jan  3 06:36:26 2014 :: Loading currency...
+Fri Jan  3 06:36:26 2014 :: Loading banks
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank aarnwynn because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank account because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank aeliana because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank aeliana2 because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank agri because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank airl because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank alend because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank alia because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank allneochr because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank althalos because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank amrynn because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank anharat because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank aquaview because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank aretia because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank arlan because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank arun because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank ashugar because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank bloodsucker because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank brahmus because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank caila because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank cali because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank corwyn because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank dakar because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank dansc because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank draconis because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank eldan because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank elendil because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank elendyl because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank elfric because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank enkara because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank erendyl because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank ergo because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank erindyl because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank explore5 because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank forbidden because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank funding because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank garag because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank garain because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank garbert because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank gavrel because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank goran because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank gorb because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank hedrick because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank herrig because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank holy because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank hroch because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank ice957 because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank imperials because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank kaang because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank kithonos because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank lisara because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank lorath because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank maraver because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank mathius because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank merrus because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank mirinya because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank money because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank naka because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank nlek because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank oriana because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank padan because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank paleon because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank pedryl because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank perryl because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank petrius because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank raum because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank rivyk because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank saveone because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank seiti because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank tand because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank tarrin because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank thandon because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank torgrim because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank torgur because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank tristen because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank turrick because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank vladaar because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank wildstar because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank xaukawn because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank xryon because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank yaiba because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank yori because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: fread_bank: Deleting bank zaiden because it hasn't been used in at least 366 days.
+Fri Jan  3 06:36:26 2014 :: Loading landmarks
+Fri Jan  3 06:36:26 2014 :: Loading councils
+Fri Jan  3 06:36:26 2014 :: Loading councils...
+Fri Jan  3 06:36:26 2014 :: code.cln
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open councils/code.cln for r. Called from clans.c:934
+councils/code.cln: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: Cannot load council file: code.cln
+Fri Jan  3 06:36:26 2014 :: architect.cln
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open councils/architect.cln for r. Called from clans.c:934
+councils/architect.cln: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: Cannot load council file: architect.cln
+Fri Jan  3 06:36:26 2014 :: prelations.cln
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open councils/prelations.cln for r. Called from clans.c:934
+councils/prelations.cln: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: Cannot load council file: prelations.cln
+Fri Jan  3 06:36:26 2014 :: phelper.cln
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open councils/phelper.cln for r. Called from clans.c:934
+councils/phelper.cln: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: Cannot load council file: phelper.cln
+Fri Jan  3 06:36:26 2014 :: admin.cln
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open councils/admin.cln for r. Called from clans.c:934
+councils/admin.cln: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: Cannot load council file: admin.cln
+Fri Jan  3 06:36:26 2014 :: gevents.cln
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open councils/gevents.cln for r. Called from clans.c:934
+councils/gevents.cln: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: Cannot load council file: gevents.cln
+Fri Jan  3 06:36:26 2014 :: $
+Fri Jan  3 06:36:26 2014 ::  Done councils 
+Fri Jan  3 06:36:26 2014 :: Loading deities
+Fri Jan  3 06:36:26 2014 :: Loading deities...
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open deity/creator for r. Called from deity.c:279
+deity/creator: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: load_deity: Cannot load deity file: creator
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open deity/uglar for r. Called from deity.c:279
+deity/uglar: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: load_deity: Cannot load deity file: uglar
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open deity/mnera for r. Called from deity.c:279
+deity/mnera: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: load_deity: Cannot load deity file: mnera
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open deity/corellon for r. Called from deity.c:279
+deity/corellon: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: load_deity: Cannot load deity file: corellon
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open deity/calton for r. Called from deity.c:279
+deity/calton: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: load_deity: Cannot load deity file: calton
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open deity/tanzeanal for r. Called from deity.c:279
+deity/tanzeanal: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: load_deity: Cannot load deity file: tanzeanal
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open deity/thara for r. Called from deity.c:279
+deity/thara: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: load_deity: Cannot load deity file: thara
+Fri Jan  3 06:36:26 2014 :: Done deities
+Fri Jan  3 06:36:26 2014 :: Loading hometowns
+Fri Jan  3 06:36:26 2014 :: Loading htowns...
+Fri Jan  3 06:36:26 2014 :: paleon.city
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open htowns/paleon.city for r. Called from hometowns.c:157
+htowns/paleon.city: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: Cannot load htown file: paleon.city
+Fri Jan  3 06:36:26 2014 :: Valnaes.htown
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open htowns/Valnaes.htown for r. Called from hometowns.c:157
+htowns/Valnaes.htown: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: Cannot load htown file: Valnaes.htown
+Fri Jan  3 06:36:26 2014 :: forbidden.htown
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open htowns/forbidden.htown for r. Called from hometowns.c:157
+htowns/forbidden.htown: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: Cannot load htown file: forbidden.htown
+Fri Jan  3 06:36:26 2014 :: $
+Fri Jan  3 06:36:26 2014 ::  Done htowns 
+Fri Jan  3 06:36:26 2014 :: Loading cities
+Fri Jan  3 06:36:26 2014 :: Loading cities...
+Fri Jan  3 06:36:26 2014 :: paleon.city
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open city/paleon.city for r. Called from city.c:291
+city/paleon.city: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: Cannot load city file: paleon.city
+Fri Jan  3 06:36:26 2014 :: dakar.city
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open city/dakar.city for r. Called from city.c:291
+city/dakar.city: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: Cannot load city file: dakar.city
+Fri Jan  3 06:36:26 2014 :: forbidden.city
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open city/forbidden.city for r. Called from city.c:291
+city/forbidden.city: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: Cannot load city file: forbidden.city
+Fri Jan  3 06:36:26 2014 :: $
+Fri Jan  3 06:36:26 2014 ::  Done cities 
+Fri Jan  3 06:36:26 2014 :: Loading watches
+Fri Jan  3 06:36:26 2014 :: Loading bans
+Fri Jan  3 06:36:26 2014 :: Done.
+Fri Jan  3 06:36:26 2014 :: Loading reserved names
+Fri Jan  3 06:36:26 2014 :: Loading auth namelist
+Fri Jan  3 06:36:26 2014 :: Loading corpses
+Fri Jan  3 06:36:26 2014 :: Loading News
+Fri Jan  3 06:36:26 2014 :: Loading Hints...
+Fri Jan  3 06:36:26 2014 :: Loading slay table
+Fri Jan  3 06:36:26 2014 :: Loading Immortal Hosts
+Fri Jan  3 06:36:26 2014 :: Done.
+Fri Jan  3 06:36:26 2014 :: Loading Morphs
+Fri Jan  3 06:36:26 2014 :: Optimizing Morphs.
+Fri Jan  3 06:36:26 2014 :: Done.
+Fri Jan  3 06:36:26 2014 :: Loading Global Boards
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open notes/General for r. Called from gboard.c:306
+notes/General: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open notes/Personal for r. Called from gboard.c:306
+notes/Personal: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open notes/Stories for r. Called from gboard.c:306
+notes/Stories: No such file or directory
+Fri Jan  3 06:36:26 2014 :: [*****] BUG: __FileOpen: can't open notes/Staff for r. Called from gboard.c:306
+notes/Staff: No such file or directory
+Fri Jan  3 06:36:26 2014 :: Initializing Autoboot
+Fri Jan  3 06:36:26 2014 :: Initializing socket
+Fri Jan  3 06:36:26 2014 :: 6 Dragons ready at address patriot-Inspiron-3521 on port 4100.

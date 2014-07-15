@@ -1,0 +1,430 @@
+Name           Bard~
+Filename       Bard~
+Class          17
+Starting       1
+AttrPrime      2
+AttrSecond     5
+AttrDeficient  31
+Races          260068
+Nocombo        0
+Reclass        0 0 0
+Skilladept     90
+Thac0          15
+Thac32         4
+Hpmin          14
+Hpmax          18
+ManaMin        4
+ManaMax        10
+Expbase        1200
+Craftbase        0
+Resist         0
+Suscept        0
+Skill 'aid' 1 95
+Skill 'backstab' 10 85
+Skill 'behead' 10 95
+Skill 'brass' 55 95
+Skill 'circle' 70 95
+Skill 'climb' 1 95
+Skill 'cook' 1 95
+Skill 'dodge' 6 95
+Skill 'drums' 72 95
+Skill 'dual wield' 24 95
+Skill 'dye' 1 95
+Skill 'enhanced damage' 2 95
+Skill 'feign death' 28 50
+Skill 'fifth attack' 65 95
+Skill 'find weakness' 23 95
+Skill 'flint fire' 1 30
+Skill 'fourth attack' 38 95
+Skill 'hide' 1 85
+Skill 'judo' 18 35
+Skill 'keen eye' 20 95
+Skill 'kick' 1 85
+Skill 'lore' 15 30
+Skill 'low blow' 2 95
+Skill 'mount' 1 85
+Skill 'parry' 1 85
+Skill 'peek' 2 95
+Skill 'pick lock' 10 95
+Skill 'play' 12 95
+Skill 'restring' 10 95
+Skill 'roundhouse' 25 70
+Skill 'scan' 1 95
+Skill 'search' 1 95
+Skill 'second attack' 10 95
+Skill 'sidestep' 32 95
+Skill 'sixth attack' 85 95
+Skill 'slice' 1 95
+Skill 'smuggle' 74 95
+Skill 'sneak' 1 85
+Skill 'steal' 2 95
+Skill 'strings' 32 95
+Skill 'swim' 1 95
+Skill 'third attack' 25 95
+Skill 'track' 15 95
+Skill 'uppercut' 28 80
+Skill 'valtors song' 43 95
+Skill 'vocals' 5 95
+Skill 'woodwinds' 18 95
+Skill '1h bludgeons' 1 95
+Skill '1h long blades' 1 95
+Skill '1h short blades' 1 95
+Skill 'archery' 1 95
+Skill 'flails' 1 95
+Skill 'polearms' 1 95
+Skill 'spears' 1 95
+Skill 'staves' 1 95
+Skill 'whips' 1 95
+Skill 'celestial' 1 99
+Skill 'centaurian' 1 95
+Skill 'common' 1 99
+Skill 'demonic' 1 99
+Skill 'dwarven' 1 99
+Skill 'elven' 1 99
+Skill 'gnomish' 1 99
+Skill 'goblic' 1 99
+Skill 'hobbit' 1 99
+Skill 'infernal' 1 99
+Skill 'ogrian' 1 99
+Skill 'orcish' 1 99
+Skill 'pixish' 1 99
+Skill 'silent' 1 95
+Skill 'trollese' 1 95
+Skill 'druidic hymn' 15 95
+Skill 'evac crescendo' 12 95
+Skill 'harmonic melody' 20 95
+Skill 'ottos dance' 24 95
+Skill 'rousing tune' 8 95
+Skill 'shrieking note' 5 95
+Skill 'sound waves' 92 95
+Skill 'stirring ballad' 32 95
+Skill 'thunderous hymn' 55 95
+Skill 'unholy melody' 80 95
+Title
+a young adventurer.~
+a young adventuress.~
+Title
+Swordpupil~
+Swordpupil~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

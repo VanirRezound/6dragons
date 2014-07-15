@@ -1,0 +1,2 @@
+/usr/bin/nohup: line 79: /home/vladaar/6dragons/system/startup: No such file or directory
+/usr/bin/nohup: line 79: exec: /home/vladaar/6dragons/system/startup: cannot execute: No such file or directory

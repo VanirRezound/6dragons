@@ -1,0 +1,463 @@
+Name           Angel~
+Filename       Angel~
+Class          14
+Starting       1
+AttrPrime      1
+AttrSecond     0
+AttrDeficient  0
+Races          245759
+Nocombo        0
+Reclass        0 0 0
+Skilladept     90
+Thac0          18
+Thac32         6
+Hpmin          20
+Hpmax          25
+ManaMin        10
+ManaMax        15
+Expbase        1700
+Craftbase        0
+Resist         0
+Suscept        0
+Skill 'angels touch' 10 95
+Skill 'aqua breath' 18 85
+Skill 'armor' 1 90
+Skill 'astral walk' 43 95
+Skill 'aura of courage' 63 95
+Skill 'battlefield view' 60 95
+Skill 'bestow vitae' 3 95
+Skill 'bless' 5 90
+Skill 'combat healing' 20 80
+Skill 'continual light' 5 85
+Skill 'create fire' 10 95
+Skill 'create food' 5 95
+Skill 'create water' 2 80
+Skill 'cure affliction' 21 95
+Skill 'detect evil' 7 60
+Skill 'detect hidden' 9 75
+Skill 'detect poison' 7 60
+Skill 'dispel evil' 15 90
+Skill 'divine intervention' 94 95
+Skill 'divine might' 15 95
+Skill 'ethereal shield' 65 95
+Skill 'expurgation' 13 85
+Skill 'faerie fire' 3 95
+Skill 'faerie fog' 14 95
+Skill 'farsight' 68 95
+Skill 'float' 12 75
+Skill 'fortify' 39 75
+Skill 'greater heal' 30 65
+Skill 'heroism' 27 95
+Skill 'iceshield' 55 95
+Skill 'identify' 16 75
+Skill 'knock' 17 95
+Skill 'know alignment' 14 50
+Skill 'locate object' 52 95
+Skill 'pass door' 21 95
+Skill 'refresh' 3 95
+Skill 'remove curse' 18 85
+Skill 'resilience' 42 70
+Skill 'sagacity' 14 95
+Skill 'sanctuary' 10 95
+Skill 'shadowform' 90 95
+Skill 'shockshield' 85 95
+Skill 'slow' 42 95
+Skill 'stone skin' 42 75
+Skill 'transport' 70 95
+Skill 'valiance' 55 95
+Skill 'warm blooded' 4 95
+Skill 'weaken' 24 95
+Skill 'word of recall' 8 95
+Skill 'aid' 1 95
+Skill 'angelfire' 12 95
+Skill 'behead' 10 95
+Skill 'claw' 1 95
+Skill 'climb' 1 80
+Skill 'cook' 1 95
+Skill 'dehydrate' 10 95
+Skill 'dodge' 5 75
+Skill 'doorbash' 8 95
+Skill 'dual wield' 17 90
+Skill 'dye' 1 95
+Skill 'endurance' 1 95
+Skill 'enhanced damage' 1 90
+Skill 'fade' 5 95
+Skill 'faith' 18 95
+Skill 'fifth attack' 50 65
+Skill 'find weakness' 49 95
+Skill 'fourth attack' 37 80
+Skill 'judge' 7 95
+Skill 'kick' 1 95
+Skill 'layhands' 74 50
+Skill 'lunge' 7 95
+Skill 'meditate' 8 95
+Skill 'mount' 1 90
+Skill 'peek' 45 95
+Skill 'phase' 40 95
+Skill 'prayer' 18 95
+Skill 'punch' 6 90
+Skill 'remember' 40 95
+Skill 'ritual' 35 95
+Skill 'scan' 1 95
+Skill 'search' 1 95
+Skill 'second attack' 10 90
+Skill 'sixth attack' 90 35
+Skill 'slice' 1 95
+Skill 'spurn' 10 85
+Skill 'strike' 15 70
+Skill 'swat' 10 80
+Skill 'swim' 1 95
+Skill 'telepathy' 1 95
+Skill 'third attack' 20 90
+Skill 'trance' 40 95
+Skill 'truesight' 10 95
+Skill 'wings' 1 95
+Skill '1h long blades' 1 95
+Skill '1h short blades' 1 95
+Skill 'pugilism' 1 95
+Skill 'spears' 1 95
+Skill 'whips' 1 95
+Skill 'celestial' 1 99
+Skill 'centaurian' 1 95
+Skill 'common' 1 99
+Skill 'demonic' 1 99
+Skill 'draconic' 1 95
+Skill 'dwarven' 1 99
+Skill 'elven' 1 99
+Skill 'gnomish' 1 99
+Skill 'goblic' 1 99
+Skill 'hobbit' 1 99
+Skill 'infernal' 1 99
+Skill 'ogrian' 1 99
+Skill 'orcish' 1 99
+Skill 'pixish' 1 99
+Skill 'silent' 1 95
+Skill 'trollese' 1 95
+Title
+Man~
+Woman~
+Title
+Keeper~
+Keeper~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

@@ -1,0 +1,72 @@
+#SYSTEM
+MudName        6 Dragons~
+Highplayers    34
+Highplayertime Tue Jan  6 17:46:46 2009~
+NumberQuotes   24
+CheckImmHost   1
+Nameresolving  1
+Waitforauth    1
+Advanced_Player 0
+Readallmail    201
+Readmailfree   1
+Writemailfree  1
+Takeothersmail 106
+Muse           105
+Think          104
+Build          101
+Log            101
+Protoflag      103
+GetObjNotake   104
+Overridepriv   104
+Msetplayer     105
+Stunplrvsplr   80
+Stunregular    15
+Gougepvp       40
+Gougenontank   80
+Bashpvp        40
+Bashnontank    80
+Dodgemod       8
+Parrymod       8
+Tumblemod      4
+Damplrvsplr    100
+Damplrvsmob    50
+Dammobvsplr    55
+Dammobvsmob    100
+Doubleexp      1
+Gmb            10
+Forcepc        104
+Clantimer	7
+Clanlog        4
+Saveflags      61423
+Savefreq       1
+Bestowdif      10
+BanSiteLevel   104
+BanRaceLevel   104
+BanClassLevel  104
+MorphOpt       1
+PetSave        1
+IdentTries     1
+Pkloot         1
+Maxholiday	    20
+Secpertick	    70
+Pulsepersec	    4
+Hoursperday	    24
+Daysperweek	    7
+Dayspermonth    28
+Monthsperyear   16
+PotionsLag     3 5 7
+ReqWhoArg      0
+WizLock        0
+ABootHour      7
+ABootMinute    0
+ABootPeriod    7
+Newbie_purge   30
+Regular_purge  100
+Autopurge      1
+HTTP           http://6dragons.org~
+Class1MaxAdept 95
+Class2MaxAdept 80
+Class3MaxAdept 65
+End
+
+#END

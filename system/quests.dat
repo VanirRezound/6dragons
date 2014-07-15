@@ -1,0 +1,4395 @@
+#NQUEST
+Number      0
+SType        0
+SVnum       6255
+Name        hammer~
+Desc        Hey Ho! Adventurer Gladan the Dwarf is searching for his Chieftain's
+Hammer gift in the Ice Cavern.  Give Gladan a hand it must be found
+quickly, or Gladan will have to return empty handed.
+~
+Timelimit   0
+Level       5
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        kill all the icicle monsters.~
+Timelimit   1800
+Level       0
+KAmount     10
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Use clue to find Hammer~
+Timelimit   900
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Return Hammer to Gladan~
+Timelimit   300
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      1
+SType        0
+SVnum       16001
+Name        jonah~
+Desc        Friendly Stable Master Jonah in Paleon City has some tasks
+for you to do which can grant you some rewards.
+~
+Timelimit   0
+Level       2
+Chapters    15
+#NCHAPTER
+Number      1
+Desc        Pass Jonah's message to Kalarn~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Give Kalarn's message to Jonah~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Ask for Jonah's second task~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Get dagger from Blade Master Symon~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Return dagger to Jonah~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Ask for Jonah's third task~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        Give Jonah's message to Amelia~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      8
+Desc        Return potion to Jonah~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      9
+Desc        Ask for Jonah's fourth task~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      10
+Desc        Give message to Banker Joram~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      11
+Desc        Give Joram's message to Jonah~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      12
+Desc        Ask for Jonah's fifth task~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      13
+Desc        Bring a sewer rat corpse to Jonah~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      14
+Desc        Ask for Jonah's sixth task~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      15
+Desc        Give Jonah's message to Tarane~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      2
+SType        0
+SVnum       16018
+Name        clemmons~
+Desc        The crafty thief Clemmons in Paleon City sewers has a task for you to 
+complete to prove yourself worthy of special passage. 
+~
+Timelimit   0
+Level       5
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Kill the Tunnel Worm~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Get the corpse~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Give corpse Clemmons~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      3
+SType        0
+SVnum       16010
+Name        tarane~
+Desc        Ill tempered Tarane is willing to trust you since Jonah has vouched
+for you.  Tarane who also lives in Paleon has a series of tasks
+for you to complete, and will reward you kindly for doing so.~
+Timelimit   0
+Level       5
+Chapters    16
+#NCHAPTER
+Number      1
+Desc        Give Message to Marlana~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Give message to Tarane~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Tell Tarane Second~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Bring Tarane Frog Chief corpse~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Bring corpse to Tarane~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Tell Tarane Third~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        Find and kill scare crows~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      8
+Desc        Give corpse Tarane~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      9
+Desc        Tell Tarane fourth~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      10
+Desc        Find and kill Crab~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      11
+Desc        Give corpse Tarane~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      12
+Desc        Tell Tarane Fifth~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      13
+Desc        Find Tarane's Daughter at Citadel~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      14
+Desc        Kill orc and return to Tarane~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      15
+Desc        Return Jenna to Tarane~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      16
+Desc        Return to Tarane~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      4
+SType        0
+SVnum       16029
+Name        michael~
+Desc        You seek to gain access to Paleon Court?  Then you must perform
+a series of tasks to gain access to the upper level.~
+Timelimit   0
+Level       75
+Chapters    5
+#NCHAPTER
+Number      1
+Desc        Find and kill the Krakken~
+Timelimit   0
+Level       75
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Give corpse Michael~
+Timelimit   0
+Level       75
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Tell Michael next~
+Timelimit   0
+Level       75
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Find and kill Lord Dkarhaf~
+Timelimit   0
+Level       75
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Give corpse Michael~
+Timelimit   0
+Level       75
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      5
+SType        0
+SVnum       16035
+Name        thomes~
+Desc        Help the guards of Paleon Prison.~
+Timelimit   0
+Level       10
+Chapters    5
+#NCHAPTER
+Number      1
+Desc        Stop the riot in Alpha Sector~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to Thomes~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Tell Thomes what now~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Find Lanak in Bravo Corridor.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Find Captain, say 'HELP PRISON'~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      6
+SType        0
+SVnum       16704
+Name        peddler~
+Desc        The peddler has a rumor of ancient set of armor that
+can be found somewhere on Mount Cierra.~
+Timelimit   0
+Level       30
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        Find Mount Cierra~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Locate a hidden boulder~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Give talisman Cardinal Monk~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      7
+SType        0
+SVnum       28250
+Name        chamchir~
+Desc        Quest for the Aether Aura from the orcs in Tufkul'ar.~
+Timelimit   0
+Level       20
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        Find Chamchir Ni'blar!~
+Timelimit   0
+Level       20
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return the Precious!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Intrigue Calls!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      8
+SType        0
+SVnum       5101
+Name        tutorial~
+Desc        The short tutorial is a way to help players learn about the game, while
+also presenting small amount of story information.  The tutorial also
+helps players learn their way around their own homeland.
+~
+Timelimit   0
+Level       1
+Chapters    9
+#NCHAPTER
+Number      1
+Desc        Find Shop Keeper Amelia~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Find Blade Master Symon~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Kill bobcat~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Find Guild Master Baeralm~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Find the Librarian ~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Find Stable Master Jonah~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        Find the Weaponsmith Lorax~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      8
+Desc        Find the Portalstone~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      9
+Desc        Return to Paleon Central~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      9
+SType        0
+SVnum       7508
+Name        beholder~
+Desc        Help the priest Turath rid the area of a terrible evil beholder.
+The priest will cast bestow vitae on you if you say the word
+protect to help you with this task.~
+Timelimit   0
+Level       10
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Find and kill the beholder~
+Timelimit   0
+Level       10
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        bring the corpse back to the priest~
+Timelimit   0
+Level       10
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      10
+SType        0
+SVnum       35514
+Name        chromatic~
+Desc        Talshik has some tasks he needs your help completing.  He
+will reward you for completing these tasks.~
+Timelimit   0
+Level       2
+Chapters    7
+#NCHAPTER
+Number      1
+Desc        Find and tell Raesaav the dragon is all consuming~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to Talshik with Raesaav's message~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Bring the corpse of a Quartz Runner to me.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Bring me the tail of a Moss Crawler~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Bring me the guts of a Skeleton~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Locate Dretaz and purchase saddlebags for Talshik~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        Bring me the corpse of the Wererat~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      12
+SType        0
+SVnum       28253
+Name        sha'bladoc~
+Desc        Continuation for the quest for the Aether Aura from the orcs in Tufkul'ar. 
+~
+Timelimit   0
+Level       20
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        Obtain scepter and give to Ferfonhof.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Agree to the terms.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Kill Ferfonon and reap the rewards.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      14
+SType        0
+SVnum       10212
+Name        Cannibals~
+Desc        Prove your worth to the village chief by killing some of the cannibal
+soldiers in the jungle of Vila Island.
+~
+Timelimit   0
+Level       20
+Chapters    4
+#NCHAPTER
+Number      1
+Desc        Find Cannibal Soldiers~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Kill 2 Cannibal Soldiers~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Give corpse chief~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Give corpse chief~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      15
+SType        0
+SVnum       10206
+Name        antidote~
+Desc        You are helping Zerah to create an antidote. You can find the items from a 
+black mamba, a timber wolf and Captain Dhlara. Return to Zerah after 
+attaining each in turn, and the last item will give a reward. 
+~
+Timelimit   0
+Level       30
+Chapters    6
+#NCHAPTER
+Number      1
+Desc        Kill Black Mamba snake on Island~
+Timelimit   0
+Level       30
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Give gland Zerah shopkeeper~
+Timelimit   0
+Level       30
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Get blood from the orc captain Dlhara~
+Timelimit   0
+Level       30
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Give blood to Zerah~
+Timelimit   0
+Level       30
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Get the tail from a wolf on Mount Cierra~
+Timelimit   0
+Level       30
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Give tail to Zerah~
+Timelimit   0
+Level       30
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      16
+SType        0
+SVnum       10202
+Name        traitor~
+Desc        Help the chief find a traitor within his own village, by talking to the
+different villagers on Vila Island.
+~
+Timelimit   0
+Level       30
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Say the keyword &csabotage&W with villagers.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Give scroll guard as evidence~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      17
+SType        0
+SVnum       10001
+Name        narcista~
+Desc        Perform tasks for Sailor Tybias to earn your passage on the Narcista
+Vessel.  Sailor Tybias will send you to different areas, and you will
+gain a special medallion once you are finished.
+~
+Timelimit   0
+Level       20
+Chapters    8
+#NCHAPTER
+Number      1
+Desc        Kill all the crabs around Tybias~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Take medallion to old man on pier~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Go to Loramoor see Shalandra~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Take delivery from Gaergarrs to Sailor.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Take writ to Gorin in Manoake City.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        get daggers, and tell Tybias 'no gnomes no more'~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        Give medallion Tybias for engraving~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      8
+Desc        Use medallion to board Narcista ~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      18
+SType        0
+SVnum       4663
+Name        fysklor~
+Desc        Assist Fysklor of Paleon Library retrieve all the books that he is missing.
+~
+Timelimit   0
+Level       5
+Chapters    6
+#NCHAPTER
+Number      1
+Desc        Assist Fysklor in returning his books~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Assist Fysklor in returning his books~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Assist Fysklor in returning his books~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Assist Fysklor in returning his books~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Assist Fysklor in returning his books~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Assist Fysklor in returning his books~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      19
+SType        0
+SVnum       16007
+Name        alliance~
+Desc        Interested in joining the Alliance?
+Blade Master Symon has a task for you...
+Well first you need to prove your worth.  Some scouting at the Citadel to
+determine the enemy numbers is the first step.  Then there is an evil
+we will need you to vanquish.
+After that Marcus will evaluate you.
+~
+Timelimit   0
+Level       10
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        Go to Citadel report number of orcs to Symon~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Seek and Kill Beholder, bring corpse Symon~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Seek out Marcus the Elf in Loramoor Forest~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      20
+SType        0
+SVnum       27019
+Name        throng~
+Desc        Kyfaek seems to think you maybe good enough to join the Throng.  However,
+he doesn't take anyone without making them prove themselves.  Carry out
+the mission, and return to Kyfaek.
+~
+Timelimit   0
+Level       10
+Chapters    6
+#NCHAPTER
+Number      1
+Desc        Survive fighting Gordav until Kyfaek satisfied~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Find the messenger by the Citadel~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Kill the messenger~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Tell the Paleon Blade Master 300~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Return to Kyfaek~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Find Boatman charon by the River of Styxx~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      22
+SType        2
+SVnum       5550
+Name        telea~
+Desc        Telea is a thief who is trying to avoid a demon named Krillgor.  Telea
+asks for your help in escaping.  Course you could also turn Telea over
+to the demon.
+~
+Timelimit   0
+Level       95
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        Escort Telea out of the City of Dis~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Betrayal - Quest Complete~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Success - Quest Complete~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      23
+SType        1
+SVnum       34000
+Name        santa~
+Desc        Santa's been kidnapped! Oh, no!
+You need to search and find out who kidnappend Santa, and why he was kidnapped.
+Festivities await his return.
+~
+Timelimit   0
+Level       40
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        North Pole Detective!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Find Santa!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Stop his evil plan!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      24
+SType        0
+SVnum       3765
+Name        terale~
+Desc        Terale a young boy on the Isle of Death is searching for his missing mother.  
+Help Terale find his mother, and you may indeed be rewarded.
+~
+Timelimit   0
+Level       50
+Chapters    4
+#NCHAPTER
+Number      1
+Desc        Find Seth, and make him talk.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Find the Krakken squid in the ocean.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Bring corpse to Uncle Seth.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        tell boy look under his own feet.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      25
+SType        0
+SVnum       18309
+Name        meadows~
+Desc        Constable Meadow asks for your help in getting a crown from the orc
+hold to the north.
+~
+Timelimit   0
+Level       18
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        Locate the Crown~
+Timelimit   0
+Level       18
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Get the Crown~
+Timelimit   0
+Level       18
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Give crown to Constable Meadow~
+Timelimit   0
+Level       18
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      26
+SType        0
+SVnum       33200
+Name        etutorial~
+Desc        The short tutorial is a way to help players learn about the game, while
+also presenting small amount of story information.  The tutorial also
+helps players learn their way around their own homeland.
+~
+Timelimit   0
+Level       0
+Chapters    9
+#NCHAPTER
+Number      1
+Desc        Find Black Tower/Add your name ~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Find Blademaster Jardal~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Type say Proceed, and Kill the Dog~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Find the Guild Master Vecnia~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Find Dralak in the Mystical Shop~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Find Korlok the Barkeeper~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        Find Daktar the Weaponsmith~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      8
+Desc        Find the Portalstone~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      9
+Desc        Return to Dakar Central~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      27
+SType        0
+SVnum       28025
+Name        krinmar~
+Desc        Krin mar asks for your help in finding the bone of his ancestors.
+~
+Timelimit   0
+Level       5
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Find The Bone!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Bring it to Krin Mar!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      29
+SType        0
+SVnum       11216
+Name        militia~
+Desc        Sergeant Durgas of Dakar City doesn't like new recruits, but he has
+some tasks he needs done anyway.  Help him complete these tasks and
+he will reward you.
+~
+Timelimit   0
+Level       2
+Chapters    7
+#NCHAPTER
+Number      1
+Desc        Go to Dead Goblin Tavern Kill Naete.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Bring corpse Sergeant.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Type SAY SECOND for next task.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Find Blademaster Jardal~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Return to Sergeant Durgas, say THIRD~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Find and follow Vaskar~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        report VASKAR SOUTHERN GORATH STREET SECRET LEVER~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      30
+SType        0
+SVnum       19007
+Name        dtutorial~
+Desc        The short tutorial is a way to help players learn about the game, while
+also presenting small amount of story information.  The tutorial also
+helps players learn their way around their own homeland.
+~
+Timelimit   0
+Level       0
+Chapters    9
+#NCHAPTER
+Number      1
+Desc        Seek Battle Master Ulave for training~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        say ROAR and kill the bugbear.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Find Elf Shozat in Mystical Shop~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Find Elf Taenoc in Tavern~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Find Elf Cerax in Resizer Shop~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Find Blue Dragon Gsaar at Gate~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        Find Blue Dragon Talshik~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      8
+Desc        Find the Portalstone.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      9
+Desc        Return to High Perch Centre~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      32
+SType        0
+SVnum       19508
+Name        zalkyze~
+Desc        Long ago an ancient scimitar sword of power was forged by elves.  The 
+purpose of the sword was to vanquish a great evil.  That sword was named Zalkyze, 
+and has long been lost.  Rumor of the sword's existence have surfaced.  The lost 
+sword is said to be in the Estate of Unrest protected by great evil forces that 
+seek to keep the sword from ever coming to power again.~
+Timelimit   0
+Level       25
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Find pieces, connect, then wield blade.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Kill the Demon with sword.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      33
+SType        0
+SVnum       16109
+Name        trade~
+Desc        Chosing a tradeskill.~
+Timelimit   0
+Level       2
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Find city manager pay 10 gold.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to the Guildmaster~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      34
+SType        0
+SVnum       613
+Name        sickoldman~
+Desc        The sick old man in the Spider Swamp needs a special type of blood
+to cure his ailment.  Help him get the blood from the rare spider.
+~
+Timelimit   0
+Level       0
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Get the blood!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Bring back the blood!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      35
+SType        0
+SVnum       703
+Name        iceprincess~
+Desc        King Rauffe's daughter, the Princess Thomasine, has been imprisoned on the 
+balcony by a might Ice Dragon. It must be defeated in order to save the 
+life of Princess Thomasine. 
+~
+Timelimit   0
+Level       0
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        Kill the Ice Dragon~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to King Rauffe~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Go to Princess Thomasine~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      36
+SType        0
+SVnum       1404
+Name        crystaldragon~
+Desc        You are given the task of slaying the crystal dragon in the ice castle.~
+Timelimit   0
+Level       0
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        slay the dragon~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to the man~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      37
+SType        0
+SVnum       1653
+Name        sandblade~
+Desc        Barkel gives you a quest for a legendary object that can slay the sandgod.~
+Timelimit   0
+Level       100
+Chapters    9
+#NCHAPTER
+Number      1
+Desc        Get the tail of a giant sand rat!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Meet Barkel's friend in Paleon!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Bring the amulet of the magi to Mealie!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Find the shade in the Spider Swamp!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Bring Sardial the blood-red shield!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Find the jeweled man in dakar!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        Bring the ring Draupnir to Danzis!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      8
+Desc        Connect the pieces and bring it to Barkel!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      9
+Desc        Bring Barkel a blackened dagger!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      38
+SType        0
+SVnum       1752
+Name        shadowgod~
+Desc        (null)~
+Timelimit   0
+Level       70
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        Get the signet of light!~
+Timelimit   0
+Level       70
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Bring Barzak a cleric's holy symbol!~
+Timelimit   0
+Level       70
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Kill the Shadow God, Darznan, with the aid of your~
+Timelimit   0
+Level       70
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      40
+SType        0
+SVnum       1851
+Name        cvillageprove~
+Desc        Prothesus has a task for you before you can enter Ixious Village.
+That requires a short bamboo spear that can only be obtained on Vila
+Island.  Is this Centaur crazy?
+~
+Timelimit   0
+Level       25
+Chapters    1
+#NCHAPTER
+Number      1
+Desc        Bring Prothesus the bamboo spear!~
+Timelimit   0
+Level       25
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      43
+SType        0
+SVnum       1855
+Name        shadethief~
+Desc        (null)~
+Timelimit   0
+Level       60
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        Find the thief!~
+Timelimit   0
+Level       60
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Kill the thief!~
+Timelimit   0
+Level       60
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Bring the thief's dagger to Xzerlos!~
+Timelimit   0
+Level       60
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      44
+SType        0
+SVnum       2215
+Name        bonewraith~
+Desc        (null)~
+Timelimit   0
+Level       95
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Slay the bone wraith!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Bring the orb to Opalzal~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      45
+SType        0
+SVnum       18600
+Name        tower~
+Desc        The fabled gnome tower is set with ingenious gnome ways to prevent
+entry to the enemy figure out what it takes to enter and you will
+have the ability to enter the tower at will.
+~
+Timelimit   0
+Level       0
+Chapters    5
+#NCHAPTER
+Number      1
+Desc        Get a white gnome statue~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Connect white statue with left mount.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Get the gold statue~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Connect the gold statue with the right mount.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Connect halves, unlock door, go south.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      46
+SType        0
+SVnum       2222
+Name        drowarena~
+Desc        &cYou have been challenged to compete in the arena. You can continue along 
+this quest every 10-level interval.&D 
+Type &WSAY I'M READY FOR THE FIGHT!&c to continue with this quest.
+~
+Timelimit   0
+Level       10
+Chapters    20
+#NCHAPTER
+Number      1
+Desc        Fight the first competitor!~
+Timelimit   0
+Level       10
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        get the reward~
+Timelimit   0
+Level       10
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Get the next challenge!~
+Timelimit   0
+Level       10
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        get the reward~
+Timelimit   0
+Level       20
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Beat the next challenge!~
+Timelimit   0
+Level       20
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        get the reward~
+Timelimit   0
+Level       30
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        Beat the next challenge!~
+Timelimit   0
+Level       30
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      8
+Desc        get the reward~
+Timelimit   0
+Level       40
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      9
+Desc        Beat the next challenge!~
+Timelimit   0
+Level       40
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      10
+Desc        get the reward~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      11
+Desc        Beat the next challenge!~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      12
+Desc        get the reward~
+Timelimit   0
+Level       60
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      13
+Desc        Beat the next challenge!~
+Timelimit   0
+Level       60
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      14
+Desc        get the reward~
+Timelimit   0
+Level       70
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      15
+Desc        Beat the next challenge!~
+Timelimit   0
+Level       70
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      16
+Desc        get the reward~
+Timelimit   0
+Level       80
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      17
+Desc        Beat the next challenge!~
+Timelimit   0
+Level       80
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      18
+Desc        get the reward~
+Timelimit   0
+Level       90
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      19
+Desc        Beat the next challenge!~
+Timelimit   0
+Level       90
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      20
+Desc        get the reward~
+Timelimit   0
+Level       100
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      47
+SType        0
+SVnum       4863
+Name        frogfind~
+Desc        (null)~
+Timelimit   0
+Level       50
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Go to the pond and call for Franklin.~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return Franklin to Aurane.~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      48
+SType        0
+SVnum       6117
+Name        pixie~
+Desc        You have been sent on a quest to obtain 10 corpses of an Air Pixie. Bring 
+them back to Froghemoth. 
+~
+Timelimit   0
+Level       5
+Chapters    10
+#NCHAPTER
+Number      1
+Desc        Kill Sprite give corpse Froghemoth~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Kill Sprite give corpse Froghemoth~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Kill Sprite give corpse Froghemoth~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Kill Sprite give corpse Froghemoth~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Kill Sprite give corpse Froghemoth~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Kill Sprite give corpse Froghemoth~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        Kill Sprite give corpse Froghemoth~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      8
+Desc        Kill Sprite give corpse Froghemoth~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      9
+Desc        Kill Sprite give corpse Froghemoth~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      10
+Desc        Kill Sprite give corpse Froghemoth~
+Timelimit   0
+Level       5
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      49
+SType        0
+SVnum       18610
+Name        bear~
+Desc        The elder has a dangerous task for you.  Within the caverns of the gnome
+tower a mighty cave bear lurks.  It must be found and destroyed.  The
+elder will reward you for the job.
+~
+Timelimit   0
+Level       0
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Find and kill the cave bear!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return the corpse to Elder.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      50
+SType        0
+SVnum       18613
+Name        timemachine~
+Desc        Inside the Gnome Tower, you have met an Inventor named Yarla.
+Help Gnome Inventor Yarla get her time machine working.  She needs a cog
+that is located in the Bowels of the Citadel.
+~
+Timelimit   0
+Level       0
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Find me the missing Cog from Bowels of Citadel~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Give the cog to the gnome inventor~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      51
+SType        0
+SVnum       2311
+Name        drowmaster~
+Desc        Help the drow master find his missing, possibly lost assistant. Make you'r 
+way through twists and turns through the caverns of newunderdark to 
+recover her safely. Tip, for those that do not have track, a shovel or 
+another type of digging tool may assist you in your endeavor. 
+~
+Timelimit   0
+Level       0
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        Find the apprentice!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Bring the apprentice a magic mushroom!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Give the drow master the message from the apprenti~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      52
+SType        0
+SVnum       11212
+Name        foxden1~
+Desc        Go to Blademaster Jardal in Dakar to do the quest that brings you to Fox 
+Den he needs 10 redfox clerymen slayed. 
+~
+Timelimit   0
+Level       20
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Kill 10 redfox clergyman.~
+Timelimit   0
+Level       0
+KAmount     10
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to Jardal~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      53
+SType        0
+SVnum       11212
+Name        foxden2~
+Desc        Go to Blademaster Jardal in Dakar to do the quest that brings you to Fox
+Den he needs 10 redfox guards slayed.~
+Timelimit   0
+Level       25
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Kill 10 redfox guards~
+Timelimit   0
+Level       0
+KAmount     10
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to Jardal~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      54
+SType        0
+SVnum       11212
+Name        foxden3~
+Desc        Go to Blademaster Jardal in Dakar to do the quest that brings you to Fox
+Den he needs 10 redfox watchfoxes slayed.~
+Timelimit   0
+Level       30
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Kill 10 watchfoxes.~
+Timelimit   0
+Level       0
+KAmount     10
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to Jardal~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      55
+SType        0
+SVnum       11212
+Name        foxden4~
+Desc        Go to Blademaster Jardal in Dakar to do the quest that brings you to Fox
+Den he needs 10 assassin foxes slayed.~
+Timelimit   0
+Level       35
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Kill 10 assassin foxes.~
+Timelimit   0
+Level       0
+KAmount     10
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to Jardal~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      56
+SType        0
+SVnum       11212
+Name        lanoir~
+Desc        Go to Blademaster Jardal in Dakar to do the quest that brings you to Fox
+Den he needs Lanoir the King of the Fox fantics slayed.~
+Timelimit   0
+Level       40
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Go kill Lanoir!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Report back to Jardal!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      57
+SType        0
+SVnum       11200
+Name        dakarsalamanders~
+Desc        Kill salamanders for Sktael in Dakar.
+~
+Timelimit   0
+Level       0
+Chapters    11
+#NCHAPTER
+Number      1
+Desc        Hunt the salamanders 0/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Hunt the salamanders 1/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Hunt the salamanders 2/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Hunt the salamanders 3/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Hunt the salamanders 4/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Hunt the salamanders 5/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        Hunt the salamanders 6/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      8
+Desc        Hunt the salamanders 7/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      9
+Desc        Hunt the salamanders 8/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      10
+Desc        Hunt the salamanders 9/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      11
+Desc        Report back to Sktael!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      58
+SType        0
+SVnum       16026
+Name        enthunt~
+Desc        Marlana asks you collect tree branches from ent trees in the Golden 
+Peninsula area.~
+Timelimit   0
+Level       70
+Chapters    10
+#NCHAPTER
+Number      1
+Desc        Bring Marlana tree branches 0/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Bring Marlana tree branches 1/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Bring Marlana tree branches 2/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Bring Marlana tree branches 3/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Bring Marlana tree branches 4/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Bring Marlana tree branches 5/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        Bring Marlana tree branches 6/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      8
+Desc        Bring Marlana tree branches 7/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      9
+Desc        Bring Marlana tree branches 8/10~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      10
+Desc        Bring Marlana the last branch!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      59
+SType        0
+SVnum       4853
+Name        shrinetreasure~
+Desc        You are asked by Sarador to investigate the shrine of Mnera.~
+Timelimit   0
+Level       50
+Chapters    7
+#NCHAPTER
+Number      1
+Desc        Investigate the shrine of Mnera.~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Tell Sarador about the &csliding panel&D.~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Investigate Keeper Rastaba's quarters.~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Give the Mnera blueprints to Sarador.~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        &cPush&D the statues in the shrine, open the crypt~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Retrieve the treasure from the crypt!~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        Give the Eye of Mnera to Sarador!~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      60
+SType        0
+SVnum       10808
+Name        sandlizards~
+Desc        Annaliea from Jarnyth asks you to kill 10 sandlizards for her in the Golden 
+Peninsula area.~
+Timelimit   0
+Level       75
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Kill 10 sandlizards.~
+Timelimit   0
+Level       0
+KAmount     10
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to Annaliea~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      61
+SType        0
+SVnum       11202
+Name        jellyfish~
+Desc        Gyakas in Dakar City asks you to kill 10 jellyfish from the Golden Peninsula 
+area for him. ~
+Timelimit   0
+Level       80
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Kill 10 jellyfish.~
+Timelimit   0
+Level       0
+KAmount     10
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to Gyakas~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      62
+SType        0
+SVnum       16026
+Name        tigerspiderhunt~
+Desc        Marlana in Paleon City asks you to kill 10 tigerspiders for her from the 
+Golden Peninsula area.~
+Timelimit   0
+Level       80
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Kill 10 Tigersharks~
+Timelimit   0
+Level       0
+KAmount     10
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to Marlana~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      63
+SType        0
+SVnum       16026
+Name        hugetigerspiderhunt~
+Desc        Marlana in Paleon City asks you to kill a huge tigerspider for her from the
+Golden Peninsula area.~
+Timelimit   0
+Level       95
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Kill the huge tiger spider!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Report back to Marlana!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      64
+SType        0
+SVnum       60000
+Name        nomad~
+Desc        The nomad is seeking a family heirloom.  The mummy who has it, is not
+wanting to give it back within the Ancient Ruins.  Kill the mummy
+and give the amulet back to the nomad for a reward.
+~
+Timelimit   0
+Level       65
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        Find the Mummy~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Get the amulet~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Return the amulet to Nomad~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      65
+SType        0
+SVnum       4862
+Name        fruitcart~
+Desc        Adarist is having problems with his wagon.  He needs you to find parts
+to fix it.  Also with the parts Adarist needs his wrench.
+~
+Timelimit   0
+Level       50
+Chapters    4
+#NCHAPTER
+Number      1
+Desc        Adarist wants you to get wagon parts from Scilara.~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to Adarist with the wagon parts.~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Adarist has lost his wrench, find one in shrine.~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        You've found the wrench! Give it to Adarist.~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      66
+SType        0
+SVnum       6117
+Name        froghemoth~
+Desc        You have been employed by an Imp to hunt down and kill Froghemoth. Return 
+to the Imp upon completion of this task. 
+~
+Timelimit   0
+Level       23
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Kill Froghemoth!~
+Timelimit   0
+Level       23
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to the Imp.~
+Timelimit   0
+Level       23
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      67
+SType        0
+SVnum       2756
+Name        sheriff~
+Desc        The sheriff and his group of adventurers have stumbled upon a dark evil
+within a tunneled fortress.  Help the sheriff discover what the evil is
+and put a stop to it.
+~
+Timelimit   0
+Level       2
+Chapters    5
+#NCHAPTER
+Number      1
+Desc        Enter tunnel find missing scout~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Give the scout's corpse to Sheriff~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Find out what the purpose of the evil is.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Return to the sheriff~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Kill the necromancer~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      68
+SType        0
+SVnum       2900
+Name        bankga~
+Desc        The Orc Chieftain has some tasks for you.  Help him with the infestation
+of dwarves in the mines, and he will reward you.
+~
+Timelimit   0
+Level       10
+Chapters    6
+#NCHAPTER
+Number      1
+Desc        Find and Kill the Dwarf Scout~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Give corpse Orc Chieftain~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Find and poison the dwarven water well.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Return to the Orc Chieftain~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Find and Kill the Dwarf Leader~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Give corpse Orc Chieftain~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      69
+SType        0
+SVnum       2913
+Name        kora~
+Desc        The Dwarven Leader has some tasks for you to perform.  Help him out with
+the infestation of orcs within the mine, and he will reward you.
+~
+Timelimit   0
+Level       10
+Chapters    6
+#NCHAPTER
+Number      1
+Desc        Find and Kill the Orc Scout~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Give corpse Dwarf Leader~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Find and destroy the orc supply room.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Return to the Dwarven Leader~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Find and Kill the Orc Chieftain~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Give corpse Dwarven Leader~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      70
+SType        0
+SVnum       35601
+Name        curiner~
+Desc        Venture into the school of shadows.  While in the school slay Curiners former
+students to begin the cleansing of the school.
+~
+Timelimit   0
+Level       60
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        Defeat The Priestess~
+Timelimit   0
+Level       60
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Defeat The Priest~
+Timelimit   0
+Level       60
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Kill Ravaged Ghoul, Bring Curiner its token!~
+Timelimit   0
+Level       60
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      71
+SType        2
+SVnum       35647
+Name        scale~
+Desc        Curiner asks you to help cleanse the school of shadows.  He gives you a
+scale back that allows you access to the locations you need to do this.
+~
+Timelimit   0
+Level       90
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        Take the scale to Curiner~
+Timelimit   0
+Level       90
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Hearing the story~
+Timelimit   0
+Level       90
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Defeat the boss in the catacombs~
+Timelimit   0
+Level       90
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      72
+SType        0
+SVnum       11515
+Name        jarolan~
+Desc        Help the spirit of Jarolan rest peacefully, by completing his tasks
+in the Apprentice's Garden.
+~
+Timelimit   0
+Level       70
+Chapters    6
+#NCHAPTER
+Number      1
+Desc        Find Jarolan's staff~
+Timelimit   0
+Level       70
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to Jarolan~
+Timelimit   0
+Level       70
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Kill the Ant Queen~
+Timelimit   0
+Level       70
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Return to Jarolan~
+Timelimit   0
+Level       70
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Kill the Apprentice Necromancer~
+Timelimit   0
+Level       70
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Return to Jarolan~
+Timelimit   0
+Level       70
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      73
+SType        0
+SVnum       18000
+Name        spirits~
+Desc        Regius Fonds has a proud ghost that requires your help in collecting
+items.  The ghost will reward you if you drop all the tokens before it.
+~
+Timelimit   0
+Level       93
+Chapters    4
+#NCHAPTER
+Number      1
+Desc        Give pebble to the air spirit~
+Timelimit   0
+Level       93
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        drop air token at square~
+Timelimit   0
+Level       93
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Get pearl from green fish for earth spirit~
+Timelimit   0
+Level       93
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Get coral from Aisalylia for the fire spirit.~
+Timelimit   0
+Level       93
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      74
+SType        0
+SVnum       35715
+Name        courbin~
+Desc        Mayor Courbin of Accura City has a problem with the thieves guild and 
+needs your help solving the problem.  It could get a little dangerous.
+~
+Timelimit   0
+Level       80
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        Remove the lesser intruders in the caves~
+Timelimit   0
+Level       80
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Remove the Matron of the moles influence~
+Timelimit   0
+Level       80
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Return to mayor Courbin~
+Timelimit   0
+Level       80
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      75
+SType        0
+SVnum       35715
+Name        thieves~
+Desc        Moles have infiltrated the caves to the north of Accura.  They have
+gone in and remade them to fit themselves.  Mayor Courbin will gladly
+put anyone that would be willing to help on the path of this quest.
+~
+Timelimit   0
+Level       80
+Chapters    5
+#NCHAPTER
+Number      1
+Desc        Slay the thief~
+Timelimit   0
+Level       80
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Assassinate the assassin!~
+Timelimit   0
+Level       80
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Return to Mayor Courbin~
+Timelimit   0
+Level       80
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Slay the leader~
+Timelimit   0
+Level       80
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Return to Courbin!~
+Timelimit   0
+Level       80
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      76
+SType        0
+SVnum       11542
+Name        sarikan~
+Desc        Aid Sarikan with his research in Terizak Forest.
+~
+Timelimit   0
+Level       65
+Chapters    6
+#NCHAPTER
+Number      1
+Desc        Bring Sarikan the corpse of a wolf cub~
+Timelimit   0
+Level       65
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Bring Sarikan the corpse of a male wolf~
+Timelimit   0
+Level       65
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Bring Sarikan the corpse of a female wolf~
+Timelimit   0
+Level       65
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Bring Sarikan the corpse of a wildcat~
+Timelimit   0
+Level       65
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Bring Sarikan the corpse of a bear~
+Timelimit   0
+Level       65
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Bring Sarikan the corpse of Xanou~
+Timelimit   0
+Level       65
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      77
+SType        0
+SVnum       1122
+Name        missions~
+Desc        Your in a clan now!  The clan leader has given you a set of missions that
+are designed to help improve your equipment as you complete them.
+~
+Timelimit   0
+Level       10
+Chapters    10
+#NCHAPTER
+Number      1
+Desc        Find and kill off goblins in Merchant Discovery!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Get goblin gear and return to leader.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Find MT. Cierra ~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Get gold orb from Gaevas, return to leader~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Enter Durdun Find Red Dragon~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Get the gear and return to leader~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        Find Jarynth Village path that leads to Dragon~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      8
+Desc        Get the gear and return to leader~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      9
+Desc        Kill the Gold Dragon for gear~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      10
+Desc        Return to leader~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      78
+SType        0
+SVnum       4003
+Name        halcyon~
+Desc        Hala has asked you to join the clan Halcyon. You are to go to several 
+people and ask for and bring back their responses. Hopefully, they respond 
+favorably. 
+~
+Timelimit   0
+Level       10
+Chapters    4
+#NCHAPTER
+Number      1
+Desc        Deliver message to Kyfaek~
+Timelimit   0
+Level       10
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return with message for Hala~
+Timelimit   0
+Level       10
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Deliver message to Blademaster Symon~
+Timelimit   0
+Level       10
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Return with message for Hala~
+Timelimit   0
+Level       10
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      79
+SType        0
+SVnum       35610
+Name        mausoleum~
+Desc        Duiran will allow you into the Mausoleum but only after you complete every
+quest in Accura City, the wand of wonder quest in Regius, all the quests
+in School of Shadows, and once you present him with the Shadowblade, a 
+diamond necklace, and a wand of wonders. 
+~
+Timelimit   0
+Level       90
+Chapters    4
+#NCHAPTER
+Number      1
+Desc        preparations ~
+Timelimit   0
+Level       90
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        wand of wonders~
+Timelimit   0
+Level       90
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Iufns' Shadowblade~
+Timelimit   0
+Level       90
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        A diamond to focus~
+Timelimit   0
+Level       90
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      80
+SType        0
+SVnum       16034
+Name        karnae~
+Desc        The Throng had just invaded Paleon and overrun the defenses. Sadly, before 
+moving on, they poisoned a number of things, including poor Karnae's 
+daughter. Karnae pleads to all travels to travel to Annaliea in Jarynth 
+and return with a potion to save his daughter's life. 
+~
+Timelimit   0
+Level       40
+Chapters    4
+#NCHAPTER
+Number      1
+Desc        Travel to Annaliea in Jarynth~
+Timelimit   0
+Level       40
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Retrieve the stolen potion~
+Timelimit   0
+Level       40
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Return potion to Annaliea~
+Timelimit   0
+Level       40
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Bring finished potion to Karnae~
+Timelimit   0
+Level       40
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      81
+SType        0
+SVnum       13102
+Name        eltorin~
+Desc        Find the lost heir and return him to his father in the Cliffs of Green.
+~
+Timelimit   0
+Level       70
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Give the doll to the right child~
+Timelimit   0
+Level       70
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Take Eltorin to his father~
+Timelimit   0
+Level       70
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      82
+SType        0
+SVnum       13103
+Name        merisa~
+Desc        Help Merisa of Cliffs of Green gain vengeance on those in Harpy Terrace.
+~
+Timelimit   0
+Level       70
+Chapters    1
+#NCHAPTER
+Number      1
+Desc        Bring Merisa Harpy eggs or fledglings~
+Timelimit   0
+Level       70
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      84
+SType        0
+SVnum       6351
+Name        rift~
+Desc        Magician Kolak has asked for you help in closing the rift in which 
+            demons from another world are pouring into our world!~
+Timelimit   0
+Level       100
+Chapters    6
+#NCHAPTER
+Number      1
+Desc        Kill 50 Death Knights!~
+Timelimit   0
+Level       10
+KAmount     50
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Examine the rift.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Dismember all Demons!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Return to the death priest!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Kill the King of Dreadlords!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Return to the Rift!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      86
+SType        0
+SVnum       13299
+Name        fairetoken~
+Desc        Collect 10 Faire Tokens for Lady Zyrian.
+~
+Timelimit   0
+Level       10
+Chapters    10
+#NCHAPTER
+Number      1
+Desc        9 Faire Tokens to go!~
+Timelimit   0
+Level       10
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        8 Faire Tokens to go!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        7 Faire Tokens to go!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        6 Faire Tokens to go!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        5 Faire Tokens to go!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        4 Faire Tokens to go!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        3 Faire Tokens to go!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      8
+Desc        2 Faire Tokens to go!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      9
+Desc        1 Faire Token to go!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      10
+Desc        say I have turned in all my Faire Tokens.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      87
+SType        0
+SVnum       35801
+Name        pixadale~
+Desc        Pixadale Mayor has a problem with vermin over running his city.  The
+Mayor asks for your help in exterminating his problems.
+~
+Timelimit   0
+Level       50
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        Get a tooth from a dusty rat.~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        slay the large rat~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Return to the Pixadale mayor~
+Timelimit   0
+Level       50
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      88
+SType        0
+SVnum       2766
+Name        intimidation~
+Desc        The Village of Shatare is in a state of fear.  Something or someone
+has everyone in the village tight lipped and afraid for their lives.
+Help find the cause, and eliminate it.
+~
+Timelimit   0
+Level       0
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        Inform the Sheriff~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Find a Goblin~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Give goblin corpse Sheriff~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      89
+SType        0
+SVnum       10057
+Name        throngtower~
+Desc        In order to enter the Throng Training Tower, you must first complete a 
+series of tasks as outlined by poor Dakat.
+~
+Timelimit   0
+Level       60
+Chapters    4
+#NCHAPTER
+Number      1
+Desc        Kill and bring back elven corpse from Loramoor~
+Timelimit   0
+Level       60
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Kill and bring back dwarven corpse from Manoake~
+Timelimit   0
+Level       60
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Kill and bring back human corpse from Paleon~
+Timelimit   0
+Level       60
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Kill the centaur in Ixious Village in A General St~
+Timelimit   0
+Level       60
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      90
+SType        2
+SVnum       10080
+Name        towerboss~
+Desc        In order to gain an audience with Tinuvial the Tormentor, each floor of 
+the tower must be cleared, separately. Tinuvial the Tormentor is the head 
+figure in this Throng Training Tower. To kill him would be a significant 
+blow to Tanzean'al's efforts in reclaiming the realm. 
+~
+Timelimit   0
+Level       80
+Chapters    4
+#NCHAPTER
+Number      1
+Desc        Clear tower of skeletons.~
+Timelimit   0
+Level       80
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Clear tower of ghouls.~
+Timelimit   0
+Level       80
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Clear tower of zombies.~
+Timelimit   0
+Level       80
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Clear tower of lichs.~
+Timelimit   0
+Level       80
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      91
+SType        0
+SVnum       30395
+Name        prisonbreak~
+Desc        Crusader Ryan has failed his task of keeping the princess safe in
+the 9 Planes of Hell.  Crusader Ryan is dying, but has a last request
+that you help rescue the princess from the Prison.
+~
+Timelimit   0
+Level       90
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Find the Princess~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Get the Princess to the Boatman~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      92
+SType        2
+SVnum       29011
+Name        gunthis~
+Desc        Find the pieces wood and metal to make a holy symbol and return them
+to gunthis spirit.~
+Timelimit   0
+Level       5
+Chapters    3
+#NCHAPTER
+Number      1
+Desc        Find a piece of Metal~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Find a scrap of Wood~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Return the holy symbol closet~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      93
+SType        0
+SVnum       27027
+Name        ranger~
+Desc        An injured ranger hiding out in Kirwood Swamp is looking for revenge 
+against the frogman and asks for your help in collecting their ears.
+~
+Timelimit   0
+Level       2
+Chapters    1
+#NCHAPTER
+Number      1
+Desc        Gather 10 frogman ears~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      94
+SType        0
+SVnum       8300
+Name        kaesaw~
+Desc        Kaesaw an Ancient Silver Dragon finds he is too large to get the green
+emerald gems that he needs for his lair.  Kaesaw asks you to help him
+get one from the giant fire ant queen.
+~
+Timelimit   0
+Level       10
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Find fire ant queen~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return with emerald gem stone~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      95
+SType        0
+SVnum       8304
+Name        gydashei~
+Desc        Fire Giant Gydashei has lost his wrist bands to a giant flier fire ant.
+Gydashei asks you to help him get them back.
+~
+Timelimit   0
+Level       10
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Find the winged fire ants~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Give wrist band to Gydashei~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      96
+SType        0
+SVnum       16110
+Name        paleon~
+Desc        The quest to attain citizenship with Paleon City.~
+Timelimit   0
+Level       10
+Chapters    7
+SkipChapters
+#NCHAPTER
+Number      1
+Desc        Go to Blade Master Symon.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Goto the Armor Repair Shop Keeper.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Find Magician Kolak in Loramoor City.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Head north to Ice Cavern find the Dwarf. ~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Find Gladan's Hammer.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Return to Blacksmith Tier.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        Tell Captain Karnae citizen.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      97
+SType        0
+SVnum       11223
+Name        dakar~
+Desc        The quest to attain citizenship with Dakar City.
+~
+Timelimit   0
+Level       10
+Chapters    6
+SkipChapters
+#NCHAPTER
+Number      1
+Desc        Go to Blade Master Jardal.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Go to Sergeant Durgas in the Black Tower.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Go to Yochlol report Durgas mercy.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Find a secret entrance into Paleon City~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Return to Sergeant Durgas~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        skipped chapter~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      98
+SType        0
+SVnum       35529
+Name        forbidden~
+Desc        The quest to attain citizenship with Forbidden City.
+~
+Timelimit   0
+Level       10
+Chapters    6
+SkipChapters
+#NCHAPTER
+Number      1
+Desc        Go to Battle Master Ulave.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Make a Decision.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Go back to Scholar Thakkel.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Find the Blind Man in Jarynth Village.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Make a Decision.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Return to Scholar Thakkel.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      99
+SType        0
+SVnum       11218
+Name        changeofheart~
+Desc        The traitor quest to attempt to prove to another city that your wicked
+ways are over, and you are not a spy.~
+Timelimit   0
+Level       10
+Chapters    4
+#NCHAPTER
+Number      1
+Desc        Kill 50 goblins~
+Timelimit   0
+Level       0
+KAmount     50
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to Vaskar.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Steal plans from Black Tower.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Give plans Vaskar.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      100
+SType        0
+SVnum       16056
+Name        malevolentheart~
+Desc        The traitor quest to attempt to prove to another city that your old
+ways are over, and you are not a spy.~
+Timelimit   0
+Level       10
+Chapters    4
+#NCHAPTER
+Number      1
+Desc        Kill 50 gnomes.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to Bunk.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Steal plans from Blade Master Symon.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Return to Bunk.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      101
+SType        0
+SVnum       0
+Name        stoneheart~
+Desc        The traitor quest to attempt to prove to another city that your old
+ways are over, and you are not a spy.~
+Timelimit   0
+Level       10
+Chapters    4
+#NCHAPTER
+Number      1
+Desc        kill 50 wilderness mobs.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Steal.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Return to.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      102
+SType        0
+SVnum       8371
+Name        rats~
+Desc        Vestage needs your help in Paleon Sewer killing rats.  Help him out
+and he will surely reward you.
+~
+Timelimit   0
+Level       3
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Kill 50 sewer rats for Vestage.~
+Timelimit   0
+Level       0
+KAmount     50
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to Vestage.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      103
+SType        0
+SVnum       8371
+Name        giantrats~
+Desc        Vestage needs your help in Paleon Sewer killing giant rats.  Help him out
+and he will surely reward you.
+~
+Timelimit   0
+Level       3
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Kill 50 giant rats for Vestage.~
+Timelimit   0
+Level       0
+KAmount     50
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to Vestage.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      104
+SType        0
+SVnum       8721
+Name        drats~
+Desc        Gordak needs your help killing rats in Dakar Sewer help him, and he
+may reward you.
+~
+Timelimit   0
+Level       3
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Kill 50 sewer rats for Gordak.~
+Timelimit   0
+Level       0
+KAmount     50
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to Gordak.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      105
+SType        0
+SVnum       8721
+Name        dgiantrats~
+Desc        Gordak needs your help killing giant rats in Dakar Sewer help him, and he
+may reward you.
+~
+Timelimit   0
+Level       3
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Kill 50 giant rats for Gordak.~
+Timelimit   0
+Level       0
+KAmount     50
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Return to Gordak.~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      106
+SType        0
+SVnum       1959
+Name        shield~
+Desc        A turn coat acolyte offers advice on how to find a legendary shield
+that will allow you to defeat the red dragon.  Durdun city will be
+free of it's fiery curse.
+~
+Timelimit   0
+Level       20
+Chapters    4
+#NCHAPTER
+Number      1
+Desc        Find the snow flake medallion~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Find the Dragon Eye Lens~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        Find the hand straps~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        With Shield Kill Dragon!~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      107
+SType        0
+SVnum       1959
+Name        falsegod~
+Desc        An acolyte in informs you of a red dragon that is pretending to be a
+God, and terrorizing the area.
+~
+Timelimit   0
+Level       20
+Chapters    1
+#NCHAPTER
+Number      1
+Desc        Find and Kill Red Dragon~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      108
+SType        0
+SVnum       35527
+Name        lair~
+Desc        So, you want to have a lair of your own? Great! Simply complete the tasks 
+within this quest to get the item needed for doing so. Then, you'll need 
+to give that item to a STAFF member so they can set it up for you. Please 
+have in mind what you want your lair room description to be, or the STAFF 
+member can create it for you without your input. 
+~
+Timelimit   0
+Level       20
+Chapters    2
+#NCHAPTER
+Number      1
+Desc        Find and kill Sir Kaisaran.~
+Timelimit   0
+Level       20
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Bring the crest back to Jarkore.~
+Timelimit   0
+Level       20
+KAmount     0
+#CHAPEND
+End
+
+#NQUEST
+Number      109
+SType        0
+SVnum       500
+Name        drama~
+Desc        The drama quest is designed to teach players about the aspects of roleplaying.~
+Timelimit   0
+Level       0
+Chapters    8
+#NCHAPTER
+Number      1
+Desc        Find the actress Lhanna~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      2
+Desc        Tell Nathan Good Morrow My Lord~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      3
+Desc        tell Lhanna My Lady thou art fairer then the stars~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      4
+Desc        Find Kith to learn about the story~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      5
+Desc        Find the battlefield memorial by Manoake City~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      6
+Desc        Return to Kith in the Theatre~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      7
+Desc        Ask Faran about rprate by saying rprate~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+#NCHAPTER
+Number      8
+Desc        Return to actress Lhanna~
+Timelimit   0
+Level       0
+KAmount     0
+#CHAPEND
+End
+
+#END

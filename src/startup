@@ -1,0 +1,68 @@
+#! /bin/csh -f
+
+#Set the executable name.
+set exec = 6dragons
+
+#Set the logfile directory.
+set log_dir = log
+
+#Set the port number.
+if("$1" != "") then
+  set port = $1
+else
+  set port = 4100
+endif
+
+# Change to previous directory.
+cd ../
+
+#Set limits.
+nohup
+nice
+unlimit stack
+unlimit core
+if(-e shutdown.txt) rm -f shutdown.txt
+
+while(1)
+    #Check if already running.
+    set matches = `netstat -an | grep ".$port " | grep -c LISTEN`
+    if($matches >= 1) then
+      #Already running
+      echo Something is already running on port: $port.
+      exit 0
+    endif
+
+    #If you want to have logs in a different directory, change the 'set logfile' line to 
+    #reflect the directory name.
+    set index = 1000
+    while (1)
+      set logfile = $log_dir/$index.log
+      if(! -e $logfile) break
+        @ index++
+        #Keep the log files from taking up all the space.
+        if($index > 1010) then
+          rm $log_dir/*.log
+          set index = 1000
+        endif
+    end
+
+    #Record starting time.
+    date > $logfile
+
+    #Run program.
+    ./$exec $port >&! $logfile
+
+    #Delete this out if no gdb.
+    if(-e core) then
+      date > crash/$index.crash
+      gdb -batch -x src/commands ../$exec core >> crash/$index.crash
+      #rm -f core
+    endif
+
+    #Restart, giving old connections a chance to die.
+    if(-e system/shutdown.dat) then
+      "system/shutdown.dat found exiting startup" >> $logfile
+      exit 0
+    endif
+    sleep 5
+end

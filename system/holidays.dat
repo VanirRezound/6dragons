@@ -1,0 +1,50 @@
+#HOLIDAY
+Name		paleon festival~
+Announce	The paleon festival comes to town.~
+Month		4
+Day		15
+End
+
+#HOLIDAY
+Name		winter solstice~
+Announce	The winter solstice heralds the shortest day of the year and the middle of winter.~
+Month		14
+Day		21
+End
+
+#HOLIDAY
+Name		summer solstice~
+Announce	The summer solstice heralds the longest day of the year and the middle of summer.~
+Month		6
+Day		22
+End
+
+#HOLIDAY
+Name		harvesting festival~
+Announce	Citizens carry their hoes and plowshares to the fields for the harvesting festival today.~
+Month		9
+Day		8
+End
+
+#HOLIDAY
+Name		planting festival~
+Announce	Farmers plant great sacks of seed and grain for the planting festival today.~
+Month		2
+Day		1
+End
+
+#HOLIDAY
+Name		night of the red moon~
+Announce	A round, blood tainted disc rises above the horizon to take the moon~
+Month		16
+Day		28
+End
+
+#HOLIDAY
+Name		day of the gods~
+Announce	The heavens rumble as the day of the gods commences.~
+Month		8
+Day		6
+End
+
+#END

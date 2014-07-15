@@ -1,0 +1,427 @@
+Name           Thief~
+Filename       Thief~
+Class          6
+Starting       1
+AttrPrime      1
+AttrSecond     0
+AttrDeficient  0
+Races          260118
+Nocombo        0
+Reclass        0 0 0
+Skilladept     90
+Thac0          18
+Thac32         6
+Hpmin          14
+Hpmax          18
+ManaMin        6
+ManaMax        10
+Expbase        1150
+Craftbase        0
+Resist         0
+Suscept        0
+Skill 'detect hidden' 12 95
+Skill 'detect invis' 9 95
+Skill 'feline grace' 13 95
+Skill 'invis' 8 95
+Skill 'nosight' 31 95
+Skill 'scry' 24 95
+Skill 'sleep' 14 95
+Skill 'aid' 1 95
+Skill 'arteries' 95 95
+Skill 'assassinate' 100 95
+Skill 'backstab' 3 99
+Skill 'behead' 10 95
+Skill 'circle' 40 95
+Skill 'climb' 1 95
+Skill 'cook' 1 95
+Skill 'daze' 90 95
+Skill 'disarm' 9 95
+Skill 'dodge' 7 95
+Skill 'doorbash' 20 95
+Skill 'dual wield' 24 95
+Skill 'dye' 1 95
+Skill 'endurance' 31 80
+Skill 'enhanced damage' 2 95
+Skill 'ensnare' 50 90
+Skill 'feign death' 30 50
+Skill 'festering wound' 3 95
+Skill 'fifth attack' 65 85
+Skill 'find weakness' 55 95
+Skill 'flint fire' 1 30
+Skill 'fourth attack' 45 95
+Skill 'gouge' 17 95
+Skill 'hide' 2 99
+Skill 'judo' 15 40
+Skill 'kick' 1 95
+Skill 'lore' 15 35
+Skill 'low blow' 2 95
+Skill 'mount' 1 95
+Skill 'parry' 6 95
+Skill 'peek' 2 95
+Skill 'pick lock' 4 95
+Skill 'poison weapon' 75 95
+Skill 'punch' 37 95
+Skill 'restring' 10 95
+Skill 'scan' 1 95
+Skill 'search' 1 95
+Skill 'second attack' 10 95
+Skill 'sidestep' 30 95
+Skill 'sixth attack' 85 75
+Skill 'slam' 69 95
+Skill 'slice' 1 95
+Skill 'smuggle' 60 95
+Skill 'sneak' 3 99
+Skill 'steal' 2 95
+Skill 'swim' 1 95
+Skill 'third attack' 25 95
+Skill 'track' 10 95
+Skill 'tumble' 10 60
+Skill 'untangle' 10 95
+Skill '1h axes' 1 95
+Skill '1h long blades' 1 95
+Skill '1h short blades' 1 95
+Skill 'archery' 1 95
+Skill 'blowguns' 4 95
+Skill 'flails' 1 95
+Skill 'centaurian' 1 95
+Skill 'common' 1 95
+Skill 'demonic' 1 95
+Skill 'dwarven' 1 95
+Skill 'elven' 1 95
+Skill 'gnomish' 1 95
+Skill 'goblic' 1 95
+Skill 'hobbit' 1 95
+Skill 'infernal' 1 95
+Skill 'ogrian' 1 95
+Skill 'orcish' 1 95
+Skill 'pixish' 1 95
+Skill 'silent' 1 95
+Skill 'trollese' 1 95
+Title
+Man~
+Woman~
+Title
+Thief~
+Thief~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

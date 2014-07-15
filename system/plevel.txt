@@ -1,0 +1,279 @@
+Sun Nov 14 18:29:35 2010: Kenshi obtained level 9!&D
+Sun Nov 14 20:08:40 2010: Kenshi obtained level 10!&D
+Sun Nov 14 20:25:39 2010: Azazel obtained level 3!&D
+Sun Nov 14 21:54:23 2010: Silvain obtained level 3!&D
+Sun Nov 14 22:04:56 2010: Azazel obtained level 4!&D
+Sun Nov 14 22:41:51 2010: Kenshi obtained level 11!&D
+Mon Nov 15 01:12:32 2010: Shido obtained level 15!&D
+Mon Nov 15 01:35:01 2010: Shido obtained level 16!&D
+Mon Nov 15 01:40:57 2010: Shido obtained level 17!&D
+Mon Nov 15 01:50:41 2010: Shido obtained level 18!&D
+Mon Nov 15 01:57:37 2010: Shido obtained level 19!&D
+Mon Nov 15 03:45:49 2010: Shido obtained level 20!&D
+Mon Nov 15 04:13:01 2010: Shido obtained level 21!&D
+Mon Nov 15 04:14:54 2010: Ceatrix obtained level 46!&D
+Mon Nov 15 04:42:54 2010: Shido obtained level 22!&D
+Mon Nov 15 04:51:21 2010: Shido obtained level 23!&D
+Mon Nov 15 04:58:34 2010: Shido obtained level 24!&D
+Mon Nov 15 05:18:25 2010: Shido obtained level 25!&D
+Mon Nov 15 05:44:52 2010: Shido obtained level 26!&D
+Mon Nov 15 05:48:10 2010: Ceatrix obtained level 47!&D
+Mon Nov 15 06:06:18 2010: Shido obtained level 27!&D
+Mon Nov 15 09:19:01 2010: Aeliana obtained level 45!&D
+Mon Nov 15 09:51:35 2010: Ceatrix obtained level 48!&D
+Mon Nov 15 19:41:14 2010: Shido obtained level 28!&D
+Mon Nov 15 20:25:29 2010: Shido obtained level 29!&D
+Wed Nov 17 08:10:59 2010: Ceatrix obtained level 49!&D
+Thu Nov 18 00:10:05 2010: Kenshi obtained level 12!&D
+Thu Nov 18 00:10:22 2010: Shido obtained level 30!&D
+Thu Nov 18 00:22:25 2010: Kenshi obtained level 13!&D
+Thu Nov 18 00:33:30 2010: Vladaar started Double Experience Hour
+Thu Nov 18 00:55:45 2010: Shido obtained level 31! (Double)&D
+Thu Nov 18 01:33:30 2010: System ended Double Experience Hour
+Thu Nov 18 05:57:27 2010: Ashenshugar obtained level 8!&D
+Thu Nov 18 05:59:21 2010: Ashenshugar obtained level 9!&D
+Thu Nov 18 06:03:28 2010: Ashenshugar obtained level 10!&D
+Thu Nov 18 06:05:05 2010: Ashenshugar obtained level 11!&D
+Thu Nov 18 06:06:23 2010: Ashenshugar obtained level 12!&D
+Thu Nov 18 06:06:53 2010: Ashenshugar obtained level 13!&D
+Thu Nov 18 06:11:54 2010: Ashenshugar obtained level 14!&D
+Thu Nov 18 06:16:33 2010: Ashenshugar obtained level 15!&D
+Thu Nov 18 06:21:30 2010: Ashenshugar obtained level 16!&D
+Thu Nov 18 06:23:10 2010: Ashenshugar obtained level 17!&D
+Thu Nov 18 06:23:55 2010: Ashenshugar obtained level 18!&D
+Thu Nov 18 06:27:14 2010: Ashenshugar obtained level 19!&D
+Thu Nov 18 06:27:56 2010: Ashenshugar obtained level 20!&D
+Thu Nov 18 06:29:08 2010: Ashenshugar obtained level 21!&D
+Thu Nov 18 06:33:29 2010: Aeliana obtained level 46!&D
+Thu Nov 18 06:35:29 2010: Ashenshugar obtained level 22!&D
+Thu Nov 18 06:45:35 2010: Ashenshugar obtained level 23!&D
+Thu Nov 18 06:51:15 2010: Ashenshugar obtained level 24!&D
+Thu Nov 18 06:56:41 2010: Ashenshugar obtained level 25!&D
+Thu Nov 18 10:48:32 2010: Aeliana obtained level 47!&D
+Thu Nov 18 12:45:29 2010: Ashenshugar obtained level 26!&D
+Thu Nov 18 13:49:46 2010: Ascher obtained level 3!&D
+Fri Nov 19 00:33:02 2010: Llehctim obtained level 6!&D
+Fri Nov 19 14:16:00 2010: Sarkai obtained level 59!&D
+Sat Nov 20 12:08:42 2010: Sarkai obtained level 60!&D
+Sun Nov 21 06:26:59 2010: Azazel obtained level 5!&D
+Sun Nov 21 06:43:48 2010: Vladaar started Double Experience Hour
+Sun Nov 21 07:43:48 2010: System ended Double Experience Hour
+Sun Nov 21 11:26:29 2010: Sarkai obtained level 61!&D
+Sun Nov 21 22:51:18 2010: Azazel obtained level 6!&D
+Sun Nov 21 23:28:52 2010: Shido obtained level 32!&D
+Mon Nov 22 17:34:46 2010: Brizan obtained level 3!&D
+Mon Nov 22 17:39:49 2010: Brizan obtained level 4!&D
+Tue Nov 23 04:23:42 2010: Vladaar started Double Experience Hour
+Tue Nov 23 04:24:13 2010: Ceatrix obtained level 50! (Double)&D
+Tue Nov 23 05:23:42 2010: System ended Double Experience Hour
+Wed Nov 24 11:45:14 2010: Sarkai obtained level 62!&D
+Thu Nov 25 01:20:29 2010: Karith obtained level 3!&D
+Thu Nov 25 09:40:14 2010: Aeliana obtained level 48!&D
+Thu Nov 25 13:26:51 2010: Sarkai obtained level 63!&D
+Thu Nov 25 13:29:22 2010: Aurin started Double Experience Hour
+Thu Nov 25 14:26:35 2010: Sarkai obtained level 64! (Double)&D
+Thu Nov 25 14:29:22 2010: System ended Double Experience Hour
+Thu Nov 25 14:29:44 2010: Aurin started Double Experience Hour
+Thu Nov 25 14:29:49 2010: Aurin started Happy Hour
+Thu Nov 25 15:29:44 2010: System ended Double Experience Hour
+Thu Nov 25 15:29:49 2010: System ended Happy Hour
+Fri Nov 26 01:55:53 2010: Petras obtained level 3!&D
+Fri Nov 26 04:01:24 2010: Yori obtained level 3!&D
+Fri Nov 26 04:02:29 2010: Aurin started Double Experience Hour
+Fri Nov 26 04:20:53 2010: Yori obtained level 4! (Double)&D
+Fri Nov 26 04:25:06 2010: Yori obtained level 5! (Double)&D
+Fri Nov 26 04:29:03 2010: Ergo obtained level 3! (Double)&D
+Fri Nov 26 04:47:22 2010: Ergo obtained level 4! (Double)&D
+Fri Nov 26 04:48:58 2010: Yori obtained level 6! (Double)&D
+Fri Nov 26 05:00:53 2010: Ergo obtained level 5! (Double)&D
+Fri Nov 26 05:02:29 2010: System ended Double Experience Hour
+Fri Nov 26 07:24:07 2010: Ergo obtained level 6!&D
+Fri Nov 26 09:04:25 2010: Yori obtained level 7!&D
+Fri Nov 26 09:52:33 2010: Aurin started Double Experience Hour
+Fri Nov 26 10:52:33 2010: System ended Double Experience Hour
+Fri Nov 26 10:54:14 2010: Yori obtained level 8!&D
+Fri Nov 26 13:02:51 2010: Sarkai obtained level 65!&D
+Fri Nov 26 19:19:59 2010: Yori obtained level 9!&D
+Fri Nov 26 21:26:04 2010: Dahhan obtained level 3!&D
+Fri Nov 26 21:32:23 2010: Dahhan obtained level 4!&D
+Fri Nov 26 22:14:28 2010: Keegan obtained level 3!&D
+Fri Nov 26 22:31:04 2010: Keegan obtained level 4!&D
+Fri Nov 26 23:11:51 2010: Keegan obtained level 5!&D
+Fri Nov 26 23:14:51 2010: Keegan obtained level 6!&D
+Sat Nov 27 01:26:10 2010: Dritz obtained level 3!&D
+Sat Nov 27 01:44:40 2010: Dritz obtained level 4!&D
+Sat Nov 27 03:52:24 2010: Dritz obtained level 5!&D
+Sat Nov 27 13:19:15 2010: Sarkai obtained level 66!&D
+Sat Nov 27 13:21:05 2010: Aurin started Double Experience Hour
+Sat Nov 27 13:21:09 2010: Aurin started Happy Hour
+Sat Nov 27 13:32:45 2010: Yori obtained level 10! (Double) (HappyHour)&D
+Sat Nov 27 14:21:05 2010: System ended Double Experience Hour
+Sat Nov 27 14:21:09 2010: System ended Happy Hour
+Sat Nov 27 16:04:27 2010: Kasim obtained level 3!&D
+Sat Nov 27 16:12:20 2010: Kasim obtained level 4!&D
+Sat Nov 27 16:40:35 2010: Yori obtained level 11!&D
+Sat Nov 27 17:22:53 2010: Yori obtained level 12!&D
+Sat Nov 27 23:55:02 2010: Yori obtained level 13!&D
+Sun Nov 28 06:02:58 2010: Dritz obtained level 3!&D
+Sun Nov 28 06:08:08 2010: Dritz obtained level 4!&D
+Sun Nov 28 06:27:58 2010: Dritz obtained level 5!&D
+Sun Nov 28 06:39:18 2010: Dritz obtained level 6!&D
+Sun Nov 28 07:40:36 2010: Dritz obtained level 7!&D
+Sun Nov 28 16:54:59 2010: Dritz obtained level 8!&D
+Sun Nov 28 23:12:38 2010: Erindyl obtained level 3!&D
+Mon Nov 29 02:11:45 2010: Garbert obtained level 3!&D
+Mon Nov 29 02:15:01 2010: Kenshi obtained level 14!&D
+Mon Nov 29 02:20:59 2010: Garbert obtained level 4!&D
+Mon Nov 29 02:33:03 2010: Garbert obtained level 5!&D
+Mon Nov 29 02:50:24 2010: Yori obtained level 14!&D
+Mon Nov 29 06:59:51 2010: Aurin started Double Experience Hour
+Mon Nov 29 07:08:05 2010: Yori obtained level 15! (Double)&D
+Mon Nov 29 07:14:40 2010: Aurin started Happy Hour
+Mon Nov 29 07:47:58 2010: Yori obtained level 16! (Double) (HappyHour)&D
+Mon Nov 29 07:52:03 2010: Garbert obtained level 6! (Double) (HappyHour)&D
+Mon Nov 29 07:59:51 2010: System ended Double Experience Hour
+Mon Nov 29 08:14:40 2010: System ended Happy Hour
+Mon Nov 29 10:16:24 2010: Emily obtained level 23!&D
+Mon Nov 29 10:35:40 2010: Emily obtained level 24!&D
+Mon Nov 29 11:53:57 2010: Aurin started Double Experience Hour
+Mon Nov 29 12:53:57 2010: System ended Double Experience Hour
+Tue Nov 30 00:22:55 2010: Yori obtained level 17!&D
+Tue Nov 30 08:06:18 2010: Sarai obtained level 3!&D
+Tue Nov 30 08:32:57 2010: Abelglais obtained level 3!&D
+Tue Nov 30 08:55:25 2010: Abelglais obtained level 4!&D
+Tue Nov 30 21:57:26 2010: Garbert obtained level 7!&D
+Tue Nov 30 23:10:57 2010: Nebloti obtained level 3!&D
+Wed Dec  1 00:18:39 2010: Abelglais obtained level 5!&D
+Wed Dec  1 03:21:29 2010: Abelglais obtained level 6!&D
+Wed Dec  1 03:48:32 2010: Emily obtained level 25!&D
+Thu Dec  2 07:13:30 2010: Vladaar started Double Experience Hour
+Thu Dec  2 08:13:30 2010: System ended Double Experience Hour
+Thu Dec  2 09:19:53 2010: Aeliana obtained level 49!&D
+Thu Dec  2 09:33:25 2010: Garbert obtained level 8!&D
+Thu Dec  2 09:37:06 2010: Garbert obtained level 9!&D
+Thu Dec  2 11:17:38 2010: Zaiden obtained level 3!&D
+Thu Dec  2 23:05:17 2010: Zaiden obtained level 4!&D
+Fri Dec  3 22:52:51 2010: Vladaar started Double Experience Hour
+Fri Dec  3 23:11:02 2010: Aeliana obtained level 50! (Double)&D
+Fri Dec  3 23:52:51 2010: System ended Double Experience Hour
+Sat Dec  4 04:38:24 2010: Aurin started Double Experience Hour
+Sat Dec  4 05:38:24 2010: System ended Double Experience Hour
+Sat Dec  4 07:12:13 2010: Sarkai obtained level 67!&D
+Sat Dec  4 16:00:23 2010: Cthulhu obtained level 3!&D
+Sat Dec  4 16:30:31 2010: Cthulhu obtained level 4!&D
+Sat Dec  4 18:26:10 2010: Cthulhu obtained level 5!&D
+Sat Dec  4 20:45:44 2010: Arianna obtained level 3!&D
+Sat Dec  4 20:50:50 2010: Aurin started Double Experience Hour
+Sat Dec  4 20:50:52 2010: Aurin started Happy Hour
+Sat Dec  4 21:50:50 2010: System ended Double Experience Hour
+Sat Dec  4 21:50:52 2010: System ended Happy Hour
+Sun Dec  5 02:52:53 2010: Sarkai obtained level 68!&D
+Sun Dec  5 03:37:16 2010: Emily obtained level 26!&D
+Sun Dec  5 04:26:20 2010: Draconis obtained level 6!&D
+Sun Dec  5 05:06:34 2010: Emily obtained level 27!&D
+Sun Dec  5 05:17:16 2010: Aurin started Double Experience Hour
+Sun Dec  5 06:17:16 2010: System ended Double Experience Hour
+Sun Dec  5 06:17:29 2010: Aurin started Double Experience Hour
+Sun Dec  5 06:37:14 2010: Emily obtained level 28! (Double)&D
+Sun Dec  5 07:17:29 2010: System ended Double Experience Hour
+Sun Dec  5 08:12:09 2010: Emily obtained level 29!&D
+Sun Dec  5 08:44:51 2010: Emily obtained level 30!&D
+Sun Dec  5 09:25:21 2010: Sarkai obtained level 69!&D
+Sun Dec  5 11:23:43 2010: Emily obtained level 31!&D
+Sun Dec  5 19:02:23 2010: Shimmergloom obtained level 3!&D
+Sun Dec  5 19:20:39 2010: Shimmergloom obtained level 4!&D
+Sun Dec  5 21:30:28 2010: Shimmergloom obtained level 5!&D
+Sun Dec  5 23:27:52 2010: Shimmergloom obtained level 6!&D
+Mon Dec  6 01:27:35 2010: Aurin started Double Experience Hour
+Mon Dec  6 01:51:24 2010: Shimmergloom obtained level 7! (Double)&D
+Mon Dec  6 02:27:35 2010: System ended Double Experience Hour
+Mon Dec  6 02:43:52 2010: Aurin started Double Experience Hour
+Mon Dec  6 03:13:56 2010: Aeliana obtained level 51! (Double)&D
+Mon Dec  6 03:43:52 2010: System ended Double Experience Hour
+Mon Dec  6 04:15:17 2010: Emily obtained level 32!&D
+Mon Dec  6 05:45:44 2010: Emily obtained level 33!&D
+Mon Dec  6 06:11:42 2010: Aurin started Double Experience Hour
+Mon Dec  6 06:12:13 2010: Zaiden obtained level 5! (Double)&D
+Mon Dec  6 06:50:36 2010: Emily obtained level 34! (Double)&D
+Mon Dec  6 06:59:33 2010: Aeliana obtained level 52! (Double)&D
+Mon Dec  6 07:11:42 2010: System ended Double Experience Hour
+Mon Dec  6 07:18:35 2010: Zaiden obtained level 6!&D
+Mon Dec  6 08:19:04 2010: Cali obtained level 3!&D
+Mon Dec  6 08:28:41 2010: Cali obtained level 4!&D
+Mon Dec  6 08:58:22 2010: Cali obtained level 5!&D
+Mon Dec  6 09:23:19 2010: Cali obtained level 6!&D
+Mon Dec  6 09:54:45 2010: Cali obtained level 3!&D
+Mon Dec  6 10:35:53 2010: Emily obtained level 35!&D
+Mon Dec  6 12:00:58 2010: Aurin started Crafting Double Experience Hour
+Mon Dec  6 13:00:58 2010: System ended Crafting Double Experience Hour
+Mon Dec  6 19:45:09 2010: Zaiden obtained level 7!&D
+Mon Dec  6 23:17:58 2010: Rouge obtained level 8!&D
+Tue Dec  7 00:00:49 2010: Rouge obtained level 9!&D
+Tue Dec  7 04:26:35 2010: Rouge obtained level 10!&D
+Tue Dec  7 11:22:36 2010: Emily obtained level 36!&D
+Tue Dec  7 18:27:01 2010: Arianne obtained level 3!&D
+Tue Dec  7 18:51:09 2010: Arianne obtained level 4!&D
+Wed Dec  8 00:04:40 2010: Shenlong obtained level 11!&D
+Wed Dec  8 03:42:09 2010: Shenlong obtained level 12!&D
+Wed Dec  8 22:33:47 2010: Aurin started Double Experience Hour
+Wed Dec  8 23:33:47 2010: System ended Double Experience Hour
+Thu Dec  9 03:57:10 2010: Aeliana obtained level 53!&D
+Thu Dec  9 04:59:30 2010: Emily obtained level 37!&D
+Thu Dec  9 05:29:49 2010: Emily obtained level 38!&D
+Thu Dec  9 06:11:56 2010: Aeliana obtained level 54!&D
+Thu Dec  9 06:18:42 2010: Aurin started Double Experience Hour
+Thu Dec  9 06:18:43 2010: Aurin started Crafting Double Experience Hour
+Thu Dec  9 07:18:42 2010: System ended Double Experience Hour
+Thu Dec  9 07:18:43 2010: System ended Crafting Double Experience Hour
+Thu Dec  9 11:28:39 2010: Lillith obtained level 3!&D
+Thu Dec  9 11:38:52 2010: Lillith obtained level 4!&D
+Thu Dec  9 22:05:01 2010: Lillith obtained level 5!&D
+Thu Dec  9 23:31:14 2010: Lidia obtained level 3!&D
+Thu Dec  9 23:42:57 2010: Aurin started Double Experience Hour
+Thu Dec  9 23:43:24 2010: Lidia obtained level 4! (Double)&D
+Thu Dec  9 23:49:11 2010: Bracius obtained level 13! (Double)&D
+Thu Dec  9 23:50:54 2010: Lidia obtained level 5! (Double)&D
+Fri Dec 10 00:11:42 2010: Bracius obtained level 14! (Double)&D
+Fri Dec 10 00:15:29 2010: Lidia obtained level 6! (Double)&D
+Fri Dec 10 00:42:57 2010: System ended Double Experience Hour
+Fri Dec 10 00:49:02 2010: Lidia obtained level 7!&D
+Fri Dec 10 01:18:04 2010: Ashton obtained level 3!&D
+Fri Dec 10 01:34:28 2010: Lidia obtained level 8!&D
+Fri Dec 10 01:53:14 2010: Ashten obtained level 3!&D
+Fri Dec 10 01:58:04 2010: Ashten obtained level 4!&D
+Fri Dec 10 02:21:59 2010: Ashten obtained level 5!&D
+Fri Dec 10 02:27:54 2010: Emily obtained level 39!&D
+Fri Dec 10 02:55:15 2010: Ashten obtained level 6!&D
+Fri Dec 10 03:02:32 2010: Aurin started Double Experience Hour
+Fri Dec 10 03:18:41 2010: Ashten obtained level 7! (Double)&D
+Fri Dec 10 03:31:23 2010: Aeliana obtained level 55! (Double)&D
+Fri Dec 10 03:40:36 2010: Kasim obtained level 3! (Double)&D
+Fri Dec 10 03:40:51 2010: Kasim obtained level 4! (Double)&D
+Fri Dec 10 03:41:22 2010: Kasim obtained level 5! (Double)&D
+Fri Dec 10 03:44:15 2010: Ashten obtained level 8! (Double)&D
+Fri Dec 10 03:49:15 2010: Lidia obtained level 9! (Double)&D
+Fri Dec 10 03:59:34 2010: Kasim obtained level 6! (Double)&D
+Fri Dec 10 04:02:32 2010: System ended Double Experience Hour
+Fri Dec 10 04:16:09 2010: Lidia obtained level 10!&D
+Fri Dec 10 04:56:36 2010: Lillith obtained level 3!&D
+Fri Dec 10 04:58:17 2010: Lillith obtained level 4!&D
+Fri Dec 10 05:07:03 2010: Lillith obtained level 5!&D
+Fri Dec 10 05:09:09 2010: Lidia obtained level 11!&D
+Fri Dec 10 05:23:24 2010: Ashten obtained level 9!&D
+Fri Dec 10 05:24:04 2010: Lillith obtained level 6!&D
+Fri Dec 10 05:29:46 2010: Korel obtained level 3!&D
+Fri Dec 10 05:30:27 2010: Korel obtained level 4!&D
+Fri Dec 10 05:32:08 2010: Korel obtained level 5!&D
+Fri Dec 10 05:45:27 2010: Lillith obtained level 7!&D
+Fri Dec 10 05:47:51 2010: Korel obtained level 6!&D
+Fri Dec 10 05:52:27 2010: Lillith obtained level 8!&D
+Fri Dec 10 05:52:48 2010: Aeliana obtained level 56!&D
+Fri Dec 10 06:35:48 2010: Ashten obtained level 10!&D
+Fri Dec 10 06:43:51 2010: Korel obtained level 7!&D
+Fri Dec 10 08:13:40 2010: Sarkai obtained level 70!&D
+Fri Dec 10 08:20:45 2010: Kian obtained level 3!&D
+Fri Dec 10 08:23:25 2010: Ashten obtained level 11!&D
+Fri Dec 10 08:45:49 2010: Kian obtained level 4!&D
+Fri Dec 10 09:05:10 2010: Ashten obtained level 12!&D
+Fri Dec 10 09:40:45 2010: Ashten obtained level 13!&D
+Fri Dec 10 10:14:05 2010: Sarkai obtained level 71!&D

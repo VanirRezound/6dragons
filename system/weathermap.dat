@@ -1,0 +1,729 @@
+#CELL		  0 0
+Climate     64
+Hemisphere  1
+State       100 51 0 70 47 26 -100 -100
+End
+
+#CELL		  1 0
+Climate     64
+Hemisphere  1
+State       100 42 25 33 85 28 -100 -100
+End
+
+#CELL		  2 0
+Climate     4
+Hemisphere  2
+State       86 52 54 37 73 63 100 35
+End
+
+#CELL		  3 0
+Climate     0
+Hemisphere  0
+State       29 58 56 93 32 81 100 -30
+End
+
+#CELL		  4 0
+Climate     0
+Hemisphere  0
+State       38 46 61 72 10 81 40 12
+End
+
+#CELL		  5 0
+Climate     0
+Hemisphere  0
+State       30 63 72 63 6 84 17 -7
+End
+
+#CELL		  6 0
+Climate     0
+Hemisphere  0
+State       28 100 64 83 6 85 0 10
+End
+
+#CELL		  7 0
+Climate     0
+Hemisphere  0
+State       22 34 69 95 11 80 -1 -31
+End
+
+#CELL		  8 0
+Climate     0
+Hemisphere  0
+State       32 0 60 77 20 79 -74 -31
+End
+
+#CELL		  9 0
+Climate     4
+Hemisphere  2
+State       54 22 54 37 49 51 -47 -15
+End
+
+#CELL		  10 0
+Climate     4
+Hemisphere  2
+State       57 100 61 43 54 53 -7 -27
+End
+
+#CELL		  0 1
+Climate     64
+Hemisphere  1
+State       100 100 16 42 78 40 76 -100
+End
+
+#CELL		  1 1
+Climate     64
+Hemisphere  1
+State       100 71 33 35 86 58 -100 -100
+End
+
+#CELL		  2 1
+Climate     4
+Hemisphere  2
+State       79 40 63 40 66 56 100 28
+End
+
+#CELL		  3 1
+Climate     0
+Hemisphere  0
+State       33 79 56 84 31 82 100 42
+End
+
+#CELL		  4 1
+Climate     0
+Hemisphere  0
+State       39 97 62 77 9 72 39 19
+End
+
+#CELL		  5 1
+Climate     0
+Hemisphere  0
+State       43 12 64 54 2 78 7 9
+End
+
+#CELL		  6 1
+Climate     0
+Hemisphere  0
+State       23 99 75 84 3 87 -24 -15
+End
+
+#CELL		  7 1
+Climate     0
+Hemisphere  0
+State       45 86 58 58 8 72 -28 -28
+End
+
+#CELL		  8 1
+Climate     4
+Hemisphere  2
+State       55 100 65 38 36 60 -82 -7
+End
+
+#CELL		  9 1
+Climate     4
+Hemisphere  2
+State       51 17 58 42 57 67 -97 -45
+End
+
+#CELL		  10 1
+Climate     4
+Hemisphere  2
+State       50 35 62 51 68 70 -40 -13
+End
+
+#CELL		  0 2
+Climate     2
+Hemisphere  1
+State       1 72 26 0 100 114 52 56
+End
+
+#CELL		  1 2
+Climate     256
+Hemisphere  1
+State       100 35 44 50 66 67 87 100
+End
+
+#CELL		  2 2
+Climate     4
+Hemisphere  2
+State       73 9 60 38 47 63 100 84
+End
+
+#CELL		  3 2
+Climate     0
+Hemisphere  0
+State       26 0 58 100 24 79 100 74
+End
+
+#CELL		  4 2
+Climate     0
+Hemisphere  0
+State       23 82 66 100 7 84 24 3
+End
+
+#CELL		  5 2
+Climate     0
+Hemisphere  0
+State       29 93 73 84 6 82 -8 -21
+End
+
+#CELL		  6 2
+Climate     0
+Hemisphere  0
+State       42 82 62 87 4 78 -11 -21
+End
+
+#CELL		  7 2
+Climate     0
+Hemisphere  0
+State       24 40 63 87 10 79 -30 27
+End
+
+#CELL		  8 2
+Climate     4
+Hemisphere  2
+State       54 50 70 31 23 62 -67 48
+End
+
+#CELL		  9 2
+Climate     4
+Hemisphere  2
+State       66 0 62 36 79 64 -58 95
+End
+
+#CELL		  10 2
+Climate     4
+Hemisphere  2
+State       72 16 60 33 100 57 -40 83
+End
+
+#CELL		  0 3
+Climate     0
+Hemisphere  0
+State       24 92 56 97 30 89 -57 96
+End
+
+#CELL		  1 3
+Climate     256
+Hemisphere  1
+State       94 53 60 26 66 71 100 100
+End
+
+#CELL		  2 3
+Climate     0
+Hemisphere  0
+State       37 15 57 78 22 82 46 100
+End
+
+#CELL		  3 3
+Climate     0
+Hemisphere  0
+State       27 96 64 77 15 80 62 31
+End
+
+#CELL		  4 3
+Climate     0
+Hemisphere  0
+State       31 100 67 45 7 81 10 -3
+End
+
+#CELL		  5 3
+Climate     0
+Hemisphere  0
+State       43 100 60 75 4 82 12 6
+End
+
+#CELL		  6 3
+Climate     0
+Hemisphere  0
+State       29 20 66 51 10 86 -16 14
+End
+
+#CELL		  7 3
+Climate     0
+Hemisphere  0
+State       32 78 74 91 8 80 -26 44
+End
+
+#CELL		  8 3
+Climate     0
+Hemisphere  0
+State       30 36 60 73 13 81 -22 53
+End
+
+#CELL		  9 3
+Climate     0
+Hemisphere  0
+State       33 27 58 71 27 79 -47 100
+End
+
+#CELL		  10 3
+Climate     0
+Hemisphere  0
+State       23 80 59 96 28 80 1 68
+End
+
+#CELL		  0 4
+Climate     0
+Hemisphere  0
+State       24 45 64 86 13 86 -30 43
+End
+
+#CELL		  1 4
+Climate     0
+Hemisphere  0
+State       29 0 55 63 11 87 5 31
+End
+
+#CELL		  2 4
+Climate     0
+Hemisphere  0
+State       29 59 64 86 10 83 34 20
+End
+
+#CELL		  3 4
+Climate     0
+Hemisphere  0
+State       20 90 71 98 5 88 17 2
+End
+
+#CELL		  4 4
+Climate     0
+Hemisphere  0
+State       31 13 72 70 5 84 19 -4
+End
+
+#CELL		  5 4
+Climate     0
+Hemisphere  0
+State       23 53 72 92 4 86 1 -3
+End
+
+#CELL		  6 4
+Climate     0
+Hemisphere  0
+State       41 68 63 63 2 78 20 18
+End
+
+#CELL		  7 4
+Climate     0
+Hemisphere  0
+State       34 88 71 63 3 83 -9 16
+End
+
+#CELL		  8 4
+Climate     0
+Hemisphere  0
+State       39 100 69 83 5 81 -12 14
+End
+
+#CELL		  9 4
+Climate     0
+Hemisphere  0
+State       19 53 71 99 7 82 -1 32
+End
+
+#CELL		  10 4
+Climate     0
+Hemisphere  0
+State       35 7 66 74 8 83 8 14
+End
+
+#CELL		  0 5
+Climate     0
+Hemisphere  0
+State       29 91 59 87 5 82 10 5
+End
+
+#CELL		  1 5
+Climate     0
+Hemisphere  0
+State       40 74 60 52 9 83 -17 13
+End
+
+#CELL		  2 5
+Climate     0
+Hemisphere  0
+State       43 100 62 50 7 80 -5 -4
+End
+
+#CELL		  3 5
+Climate     0
+Hemisphere  0
+State       30 24 65 79 3 78 -21 -6
+End
+
+#CELL		  4 5
+Climate     0
+Hemisphere  0
+State       23 11 71 78 4 84 -5 7
+End
+
+#CELL		  5 5
+Climate     0
+Hemisphere  0
+State       30 9 64 76 2 82 15 20
+End
+
+#CELL		  6 5
+Climate     0
+Hemisphere  0
+State       33 17 73 64 3 77 -1 13
+End
+
+#CELL		  7 5
+Climate     0
+Hemisphere  0
+State       27 60 76 98 4 81 14 3
+End
+
+#CELL		  8 5
+Climate     0
+Hemisphere  0
+State       30 43 71 65 5 81 -5 -11
+End
+
+#CELL		  9 5
+Climate     0
+Hemisphere  0
+State       41 35 66 75 4 82 -9 20
+End
+
+#CELL		  10 5
+Climate     0
+Hemisphere  0
+State       28 60 77 90 6 79 4 8
+End
+
+#CELL		  0 6
+Climate     0
+Hemisphere  0
+State       32 69 63 87 4 81 2 3
+End
+
+#CELL		  1 6
+Climate     0
+Hemisphere  0
+State       34 55 68 58 3 83 -13 12
+End
+
+#CELL		  2 6
+Climate     0
+Hemisphere  0
+State       38 68 61 65 5 83 -28 18
+End
+
+#CELL		  3 6
+Climate     0
+Hemisphere  0
+State       23 58 65 74 2 83 11 11
+End
+
+#CELL		  4 6
+Climate     0
+Hemisphere  0
+State       35 34 79 88 3 81 -8 -1
+End
+
+#CELL		  5 6
+Climate     0
+Hemisphere  0
+State       38 100 70 100 2 72 -9 -14
+End
+
+#CELL		  6 6
+Climate     0
+Hemisphere  0
+State       23 71 70 83 3 82 -19 9
+End
+
+#CELL		  7 6
+Climate     0
+Hemisphere  0
+State       23 100 64 61 3 84 -5 16
+End
+
+#CELL		  8 6
+Climate     0
+Hemisphere  0
+State       28 92 65 63 6 79 -12 -3
+End
+
+#CELL		  9 6
+Climate     0
+Hemisphere  0
+State       29 4 67 65 6 81 17 -15
+End
+
+#CELL		  10 6
+Climate     0
+Hemisphere  0
+State       32 92 67 79 9 80 -7 7
+End
+
+#CELL		  0 7
+Climate     0
+Hemisphere  0
+State       26 38 68 76 3 86 -6 7
+End
+
+#CELL		  1 7
+Climate     0
+Hemisphere  0
+State       38 47 66 86 3 78 3 -10
+End
+
+#CELL		  2 7
+Climate     0
+Hemisphere  0
+State       36 83 63 58 2 82 -14 -13
+End
+
+#CELL		  3 7
+Climate     0
+Hemisphere  0
+State       34 100 70 100 2 83 -17 17
+End
+
+#CELL		  4 7
+Climate     0
+Hemisphere  0
+State       32 70 76 78 3 83 0 16
+End
+
+#CELL		  5 7
+Climate     0
+Hemisphere  0
+State       27 93 80 91 4 77 2 -2
+End
+
+#CELL		  6 7
+Climate     0
+Hemisphere  0
+State       36 9 75 86 2 82 14 -3
+End
+
+#CELL		  7 7
+Climate     0
+Hemisphere  0
+State       23 68 69 79 6 79 15 13
+End
+
+#CELL		  8 7
+Climate     0
+Hemisphere  0
+State       28 56 62 81 10 72 -9 3
+End
+
+#CELL		  9 7
+Climate     256
+Hemisphere  1
+State       100 9 74 12 39 60 -100 -100
+End
+
+#CELL		  10 7
+Climate     0
+Hemisphere  0
+State       27 0 59 74 17 70 35 -4
+End
+
+#CELL		  0 8
+Climate     0
+Hemisphere  0
+State       35 75 75 80 6 79 -1 0
+End
+
+#CELL		  1 8
+Climate     0
+Hemisphere  0
+State       20 15 72 99 6 83 5 -38
+End
+
+#CELL		  2 8
+Climate     0
+Hemisphere  0
+State       33 66 74 99 3 81 -11 9
+End
+
+#CELL		  3 8
+Climate     0
+Hemisphere  0
+State       35 56 74 80 5 78 1 -5
+End
+
+#CELL		  4 8
+Climate     0
+Hemisphere  0
+State       21 40 73 92 1 86 11 -12
+End
+
+#CELL		  5 8
+Climate     0
+Hemisphere  0
+State       20 62 69 70 3 86 -4 22
+End
+
+#CELL		  6 8
+Climate     0
+Hemisphere  0
+State       35 37 69 85 1 80 -11 9
+End
+
+#CELL		  7 8
+Climate     0
+Hemisphere  0
+State       28 0 67 81 5 77 12 -10
+End
+
+#CELL		  8 8
+Climate     1024
+Hemisphere  1
+State       53 15 70 37 12 58 -100 -88
+End
+
+#CELL		  9 8
+Climate     1024
+Hemisphere  1
+State       100 44 61 12 42 47 -100 -93
+End
+
+#CELL		  10 8
+Climate     1024
+Hemisphere  1
+State       96 31 57 14 47 39 -87 -94
+End
+
+#CELL		  0 9
+Climate     0
+Hemisphere  0
+State       36 71 62 99 16 79 -13 -56
+End
+
+#CELL		  1 9
+Climate     0
+Hemisphere  0
+State       36 43 62 72 13 78 94 -58
+End
+
+#CELL		  2 9
+Climate     0
+Hemisphere  0
+State       20 44 69 97 4 83 30 -19
+End
+
+#CELL		  3 9
+Climate     0
+Hemisphere  0
+State       33 36 67 69 3 81 -10 -15
+End
+
+#CELL		  4 9
+Climate     0
+Hemisphere  0
+State       34 1 68 62 1 82 2 -1
+End
+
+#CELL		  5 9
+Climate     0
+Hemisphere  0
+State       29 91 57 88 5 87 -14 -3
+End
+
+#CELL		  6 9
+Climate     0
+Hemisphere  0
+State       36 79 66 50 10 81 -2 2
+End
+
+#CELL		  7 9
+Climate     0
+Hemisphere  0
+State       34 39 62 77 7 79 -7 15
+End
+
+#CELL		  8 9
+Climate     1024
+Hemisphere  1
+State       49 66 61 34 16 57 -100 95
+End
+
+#CELL		  9 9
+Climate     1024
+Hemisphere  1
+State       66 9 53 20 32 32 -100 4
+End
+
+#CELL		  10 9
+Climate     1024
+Hemisphere  1
+State       100 39 43 19 35 19 -92 -91
+End
+
+#CELL		  0 10
+Climate     4
+Hemisphere  0
+State       36 66 54 29 79 62 100 -100
+End
+
+#CELL		  1 10
+Climate     0
+Hemisphere  0
+State       29 24 56 61 16 81 69 13
+End
+
+#CELL		  2 10
+Climate     0
+Hemisphere  0
+State       29 47 59 59 6 85 2 -7
+End
+
+#CELL		  3 10
+Climate     0
+Hemisphere  0
+State       24 39 79 86 4 86 7 -22
+End
+
+#CELL		  4 10
+Climate     0
+Hemisphere  0
+State       31 18 67 84 1 76 15 12
+End
+
+#CELL		  5 10
+Climate     0
+Hemisphere  0
+State       30 45 68 86 4 82 12 -5
+End
+
+#CELL		  6 10
+Climate     0
+Hemisphere  0
+State       32 100 71 98 1 79 19 -8
+End
+
+#CELL		  7 10
+Climate     0
+Hemisphere  0
+State       34 58 70 90 4 82 17 -2
+End
+
+#CELL		  8 10
+Climate     0
+Hemisphere  0
+State       32 37 57 68 10 63 7 2
+End
+
+#CELL		  9 10
+Climate     1024
+Hemisphere  1
+State       99 58 55 16 31 36 -100 -89
+End
+
+#CELL		  10 10
+Climate     1024
+Hemisphere  1
+State       100 18 36 28 20 13 -91 -83
+End
+
+
+#END
+

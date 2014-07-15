@@ -1,0 +1,68 @@
+Text Confused on what to do? Type &WJOURNAL&D~
+Low  0
+High 1
+End
+Text Mud Tutorial a drag? Type &WHELP SKIP&D.~
+Low  0
+High 1
+End
+Text Not sure where to go?  Type &WHELP MAP&D.~
+Low  0
+High 1
+End
+Text It is better to flee than to die, you can autoset this with the &WWIMPY&c command See help wimpy.&D~
+Low  0
+High 5
+End
+Text Auto looting makes it alot easier. Type &WHELP CONFIG&D.~
+Low  0
+High 3
+End
+Text Tired of receiving hints? type &WCONFIG HINTS&c see help config for other options&D.~
+Low  0
+High 5
+End
+Text Do not know where to level? Find a Portal Stone and type &WACTIVATE&D.~
+Low  2
+High 5
+End
+Text Lost and want to find your home city?  You can type &wRECALL&c up to level 20&D.~
+Low  2
+High 5
+End
+Text Want to be a player killer? type &WDEADLY YES&c also read help pkill laws.&D~
+Low  0
+High 5
+End
+Text Lost in the wilderness? type &WHELP WILD&c to find help.~
+Low  0
+High 5
+End
+Text &cIf you ever get lost, just type &WHELP MAP&c that should keep you on your way.&D~
+Low  1
+High 10
+End
+Text &CCannot find a teacher, but a higher level player is online?  Type &WHELP TRAIN&C.~
+Low  0
+High 10
+End
+Text Earn Glory daily, Type &WHELP CONTRIBUTE&D.~
+Low  0
+High 10
+End
+Text Don't like the colors? Change them to how you like.  Type &WHELP COLOR&c.~
+Low  0
+High 10
+End
+Text &CTrying to figure out how many items you can equip and where? Type &WCONFIG SLOTS&C.&D~
+Low  0
+High 10
+End
+Text &CTrying to figure out how something works? Type &WHELP <word>&C.&D~
+Low  1
+High 10
+End
+Text &CAs a non-dragon or peaceful dragon, you may join a clan at level 10.  Type &WHELP CLAN&C.&D~
+Low  1
+High 10
+End

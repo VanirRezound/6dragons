@@ -1,0 +1,433 @@
+Name           Blue~
+Filename       Blue~
+Class          12
+Starting       1
+AttrPrime      1
+AttrSecond     5
+AttrDeficient  0
+Races          253951
+Nocombo        0
+Reclass        0 0 0
+Skilladept     95
+Thac0          18
+Thac32         10
+Hpmin          30
+Hpmax          40
+ManaMin        14
+ManaMax        22
+Expbase        2000
+Craftbase        0
+Resist         2
+Suscept        0
+Skill 'armor' 3 95
+Skill 'astral walk' 25 95
+Skill 'battlefield view' 30 95
+Skill 'continual light' 5 95
+Skill 'create fire' 3 95
+Skill 'detect magic' 9 95
+Skill 'dispel magic' 28 95
+Skill 'dragon wit' 14 95
+Skill 'dragonskin' 16 95
+Skill 'ethereal shield' 68 95
+Skill 'faerie fire' 3 95
+Skill 'faerie fog' 14 95
+Skill 'iceshield' 22 95
+Skill 'identify' 12 95
+Skill 'invis' 60 95
+Skill 'kindred strength' 11 95
+Skill 'knock' 17 95
+Skill 'know alignment' 8 95
+Skill 'locate object' 16 95
+Skill 'refresh' 5 95
+Skill 'sagacity' 14 95
+Skill 'sanctuary' 15 95
+Skill 'shadowform' 90 95
+Skill 'slow' 42 95
+Skill 'valiance' 34 95
+Skill 'weaken' 24 95
+Skill 'aid' 1 95
+Skill 'behead' 10 95
+Skill 'bite' 1 95
+Skill 'blizzard' 55 95
+Skill 'breathe' 3 95
+Skill 'claw' 1 95
+Skill 'climb' 1 95
+Skill 'courage' 50 95
+Skill 'deathroll' 45 95
+Skill 'devour' 1 95
+Skill 'dodge' 5 30
+Skill 'doorbash' 8 95
+Skill 'dye' 1 95
+Skill 'enhanced damage' 44 30
+Skill 'fifth attack' 85 85
+Skill 'find weakness' 43 40
+Skill 'fly home' 5 95
+Skill 'fourth attack' 65 95
+Skill 'glacial armor' 94 95
+Skill 'gust of wind' 30 75
+Skill 'gut' 5 95
+Skill 'human form' 20 95
+Skill 'lick' 7 75
+Skill 'meditate' 15 95
+Skill 'peek' 45 95
+Skill 'pluck' 25 95
+Skill 'rage' 10 99
+Skill 'scan' 1 95
+Skill 'search' 1 95
+Skill 'second attack' 7 95
+Skill 'slice' 1 95
+Skill 'smell' 8 95
+Skill 'snatch' 10 95
+Skill 'stomp' 20 95
+Skill 'strike' 15 70
+Skill 'submerged' 10 95
+Skill 'swat' 10 80
+Skill 'swim' 1 95
+Skill 'tail swipe' 15 50
+Skill 'third attack' 30 95
+Skill 'truesight' 10 95
+Skill 'wings' 1 100
+Skill 'celestial' 1 99
+Skill 'centaurian' 1 95
+Skill 'common' 1 99
+Skill 'demonic' 1 99
+Skill 'draconic' 1 95
+Skill 'dwarven' 1 99
+Skill 'elven' 1 99
+Skill 'gnomish' 1 99
+Skill 'goblic' 1 99
+Skill 'hobbit' 1 99
+Skill 'infernal' 1 99
+Skill 'ogrian' 1 99
+Skill 'orcish' 1 99
+Skill 'pixish' 1 99
+Skill 'silent' 1 95
+Skill 'trollese' 1 95
+Title
+Man~
+Woman~
+Title
+very young Blue Dragon~
+very young Blue Dragon~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

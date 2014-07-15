@@ -1,0 +1,440 @@
+Name           Mage~
+Filename       Mage~
+Class          2
+Starting       1
+AttrPrime      3
+AttrSecond     4
+AttrDeficient  0
+Races          254112
+Nocombo        0
+Reclass        0 0 0
+Skilladept     95
+Thac0          18
+Thac32         10
+Hpmin          8
+Hpmax          14
+ManaMin        16
+ManaMax        22
+Expbase        1150
+Craftbase        0
+Resist         0
+Suscept        0
+Skill 'acid breath' 63 95
+Skill 'astral walk' 24 95
+Skill 'battlefield view' 25 95
+Skill 'blaze' 20 95
+Skill 'chill' 22 95
+Skill 'continual light' 2 95
+Skill 'create fire' 4 95
+Skill 'create food' 5 95
+Skill 'create spring' 12 95
+Skill 'create water' 4 95
+Skill 'detect invis' 7 95
+Skill 'dispel magic' 19 95
+Skill 'enchant armor' 30 95
+Skill 'enchant weapon' 25 95
+Skill 'extradimensional portal' 20 95
+Skill 'faerie fire' 4 95
+Skill 'farsight' 24 95
+Skill 'fascinate' 14 50
+Skill 'feline grace' 6 95
+Skill 'fireshield' 42 95
+Skill 'fly' 7 95
+Skill 'freeze' 32 95
+Skill 'gas breath' 74 95
+Skill 'identify' 5 95
+Skill 'incinerate' 30 95
+Skill 'invis' 16 95
+Skill 'lightning strike' 8 95
+Skill 'locate object' 18 95
+Skill 'ogre vitality' 15 95
+Skill 'pass door' 22 95
+Skill 'portal' 34 95
+Skill 'scry' 24 95
+Skill 'shadowform' 88 95
+Skill 'static pulse' 2 95
+Skill 'summon' 48 95
+Skill 'transport' 50 95
+Skill 'valiance' 95 95
+Skill 'wizard eye' 14 95
+Skill 'wizard sight' 10 95
+Skill 'word of recall' 11 95
+Skill 'aid' 1 95
+Skill 'behead' 10 95
+Skill 'blizzard' 37 95
+Skill 'brew' 25 95
+Skill 'climb' 1 95
+Skill 'conjure elemental' 25 95
+Skill 'cook' 1 95
+Skill 'dehydrate' 10 95
+Skill 'dodge' 17 95
+Skill 'dual wield' 85 50
+Skill 'dye' 1 95
+Skill 'eldritch bolt' 92 50
+Skill 'flint fire' 1 30
+Skill 'fourth attack' 44 60
+Skill 'higher magic' 20 95
+Skill 'inferno' 35 95
+Skill 'kick' 1 95
+Skill 'meditate' 6 95
+Skill 'mount' 1 95
+Skill 'phase' 70 70
+Skill 'remember' 30 95
+Skill 'scan' 1 95
+Skill 'scribe' 49 100
+Skill 'search' 1 95
+Skill 'second attack' 10 80
+Skill 'shapeshift' 5 95
+Skill 'shield' 2 95
+Skill 'shrink' 10 95
+Skill 'slice' 1 95
+Skill 'spray lightning' 12 95
+Skill 'swim' 1 95
+Skill 'third attack' 28 70
+Skill 'trance' 29 95
+Skill 'wailing haze' 20 95
+Skill '1h short blades' 1 95
+Skill 'staves' 1 95
+Skill 'celestial' 1 99
+Skill 'centaurian' 1 95
+Skill 'common' 1 99
+Skill 'demonic' 1 99
+Skill 'dwarven' 1 99
+Skill 'elven' 1 99
+Skill 'gnomish' 1 99
+Skill 'goblic' 1 99
+Skill 'hobbit' 1 99
+Skill 'infernal' 1 99
+Skill 'ogrian' 1 99
+Skill 'orcish' 1 99
+Skill 'pixish' 1 99
+Skill 'silent' 1 95
+Skill 'trollese' 1 95
+Title
+Man~
+Woman~
+Title
+Apprentice of Magic~
+Apprentice of Magic~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

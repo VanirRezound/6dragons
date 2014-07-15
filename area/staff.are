@@ -1,0 +1,4717 @@
+#AREA        Staff Operations~
+
+
+
+#VERSION     7
+#AUTHOR      RoD~
+#DERIVATIVES Orion Vladaar~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+101 208 0 208
+$
+
+#SPELLLIMIT 0
+#WEATHERCELL 0 0
+
+#RESETMSG &GThe sound of wheels churn as the &YSix Dragons&G Staff come up with new ideas.~
+
+#FLAGS
+149444 20
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 1 -1
+
+#LOWECONOMY 0 45000030 0 999999095 742 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#1200
+mobile~
+a mobile~
+A mobile is here.
+~
+~
+0
+Clanname none~
+0
+0
+1 0 0 C
+1 50 0 0d0+0 0d0+0
+0 0 0 0 0 
+4000
+112 112 0
+13 13 13 13 13 13 0
+0 0 0 0 0
+3 0 0 0 131073 1 0
+0 0 0 0 0 0 0 0
+#1201
+waitress julia~
+Julia~
+A sultry waitress with too much exposed cleavage is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+131075 4194304 0 C
+101 0 0 10d1000+30000 10d10+100
+0 0 0 0 0 
+0
+115 115 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 4 0 0 1 1 0
+0 0 0 0 0 0 0 0
+> all_greet_prog 100~
+mppause 3
+say What can I get you sugar?
+mppause 3
+say Just say menu if you would like to know what we have available.
+~
+> speech_prog menu~
+mppause 2
+say For drinks we have....
+mppause 2
+say Water, ale, pepsi, and whiskey.
+mppause 8
+say For meals we have....
+mppause 2
+say Shrimp, steak, chicken, and turkey.
+mppause 8
+say Its all on the house sugar, just say what you would like.
+~
+> fight_prog 100~
+c 'quant' $n
+mppause 3
+spike $n
+spike $n
+spike $n
+spike $n
+spike $n
+angelfire $n smite
+angelfire $n smite
+angelfire $n smite
+~
+> speech_prog water~
+mpecho Julia reaches behind the counter and grabs a flask of water.
+mppause 3
+mpoload 21441 1
+get flask
+give flask $n
+~
+> speech_prog ale~
+mpecho Julia grabs a bottle of ale from the counter.
+mppause 3
+mpoload 21010 1
+get ale
+give ale $n
+~
+> speech_prog pepsi~
+mpecho Julia goes behind the counter to get a pepsi.
+mppause 3
+mpoload 1296 1
+get pepsi
+mppause 3
+mpecho Julia returns from around the counter.
+mppause 4
+give pepsi $n
+~
+> speech_prog whiskey~
+mpecho Julia goes behind the counter and grabs a bottle of whiskey.
+mppause 5
+mpoload 21009 1
+get whiskey
+mpecho Julia then bends towards you giving you a nice view.
+mppause 3
+give whiskey $n
+~
+> speech_prog shrimp~
+mpecho Julia heads to the kitchen.
+mppause 8
+mpecho Julia returns from the kitchen.
+mpoload 1298 1
+get shrimp
+mppause 3
+give shrimp $n
+~
+> speech_prog steak~
+mpecho Julia heads to the kitchen.
+mppause 8
+mpoload 70 1
+get steak
+mpecho Julia returns from the kitchen.
+mppause 3
+give steak $n
+~
+> speech_prog turkey~
+mpecho Julia heads to the kitchen.
+mppause 8
+mpoload 21016
+get turkey
+mpecho Julia returns from the kitchen.
+mppause 3
+give turkey $n
+~
+> rand_prog 10~
+mpat 4 mppurge
+~
+|
+#1202
+Amelie~
+Amelie~
+Amelie stands here, ready to guide you.
+~
+Black hair falls about earlength on her head as her eyes of brown seem very
+bright. Her young face is somewhat pale, but beautiful none the less. She is
+thin and stands about five feet and five inches tall. She wears a skirt of
+black and a pair of buckled shoes.
+~
+0
+Clanname none~
+0
+0
+1073741827 0 0 C
+202 0 0 0d0+0 0d0+0
+0 0 0 0 0 
+0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 4 0 0 1 1 0
+0 0 0 0 0 0 0 0
+> act_prog p arrives from the west.~
+if ispc($n)
+mppause 3
+say Welcome to the Area Architects hallway please continue eastward,+
+if your looking for the offices of the building staff.
+endif
+~
+> speech_prog no~
+if ispc($n)
+mppause 3
+say NO NEED TO BE LIKE THAT!
+mppause 5
+emote cracks you in the head with her fist.
+mpdamage $n 1000
+endif
+~
+> act_prog p arrives from the east.~
+if ispc($n)
+mppause 3
+mea $n &CAmelie say's 'Hope you found what you was looking for.'&D
+endif
+~
+|
+#1204
+Malcom~
+Malcom~
+Malcom is hunched over trying to pick up some of this mess.
+~
+~
+0
+Clanname none~
+0
+0
+1073741825 0 0 C
+200 0 0 0d0+0 0d0+0
+0 0 0 0 0 
+0
+115 115 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+20 50 0 0 0 0 0 0
+> all_greet_prog 100~
+mppause 3
+grovel $n
+mppause 3
+whisper $n Please beg my master to give me a day off!
+mppause 3
+whisper $n I havnt had a break in soOoOoOo long.
+mppause 3
+smile $n
+wink $n
+mppause 2
+say Hello and welcome to Taons office, he will be with you in one moment!
+~
+> speech_prog freeday?~
+mppause 5
+smile Taon
+mppause 3
+say Please Master.
+mppause 4
+bow taon
+grovel taon
+mppause 3
+say My hands and feet hurt so bad I dont think I can do anymore.
+~
+> speech_prog work~
+say But......... I am master.
+mppause 3
+say I cant do anymore, my bones are so frail now I think im coming apart.
+mppause 4
+pout
+mppause 6
+mpecho Malcom covers as he sees Taon break out a whip!
+~
+> speech_prog Jeeves~
+growl $n
+mppause 4
+say Jeeves is nothing, you speak my name before his!
+mppause 3
+say Next time he makes his way around here, it will be a trip he wont forgot.
+mppause 5
+grin $n
+~
+> speech_prog Julia~
+mppause 3
+smile $n
+mppause 4
+say OoOoOo, shes such a hottie!
+mppause 3
+say hehe wanna know a secret?
+mppause 3
+whisper $n She and I are secretly dating shhh! dont let maynard find out!
+~
+> speech_prog Amelia~
+mppause 3
+sigh $n
+mppause 7
+say She really could use some makeup to cover that ugly face of hers!
+mppause 4
+say But it seems shes having pretty good luck with Veath!
+mppause 5
+~
+> speech_prog Wycost~
+mppause 3
+growl $n
+mppause 4
+emote lets out a scream, as he slams his balled up fist ontop of taons desk.
+mppause 5
+emote Looks around for Taon.
+close door
+mppause 5
+say Never! I mean Never! say that name in this office again!
+mppause 5
+~
+> speech_prog shit ~
+mppause 3
+emote sniffs around.
+mppause 5
+say WHERE???? 
+mppause 7
+emote Looks all around the room.
+mppause 3
+ahh
+mppause 3
+say you pulling my chain?
+mppause 2
+sigh 
+mppause 4
+say Its not funny to pick on a handicap person.
+~
+> speech_prog killalena~
+if name($n) == Taon
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!!
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!!
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!!
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!!
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!!
+MPPAUSE 3
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!!
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!!
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!!
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! SPAMMMMMMMMMMMMMMMMMMMMMMMM!
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAY
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAY
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAY
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAY
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS HELL
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS HELL
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS HELL
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS HELL HAHAHAHA
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS HELL HAHAHAHA
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS HELL HAHAHAHA
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS HELL HAHAHAHA
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS HELL HAHAHAHA
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS HELL HAHAHAHA
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS HELL HAHA
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS HELL HAHA
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS HELL HAHA
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS HEL
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK IS
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAYBACK
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!! PAY
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!!!!!
+MPPAUSE 3
+tell alena HAHAHAHAHAHAHAHAHAHAHAHA!!
+tell alena HAHAHAHAHAHAHAHAHAHA
+tell alena HAHAHAHAHAHA
+tell alena HAHAHAHA
+ENDIF
+~
+> speech_prog blahblue~
+if name($n) == Taon
+tell alena &Y+-------------------------+
+tell alena |}Y SPAM SPAM SPAM SPAM SPAM&D&Y|
+tell alena &Y+-------------------------+
+endif
+~
+|
+#1212
+Ralphie~
+Ralphie~
+Ralphie, Kiandra's cute little puppy.
+~
+The cute little weenie-dog belonging to Kiandra sits here silently, diligently keeping her company when she's working. He pants happily as he waits for the next brownie she usually feeds him.~
+0
+Clanname none~
+0
+0
+1140850691 0 1000 C
+101 0 -300 0d0+0 0d0+0
+0 0 0 0 0 
+0
+112 112 1
+10 15 10 18 18 11 18
+0 0 0 0 0
+29 10 0 0 1 1 0
+99 99 0 0 0 0 0 0
+> greet_prog 75~
+bark $n
+~
+> speech_prog Kiandra~
+mppause 3
+emote wags his tail!
+mppause 4
+~
+|
+#1213
+nachato pet monkey~
+Nachato~
+Nachato, Sathek's pet monkey is here.
+~
+~
+0
+Clanname none~
+0
+0
+1073741825 0 0 C
+202 0 0 0d1+9000 0d0+0
+0 0 0 0 0 
+0
+112 112 1
+7 9 8 20 12 14 18
+0 0 0 0 0
+75 2 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#1214
+Lady Belle Kaelzen~
+Belle Kaelzen~
+The Dark Lady is here before you.
+~
+A silver-haired, pale blue-eyed woman with a atheltic build and beautiful features. She possesses a aura of confidence and power about her and she has a look in her eyes that makes you think this confidence is well-placed in herself.~
+0
+Clanname none~
+0
+0
+3 73408512 -1000 C
+40 0 -110 2d500+2500 3d6+20
+0 0 0 0 0 
+0
+112 112 2
+20 15 15 17 4 19 2
+-10 -10 -10 20 -20
+0 9 0 0 1 1 4
+41 41 263559 1048576 2104576 96 1207960130 6
+#1215
+Riddlemaster~
+The Riddlemaster~
+The Ancient Riddlemaster is here.
+~
+A bright-looking fellow wearing a jester's hat and mage's robe.
+He is constantly smiling and rarely speaks a sentence not a riddle,
+for he is the RiddleMaster, lord and king of Puzzles.
+~
+0
+Clanname none~
+0
+0
+1140850689 0 0 C
+201 0 0 0d0+0 0d0+0
+0 0 0 0 0 
+0
+115 115 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 6 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#1216
+Kiandra~
+a newly created Kiandra~
+Some god abandoned a newly created Kiandra here.
+~
+~
+0
+Clanname none~
+0
+0
+1073741825 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0 0 0 0 
+0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 4 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#1217
+wycost~
+Wycost~
+Wycost the mentally handi cap, shares a office with alena.
+~
+~
+0
+Clanname none~
+0
+0
+1092616195 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0 0 0 0 
+0
+112 112 1
+1 1 1 13 1 1 5
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#1218
+a buck-toothed donkey~
+a buck-toothed donkey~
+A buck-toothed donkey whimpers for his master.
+~
+~
+0
+Clanname none~
+0
+0
+1074003971 0 0 C
+207 0 0 2d10+100 3d8+20
+0 0 0 0 0 
+0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+49 3 0 0 1 1 5
+200 200 0 0 0 0 353 524291
+> rand_prog 25~
+if rand(10)
+mea $r You catch a glimpse of the donkey as is back's up towards you+
+and releases a very foul gas.
+mer $n You catch a glimpse of the donkey as is back's up towards $r+
+and releases a very foul gas.
+c poison $r
+endif
+~
+> speech_prog sit~
+if name($n) == Taon
+mppause 2
+sit
+else
+mppause 2
+grunt $n
+endif
+~
+> speech_prog up~
+if name($n) == Taon
+mppause 2
+drool
+stand
+else
+peer $n
+endif
+~
+> act_prog p points at Alena accusingly.~
+if name($n) == Taon
+mppause 3
+spit alena
+mppause 3
+murder alena
+endif
+~
+> act_prog p points at Vitro accusingly.~
+if name($n)  == Taon
+mppause 3
+spit vitro
+mppause 4
+murder vitro
+endif
+~
+|
+#1220
+kitty cat~
+A small kitten~
+A small kitten frolics aimlessly.
+~
+~
+0
+Clanname none~
+0
+0
+1 0 0 C
+104 0 -300 0d0+-25536 0d0+0
+0 0 0 0 0 
+0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+27 8 0 0 1 1 8
+80 80 0 0 0 0 0 0
+#1251
+playpen babysitter~
+a newly created playpen babysitter~
+Some god abandoned a newly created playpen babysitter here.
+~
+~
+0
+Clanname none~
+0
+0
+1073741825 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0 0 0 0 
+0
+115 115 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 4 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#1252
+trickster Marlena Jenkins~
+A beautiful female elf~
+A beautiful female elf is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+1 0 0 C
+10 0 0 2d20+300 2d4+4
+0 0 0 0 0 
+0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 5
+40 0 0 0 0 0 48 2
+> act_prog p tells you~
+mppause 14
+reply I'm sorta afk right now.  Sorry.
+mppause 3
+afk
+~
+|
+#1254
+Renark~
+Renark~
+Renark is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+1073741825 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0 0 0 0 
+0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 4 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#1255
+magic 8 ball~
+Magic 8 Ball~
+The Magic 8 Ball is perched upon a stand here.
+~
+~
+1
+Clanname none~
+0
+0
+1073872899 4194304 0 C
+106 0 0 0d0+10000 0d0+0
+0 0 0 0 0 
+0
+115 115 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 4 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#1297
+Jeeves PR Staff servant~
+Jeeves~
+Jeeves the valiant PR butler awaits you here.
+~
+Jeeves is very tall and thin, and even while looking down hisa nose 
+at you he exudes faithful servitude. is hair is mostly black but 
+going grey. He stands stright and proper, ready to perform his 
+duties.
+~
+0
+Clanname none~
+0
+0
+1073741889 0 -1000 C
+200 0 0 10d20+13 10d10+13
+0 0 0 0 0 
+0
+112 112 1
+13 10 17 13 13 20 13
+0 0 0 0 0
+0 18 0 0 1 1 10
+0 0 0 0 0 0 0 0
+> all_greet_prog 100~
+mppause 3
+emote briskly walks towards you and bows deeply.
+mppause 2
+say Welcome to the PR Board Room, milord. How do you do?
+mppause 4
+say I am Jeeves, Maynard's faithful PR servant. If there is anything I+
+can do for you, simply state your wish. Would you like a menu for treats?
+mppause 6
+nod
+mppause 4
+say Need anything milord, just Ask Jeeves.
+~
+> speech_prog menu~
+mppause 2
+say Would you like a drink, milord? 
+mppause 2
+say We have water, ale, pepsi, and whiskey.
+mppause 8
+say Here are the exotic delicacies available!
+mppause 2
+say These include shrimp, steak, chicken, and turkey.
+mppause 8
+say Whichever you wish is free, courtesy of the PR Staff, milord.
+~
+> speech_prog water~
+mpecho &cJeeves reaches behind the cooler and grabs a flask of water.
+mppause 3
+mpoload 21441 1
+get flask
+give flask $n
+~
+> speech_prog pepsi~
+mpecho &BJeeves twirls his hands, and a pepsi appears!&D
+mppause 3
+mpoload 1296 1
+get pepsi
+mppause 3
+say Fresh from the Icy Wastes, milord.
+give pepsi $n
+~
+> speech_prog ale~
+mpecho &BJeeves twirls his hands and a bottle of ale appears!
+mppause 3
+mpoload 21010 1
+get ale
+give ale $n
+say There is your ale, milord, nice and chilled.
+~
+> speech_prog whiskey~
+mpecho &BJeeves utters some arcane words and a brown bottle appears.&D
+mppause 5
+mpoload 21009 1
+get whiskey
+say Here is the whiskey, milord, full of hops and pops.
+mppause 3
+give whiskey $n
+~
+> speech_prog shrimp~
+mpecho Jeeves quickly runs to the BubbaGump Factory.
+mppause 8
+mpecho Jeeves returns from the BubbaGump Factory.
+mpoload 1298 1
+get shrimp
+mppause 3
+give shrimp $n
+say Your mouthwatering, excellent quality shrimp, milord.
+~
+> speech_prog steak~
+mpecho &cJeeves turns around and starts barbecuing a steak on the table.&D
+mppause 8
+mpoload 70 1
+get steak
+mpecho &cJeeves turns around, a fully cooked steak in hand.&D
+mppause 3
+give steak $n
+~
+> speech_prog turkey~
+nod
+mppause 4
+mpecho &BJeeves utters some arcane words, and a chair turns into a turkey!&D
+mppause 8
+mppurge chair
+mpoload 21016
+say Oh my heavens...
+mppause 3
+emote sighs irritatedly and mutters about Nagafen's chairs.
+mppause 3
+get turkey
+mpecho &cJeeves grabs the turkey and cleans it off.&D
+mppause 3
+give turkey $n
+mppause 4
+say Sorry about that, sir. That has never happened before!
+~
+> speech_prog brownie~
+mppause 3
+say Of course, $n. A special brownie just for you!
+mppause 5
+mpecho &cJeeves claps his hands, and a giant, moist brownie appears!&D
+mpoload 24852 1
+mppause 4
+say Your brownie, as you like it.
+give brownie $n
+~
+> speech_prog p Thank you~
+mppause 3
+say Oh no, thank YOU milord.
+mppause 5
+bow $n
+~
+> speech_prog Kiandra~
+mppause 6
+say Milady Kiandra, hullo! I shall give you anything you require.
+mppause 7
+emote looks at you and nods, remembering something.
+mppause 2
+say You know, Maynard DID tell me that you're now his Questor, besides+
+being his Think Tank! I think you get a free brownie for that!
+mppause 4
+emote grins and nods.
+~
+> all_greet_prog 100~
+if council($n) == player relations
+mppause 8
+say Would you like a PR Manual, $n? There is a newly minted edition, just+
+for you!
+mppause 2
+say If you would, then say "Yes please", and I will give you your copy.
+mppause 3
+nod
+endif
+~
+> speech_prog p Yes please~
+if council($n) == player relations
+mppause 3
+mpoload 1214
+get manual
+emote rummages through his pockets until he finds &Wa &Y6D&W PR Staff+
+Manual&c, and nods to himself as he reads your name across the cover.&D
+mppause 2
+say Here you go, $n.
+give manual $n
+else
+say I'm sorry, but you are not a Player Relations Wiz. Please freeload+
+one off of someone else, you worthless piece of turd. :0)
+mppause 3
+emote looks shifty-eyed from side to side evilly, then grabs you a secret+
+copy just for you.
+mppause 5
+say I couldn't help myself, they're so nice! Here you go, ya bum.
+mpoload 1214
+get manual
+give manual $n
+endif
+~
+|
+#1298
+Forrest Gump Code Helper~
+Forrest Gump~
+A tall man in a white suite is standing here to help code the mud.
+~
+~
+0
+Clanname none~
+0
+0
+1 4194304 0 C
+200 0 0 1000d1000+30000 50d100+100
+0 0 0 0 0 
+0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 10
+0 0 0 0 0 0 268436288 3
+> act_prog p looks at you.~
+mppause 3
+say I'm not a smart man, but I know what love is.
+~
+> act_prog p arrives from the south.~
+mppause 3
+say When I was in China on the All-American Ping Pong team,
+mppause 2
+say I just loved playing ping-pong with my Flexolite ping pong paddle.
+~
+> act_prog p arrives from the north.~
+mppause 3
+say Would you care for some shrimp?
+mppause 4
+say Just say the magic word.
+~
+> speech_prog please~
+mppause 3
+say This is some of the finest from Bubba Gump Shrimp Factory!
+mppause 3
+mpoload 1298 1
+get shrimp
+give shrimp $n
+~
+|
+#1299
+final mob~
+Tanzean'al~
+Some god abandoned a newly created final mob here.
+~
+~
+0
+Clanname none~
+0
+0
+1073741825 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0 0 0 0 
+0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 4 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#1200
+bronze sign~
+a large bronze sign~
+A large bronze sign is embedded in the wall here.~
+~
+12 0 0
+0 0 0 0 0 0 0
+1 10 1
+1
+1
+S 0 0
+E
+sign bronze~
+Welcome to the &Y6 Dragons&W Fortress of Operations
+ 
+Directions
+ 
+North - Code Council
+East  - Area Architects Council
+West  - Player Relations Council
+ 
+~
+#1201
+A white marble desk~
+A white marble desk~
+A large &Wwhite marble &Ddesk sits here.~
+~
+13 0 0
+0 0 0 0 0 0 0
+1 0 0
+1
+0
+S 0 0
+#1202
+A White Marble Coffee Table~
+a white marble coffee table~
+A &Wwhite marble&D coffee table sits in the corner.~
+~
+12 0 0
+0 0 0 0 0 0 0
+1 0 0
+1
+0
+S 0 0
+#1203
+grey leather office chair~
+A Black Office Chair~
+A &zgrey leather&D chair sits behind the desk.~
+~
+12 0 0
+0 1500 146 0 0 0 0
+1 0 0
+1
+0
+S 0 0
+#1204
+pool table~
+an oak pool table~
+A brunswick oak pool table is mounted to the floor here.~
+~
+12 0 0
+2 1500 9 0 0 0 0
+1 0 0
+1
+0
+S 0 0
+#1205
+'builder commandments' book builder~
+'the Builder Commandments'~
+A small, black book titled 'the Builder Commandments' floats here.~
+~
+35 1073741824 16385
+0 0 0 0 0 0 0
+1 0 0
+1
+7
+S 0 0
+E
+book builder 'the builder commandments' commandments~
+The Builder Commandments
+------------------------
+Written by Rene, updated 8/14/2010
+
+
+1. USE SPELL CHECK AND PROOFREAD FOR GRAMMAR.
+
+2. Do not use 'YOU' in room description. You, as a builder, do not know the character is walking, sitting, etc. You do not know if they are 'intimidated' or 'claustrophobic'. Go ahead and say 'an eerie, cramped tunnel' but don't say stuff like 'it makes you feel ___'. You can't control a player's emotions or actions. DON'T DO IT.
+
+3. Don't describe mobs or objects that are actually 'tangible'! As a rule, if the player can see a mob or object already when then LOOK, don't describe it in the room. First off, they already see it, you're repeating yourself. Secondly, if that mob is killed, the room description would look silly.
+
+4. Do not use multiple colors without specific permission. It HURTS to read a paragraph written in green, magenta, cyan, and blood red. Spare us.
+
+Keep reading. Use 'Buildp2'.
+~
+E
+buildp2~
+For area creators-
+
+5. When you make a room, you must write a description. Likewise, if you make an object or a mob, you MUST include an extra description. You really can't think of anything? Ask a friend, ask another builder, ask me. I don't want players looking at something and not seeing anything.
+
+6. Be very very careful that progs don't loop. Our last loop made the game go down for a week. 
+
+
+-more stuff to be added-
+
+
+Break the rules once, I will warn you. Break them repeatedly, I will boot you off the team. Please, be a team player.
+
+
+Keep reading. Use 'buildref' to see a list of important references.
+~
+E
+buildref~
+List of references:
+
+Room 1200 is the Fortress of Operations. We chill here.
+Room 4500 mentions building rules. Go NORTH to find a retired staff member who will tell you the basics for each staff section (PR, Architects, Events, Code). 
+Room 36150 is my office if you need to find me while I'm afk.
+
+http://6dragons.org/guide.html  is the site with the building guide.
+http://alternis6d.forumotion.com/  is the unofficial forum. Useful place to find out if the game is down, or to leave messages and questions, etc. To join as staff, sign up then let me know in game what your username was so I can approve you and set you up to view the staff section. Useful building docs will also be posted here.
+~
+#1206
+a shiny Sparkletts water cooler~
+a shiny Sparkletts water cooler~
+A shiny water cooler sits alone in the corner.~
+~
+25 0 0
+0 0 0 0 0 0 0
+1 0 0
+1
+0
+S 0 0
+#1207
+long table meeting~
+a long meeting table of marble~
+A long table made of black marble sits here to be used in meetings.~
+~
+12 -2147483648 0
+0 0 0 0 0 0 0
+1 0 0
+1
+7
+S 0 0
+#1208
+an elegant tuxedo~
+an elegant tuxedo~
+An elegant tuxedo is folded here majestically.~
+~
+9 8 8
+60 60 0 0 0 0 0
+1 0 0
+1
+0
+S 0 0
+#1209
+black slip dress~
+a black slip dress~
+A black slip dress lies crumpled on the floor here.~
+~
+9 0 9
+60 60 0 0 0 0 0
+1 0 0
+1
+0
+S 0 0
+#1210
+a brass dance pole~
+a brass dance pole~
+A brass dance pole is mounted to the floor and ceiling here.~
+~
+9 0 0
+60 60 0 0 0 0 0
+1 0 0
+1
+0
+S 0 0
+#1211
+black mage robe baldric~
+a black baldric robe~
+A black mage's robe lies here in a heap.~
+~
+13 1073741824 9
+0 0 0 0 0 0 0
+1 0 0
+1
+0
+S 0 0
+#1212
+GrandDream~
+&YT&zhe &RG&Gr&pa&bn&Pd&wD&Pr&ce&Ba&rm~
+The Legendary GrandDream of Kaiser~
+~
+5 1073741955 8193
+12 3 10 50 1 9 0
+10 2147483647 214748364
+1
+0
+S 0 0
+E
+GrandDream~
+A 6' long blade carved from a shining, silvery metal.
+Its' surface is etched with glowing runes of power and a eerie
+black-and-purple aura writhes and twists about the blade, the
+weapon's will and destructive force manifesting as the aura.
+~
+A
+26 369098880
+A
+1 20
+A
+30 95
+A
+25 15
+#1213
+obsidian chair~
+an obsidian chair~
+An obsidian chair is here for staff use.~
+~
+12 0 0
+0 0 1 0 0 0 0
+1 0 0
+1
+7
+S 0 0
+#1214
+book pr staff manual~
+&Wa &Y6 Dragons&W PR Staff Manual&D~
+&WA book with "PR MANUAL" upon the front lies open here.&D~
+~
+35 2 16385
+0 0 0 0 0 0 0
+1 0 0
+1
+0
+S 0 0
+E
+6D PR staff manual~
+&dThe &6 Dragons&W PR Staff Manual&d
+
+This Manual was designed to aid the Player Relations
+Administrator of 6D concerning rules, policy, assignments,
+ideas and other such topics that pertain to the PR Wizard.
+
+  --&YMaynard&D.
+
+For those who wish to peruse my depths, simply type 
+LOOK TABLE or LOOK PAGE#.
+~
+E
+preface~
+&dThe &Y6D&W PR Staff Manual&d Preface&d
+
+Welcome Aboard!
+You're now a 6D Player Relations Wiz. In this position, you will be 
+assisting players, encouraging roleplay, enforcing rules, and focusing 
+on any number of tasks. Also, until you meet the requirements listed below, 
+you will be flagged as TEMPORARY (similar to Seeker), and upon completion 
+of such you are awarded a rank in the Staff (sometimes depending on your 
+focus), an Office and other things as given by the Head of PR. 
+As a Staff member, you should read up on all GBoard notices, announcements 
+and gnotes, especially on the Staff GBoard (7) -- particularly gnote 21 by 
+Maynard, titled **PR** -- This gnote further lists assignments (Tasks) that 
+may be undertaken and/or given. Also, it is good to know what is listed 
+under HELP RULES, HELP PKILL RULES, HELP CORPSE RETRIEVAL and WIZHELP, as 
+all of these have information both useful and necessary. In addition to 
+these, you may reference the Book of Game Rules (object 139), given to all 
+new characters, and other works.
+
+To turn the page type "look page1".
+~
+E
+page3~
+ASSIGNMENTS
+
+As a PR Wiz, you will be given Assignments to complete, and may be asked 
+to choose a focus - to be a Jack Of All Trades and a Master of One.  If 
+assignments are not given any deadlines by the Head, then assume that 
+they should be completed ASAP until further notice, in order to keep things 
+running efficiently. 
+
+These pages will go further into individual topics:
+
+RP Encouragement  ............. Page4
+         Contests  ............ Page5
+Player Help  .................. Page6
+Quests  ....................... Page7
+Helpfiles/Socials  ............ Page8
+Rules Enforcement  ............ Page9
+
+**All Assignments as listed above should be completed as they pertain to 
+each PR Staff member.**
+~
+E
+page4~
+RP ENCOURAGEMENT
+
+RP ENCOURAGEMENT is an Assignment that is shared by everyone, and can be 
+done in many ways, including the Reward-system (RPContests, rewarding 
+those who RP, etc), immersion (using the SWITCH command to start or 
+enter roleplay with PCs), or any others thought of. 
+
+**PR Staff should have Encouraged Role-play as stated above and have it 
+logged/witnessed at least twice.**
+
+To turn the page type "look page5".
+~
+E
+page5~
+CONTESTS
+
+RPContests, Story Contests, and any and all other Contests or reward-
+systems used for RP Encouragement should be handled decently and fairly, 
+with proper rewards that are pre-approved by Vladaar or Maynard.  Also, 
+color is a tool that can be useful to highlight particular facets of your 
+Contest, but be wary of blinding your contestants!
+
+To turn the page type "look page6".
+~
+E
+page6~
+PLAYER HELP
+
+PLAYER HELP is a mandatory Assignment that EVERYONE should be proficient 
+in, whether it's Q&A, newbie help, or (technical or not) problems of any 
+sort -- and this should always be handled according to PR Policy 
+(friendliness and courtesy as stated above). 
+
+**PR Staff should have handled at least three logged/witnessed situations 
+where he/she was needed and legitimately helped a player.**
+
+To turn the page type "look page7".
+~
+E
+page7~
+QUESTS
+
+QUESTING, an individual area of focus, may be done with mobs, objects and/or
+rooms with or without programs attached to either (the programmed being 
+named as a "progged Quest", available to players even if no Staff are
+online), using the SWITCH command with mobs, using ECHO, INVADE, or any
+wizcommands that are available to the PR Staff member. Use discretion 
+concerning rewards, and have permission per Quest and per reward given first
+from the Head. Also, building and coding are recognized as focuses, and
+should be reviewed with the Head of PR and the Head of Area Architects.
+
+**PR Staff with a Focus should have at least TWO works reviewed, 
+satisfactorily completed and implemented, or at least THREE satisfactory 
+and witnessed Quests done (Questing Focus).**
+
+To turn the page type "look page8".
+~
+E
+page8~
+HELPFILES/SOCIALS
+
+HELPFILES and SOCIALS are both important parts of the game - Players and 
+Staff require helpfiles to assist with their gameplay/work, and socials 
+give a comfortable touch to the game that can be very entertaining or 
+useful if done correctly.
+
+Commands to use:
+*HELPCHECK (Checks list of helpfiles requiring completion)
+*HEDIT (Opens buffer for creating/editing hfile)
+*HSET (Sets the hfile level, keyword, saves hfile)
+*SEDIT (Creates, edits, deletes, saves social)
+
+**PR Staff with a Focus should have at least TWO works reviewed,
+satisfactorily completed and implemented.**
+
+To turn the page type "look page9".
+~
+E
+table~
+&dThe &Y6D&W PR Staff Manual&d
+
+   &W--&wTable of Contents&W--&d
+
+*Preface  .................. preface
+*Rules  .................... Page1
+*PR Policy  ................ Page2
+*Assignments  .............. Page3
+   RP Encouragement  ....... Page4
+   Contests  ............... Page5
+   Player Help  ............ Page6
+   Quests  ................. Page7
+   Helpfiles/Socials  ...... Page8
+   Rules Enforcement  ...... Page9
+*Ideas  .................... Page10
+*Other Topics  ............. Page11
+ 
+~
+E
+page1~
+RULES
+
+ALL Staff are to abide by every and any rule listed in HELP RULES, HELP
+PKILL LAWS, and any other rules as listed on the General (1), Announce (3), 
+and/or Staff (7) Gboards by any Head, Co-Head or Asst. Head of Council 
+(from now on all implied when referring to "Head"); and any rules given by 
+Heads at any point after.  This includes NO CHEATING, for your own 
+characters or for any others. Keep in mind that most wizcommands are 
+logged, and that the Rules are in place for the greater gameplay for 
+everyone collectively so we don't have any messes.
+ 
+It is now Staff Policy however, to not only have regular PC characters, 
+but to have them on whenever one does log onto their imm - this being in 
+place to support growth of playerbase, to keep ears open on all GChannels, 
+and to have a player available to help another if no others are around.
+
+**PR Staff should know Rules and be able to enforce them.**
+
+To turn the page type "look page2".
+~
+E
+page9~
+RULES ENFORCEMENT
+
+Remember when you deal with players to always use PR Policy, whether it is 
+a comfortable situation or a heated one. Set the example, and try from 
+there. However, if the need should arise with problem Players, then know 
+how to deal with the circumstances. 
+Here is the list of how to work with it:
+1. Calmly discuss problem with player, alert them to their breach of Rules.
+2. Warn the player, that they will be punished if they do not desist. 
+May add Nuisance flags if wanted.
+3. If persistant, then use SILENCE/NOEMOTE/NOTITLE and also SCATTER as 
+appropriate - you may use NOTELL, however try not to as it becomes only 
+form of communication short of in-person.
+4. If more persistant, use FREEZE, SLAY, NOTELL/STRIP/STREW as needed 
+(as possible) - if real bad case, use HELL.
+5. Last Resort - ask Head to BAN the Player, if not available then FQUIT 
+player and write GNote to Head explaining situation.
+If you have any problem or question, then ask a Council Head.
+
+**PR Staff should be able to roleplay such a Situation and then use an 
+Enforcement command with the Head of PR/Asst. Head of PR, if such a 
+situation has not already occurred and been logged/witnessed.**
+
+To turn the page type "look page10".
+~
+E
+page10~
+IDEAS
+
+For whatever assignment you are working on, be creative and have fun!  If 
+it is a progged Quest, think of exactly what you want to accomplish, with 
+all the zest and gusto, then plan out how you will need to program it to 
+accomplish your goal. Use ifchecks, MPCommands, THE WORKS!  If you are 
+encouraging RP, then perhaps you could hold a "Festival", a lottery or an 
+Auction - mobs can almost *never* be TOO MUCH if done correctly!  Keep 
+everything fun, and YOU will have fun just as much as the players will.  
+
+Think of what the players would find challenging, UNBORING, and very fun 
+(even if hard), and then find every way to make it full of life, utilizing 
+all you can muster to deliver the mood, atmosphere, and realism to the
+player.
+
+To turn the page type "look page11".
+~
+E
+page11~
+OTHER TOPICS
+
+*Building PR Wizards will find this site extremely helpful and often 
+invaluable:
+http://webhome.idirect.com/-helspawn/smaug.html
+http://6dragons.org/guide.html
+Herne's SMAUG Building Guide - a Bible of reference.
+
+*Coding PR Wizards should be able to find Vladaar, as he is Head of Code 
+and is willing to teach coding to deserving students, check HELP CODER.
+
+*More information can be found at the 6d website, http://6dragons.org 
+
+**PR Staff must complete all Requirements- of Rules, PR Policy, Assignments,
+and an Interview with the Head of Council in order to have the TEMPORARY 
+flag removed and to be initiated a complete 6D PR STAFF.**
+
+Have fun, and good luck!
+~
+E
+page2~
+PR POLICY means that we are courteous at all times, decent, not ever
+offensive, even in heated circumstances with players or other Staff members
+- PR Staff is a body with respect and integrity, so show that and do not
+stoop to the level of an immature player with an attitude. Also, any
+differences within the Staff should be handled decently, and NOT 
+over GChannels or discussed with players like grade school gossip.
+ 
+PR POLICY also means friendly interaction with players; because of 
+the stage 6D is in, we are looking to attract players, not to show
+them a dull MUD with an unfriendly STAFF.  This means greeting all
+players when you log on/off.  Also congratulating players that level.
+Do not merely log and chit chat with other staff, or play like your
+a god.  You are staff for 6D and need to act like a professional at
+all times.  
+ 
+**PR Staff should be able to demonstrate proper PR Policy.**
+ 
+ 
+To turn the page type "look page3".
+~
+#1215
+white oak desk~
+a white oak desk~
+A sturdy oak desk sits in the southeast corner, unoccupied and barren.~
+~
+12 1073741824 0
+0 0 0 0 0 0 0
+50 0 0
+1
+0
+S 0 0
+E
+sturdy white oak desk~
+Lacking in varnish but sanded down to prevent splinters, the simple white oak 
+coordinates well with the blues of the rest of the room.  A few papers have 
+been scattered across the transparent blue ink blotter, but other than that 
+and a gray mug filled with pens and pencils, it seems virtually unused.
+~
+#1216
+Jester's Hat~
+A shadowy black hood~
+A jester's hat jingles here.~
+~
+13 1073741824 17
+0 0 0 0 0 0 0
+1 0 0
+1
+0
+S 0 0
+#1217
+navy blue armchair chair~
+a dark blue armchair~
+A large navy armchair is placed at a diagonal to the door, facing the sofa.~
+~
+12 1073741824 0
+1 15000 1 0 0 0 0
+4 0 0
+1
+0
+S 0 0
+E
+large navy armchair dark blue chair~
+Navy blue suede adorns this rather large armchair, which rests on sanded 
+white oak feet.  Deep, plush cushions and plenty of space make for a 
+comfortable rest to anyone -- someone small enough could even take a nap in 
+it without getting a crick in their neck.
+~
+#1218
+pale blue sofa~
+a pale blue sofa~
+A plush blue sofa sits near the center of the room.~
+~
+12 0 0
+6 50000 1 0 0 0 0
+75 0 0
+1
+0
+S 0 0
+E
+small pale blue sofa~
+Upholstered with pale blue suede and complete with sanded white oak feet that 
+probably make redecoration a breeze given the carpet beneath, this small sofa 
+makes seating several people very easy in the smallish room.  Dark blue 
+blankets drape over the sofa arms, and matching cushions lean in their crooks.
+~
+#1219
+light oak chair~
+a light oak chair~
+A sturdy oak office chair fitted with dark blue cushions accompanies the desk.~
+~
+12 1073741824 0
+1 5000 1 0 0 0 0
+1 0 0
+1
+0
+S 0 0
+E
+sturdy light oak office chair~
+Built to match the desk and fitted with two puffy blue cushions (one on the 
+seat and one against the back), along with a wheeled base.  It's like an 
+office chair plus luxury.
+~
+#1220
+staff players vladaar voice~
+THEE STAFF OF THE PLAYERS VOICE~
+A cracked worn old staff is laying here.~
+~
+5 0&32 8193
+12 50000 50000 4 11 108 0
+50 1 0
+4
+1
+S 0 0
+A
+19 100
+A
+18 100
+A
+1 25
+A
+13 300000
+A
+12 300000
+A
+14 300000
+> fight_prog 5~
+mpecho &WYou hear the voices of the players in your ears!!!
+mppause 5
+mpecho &RYour ear drums explode from the noise!!
+mpdamage $n 9999
+~
+> wear_prog 100~
+if level($n) < 108
+mpecho &RYou cannot stand the sounds of THEE PLAYERS VOICES!!
+mpslay $n
+endif
+~
+|
+#1223
+pillow massive dog~
+A massive pillow~
+A massive, red pillow lies here.~
+~
+12 0 0
+5 10000 577 200 200 0 0
+1 0 0
+1
+6
+S 0 0
+#1224
+purple worn book staff member how effective~
+a worn purple book with how to become an effective staff member written on it~
+A worn purple book with how to become an effective staff member written on it lays here.~
+~
+47 0 16385
+0 0 0 0 0 0 0
+1 0 0
+1
+12
+S 0 0
+E
+purple worn book ettiquete~
+&W      ___________________________   ___________________________
+&p   .-/&W|&P  A      **         &W      \ / &P              **     B &p  |\-.
+&p  |&W|||                            :                           |||&p|
+&p  |&W|||&P      &iHOW TO BECOME A &D    &W  : &PTABLE OF CONTENTS   &W      |||&p|
+&p  |&W|||&P &iA EFFECTIVE STAFF MEMBER&D  &W :                           |||&p|
+&p  |&W|||                            :                           |||&p|
+&p  |&W|||&P   &i     BY VLADAAR &D&W         :&P   What now?...........1  &W |||&p|
+&p  |&W|||                            :   &PPlayer Relation job.2   &W|||&p|
+&p  |&W|||                            :   &PArea Architect job..3   &W|||&p|
+&p  |&W|||                            :   &P6 Dragon Team.......4   &W|||&p|
+&p  |&W|||                            :                           |||&p|
+&p  |&W|||                            :   &PType look # to read     &W|||&p|
+&p  |&W|||___________________________ : __________________________|||&p|
+&p  ||/&W============================\:/===========================&p\||
+&p  `-----------------------------\___/---------------------------''&D
+~
+E
+1~
+&x.&D    &W---------------------------------------------
+     &W|                                                |
+     &W|  &PWhat now?&W                                     |
+     &W|                                                |
+     &W|  &Pfirst set your email with the email command.  &W|
+     &W|  &PSecondly, register on the forums.             &W|
+     &W|  &Phttp://6dragons.org/forums                    &W|
+     &W|  &PYou will be made a moderator on the forums,   &W|
+     &W|  &Pand you are expected use them.                &W|
+     &W|                                                |
+     &W|  &PStaff of Operations Headquarters is           &W|
+     &W|  &Plocated at 1200.  You can use the goto        &W|
+     &W|  &Pcommand go there, ie. goto 1200.              &W|
+     &W|                                                |
+     &W|  &PTo turn the page type look 2                  &W|
+     &W|                                                |
+     &W-------------------------------------------------
+
+~
+E
+2~
+&x.&D    &W-----------------------------------------------
+     &W|                                                |
+     &W|  &PPlayer Relations Job                          &W|
+     &W|                                                |
+     &W|  &PYou give the overall impression of the mud to &W|
+     &W|  &Pnew players.  Always greet players with hello &W|
+     &W|  &Psay goodbye as they leave, and congratulate   &W|
+     &W|  &Pthem as they level.                           &W|
+     &W|  &PAlways be respectful and polite to players.   &W|
+     &W|  &PPR enforces rules, but do so politely/fairly. &W|
+     &W|  &PUse the hint channel to give hints to new     &W|
+     &W|  &Pplayers that are struggling.                  &W|
+     &W|  &PListen to player concerns/complaints don't    &W|
+     &W|  &Pever argue with them on public channels.      &W|
+     &W|                                                |
+     &W|  &PWhat things can I do to help?                 &W|
+     &W|  &P1. Make help files for missing help files.    &W|
+     &W|  &P   - see help helpcheck, help hset, help hedit&W|
+     &W|  &P2. Build an area.  See Head of Area Architects&W|
+     &W|  &P3. Run arenas.  See help chaos - usually offer&W|
+     &W|  &P   a prize of a brewed potion of choice to    &W|
+     &W|  &P   the winner.                                &W|
+     &W|  &P4. Run trivia quests over quest channel.  Any &W|
+     &W|  &P   obscure questions will do, same prize as   &W|
+     &W|  &P   arenas to winner.                          &W|
+     &W|  &PKeep a player logged on, the more players we  &W|
+     &W|  &Plogged on when new players come on the better.&W|
+     &W|  &PVote for us daily, and encourage others to do &W|
+     &W|                                                |
+     &W|  &PTo turn the page type look 3                  &W|
+     &W----------------------------------------------------
+
+~
+E
+3~
+&x.&D    &W-----------------------------------------------
+     &W|                                                 |
+     &W|  &PArea Architect Job                              &W|
+     &W|                                                 |
+     &W|  &PBuild your first of many areas.                 &W|
+     &W|  &P                                                &W|
+     &W|  &PStart out with a theme for your area.           &W|
+     &W|  &PThen map your area out on graph paper.          &W|
+     &W|  &PResearch things for your area.                  &W|
+     &W|  &PUse a thesaurus to help with describing.        &W|
+     &W|  &PStart your area, by doing all the room          &W|
+     &W|  &Pdescriptions first.  Believe thats the          &W|
+     &W|  &Phardest part of building.                       &W|
+     &W|  &PSee this website for building instructions      &W|
+     &W|  &P                                                &W|
+     &W|                                                  |
+     &W|  &PWhat else can I do to help?                     &W|
+     &W|  &PKeep a player logged on, the more players we    &W|
+     &W|  &Plogged on when new players come on the better.  &W|
+     &W|  &PVote for us daily, and encourage others to do so&W|
+     &W|  &PKeep the Head of Area Archtitects informed on   &W|
+     &W|  &Pyour progress.                                  &W|
+     &W|                                                  |
+     &W|  &PTo turn the page type look 4                    &W|
+     &W---------------------------------------------------
+
+
+~
+E
+4~
+&x.&D    &W------------------------------------------
+     &W|                                           |
+     &W|  &P6 Dragons Team                           &W|
+     &W|                                           |
+     &W|  &PWe all play for the same team and should &W|
+     &W|  &Pknow each other's job.  Feel free to help&W|
+     &W|  &Pout if you know something needs done.    &W|
+     &W|                                           |
+     &W|  &PAlways keep Vladaar aware of your status &W|
+     &W|  &PI know you have real lifes, if you go to &W|
+     &W|  &Pvacation let me know, and when you will  &W|
+     &W|  &Pbe back.                                 &W|
+     &W|                                           |
+     &W|  &PTo turn the page type look 5             &W|
+     &W|                                           |
+     &W---------------------------------------------
+
+
+~
+E
+5~
+&x.&D    &W---------------------------------------
+     &W|                                      |
+     &W|  &PRule One                            &W|
+     &W|                                      |
+     &W|  &PAlways greet players when you       &W|
+     &W|  &Psee them online.                    &W|
+     &W|                                      |
+     &W|  &PNever ignore a player, or           &W|
+     &W|  &Pbe away from the screen without     &W|
+     &W|  &Pusing the AFK command.              &W|
+     &W|                                      |
+     &W|                                      |
+     &W|                                      |
+     &W|  &PTo turn the page type look 6        &W|
+     &W|                                      |
+     &W----------------------------------------
+
+
+~
+E
+6~
+&x.&D    &W---------------------------------------
+     &W|                                      |
+     &W|  &PRule Two                            &W|
+     &W|                                      |
+     &W|  &PNever argue with players on         &W|
+     &W|  &Ppublic channels take them to        &W|
+     &W|  &Pyour office to discuss matters.     &W|
+     &W|                                      |
+     &W|                                      |
+     &W|                                      |
+     &W|                                      |
+     &W|                                      |
+     &W|  &PTo turn the page type look 7        &W|
+     &W|                                      |
+     &W|                                      |
+     &W----------------------------------------
+
+
+~
+E
+7~
+&x.&D    &W---------------------------------------
+     &W|                                      |
+     &W|  &PRule Three                          &W|
+     &W|                                      |
+     &W|  &PAlways be polite to players.        &W|
+     &W|  &PUse thankyou and please.            &W|
+     &W|                                      |
+     &W|  &PAt the same time keep in mind,      &W|
+     &W|  &PThat they should respect you.       &W|
+     &W|                                      |
+     &W|                                      |
+     &W|                                      |
+     &W|                                      |
+     &W|  &PTo turn the page type look 8        &W|
+     &W|                                      |
+     &W----------------------------------------
+
+
+~
+E
+8~
+&x.&D    &W---------------------------------------
+     &W|                                      |
+     &W|  &PRule Four                           &W|
+     &W|                                      |
+     &W|  &PNever reveal that you are a STAFF   &W|
+     &W|  &Pmember to players, when you are     &W|
+     &W|  &Plogged on as a player, and never    &W|
+     &W|  &Pgive a STAFF member's alternate     &W|
+     &W|  &Pcharacter's names to players.       &W|
+     &W|                                      |
+     &W|                                      |
+     &W|                                      |
+     &W|                                      |
+     &W|                                      |
+     &W|                                      |
+     &W----------------------------------------
+
+
+~
+#1225
+oak book shelves shelf~
+an oak book shelf~
+A series of oak bookshelves line the walls here.~
+~
+15 0 0
+1000 0 0 0 0 0 0
+1 0 0
+1
+1
+S 0 0
+E
+book shelf oak~
+A beautifully engraved oak book shelf is mounted to the wall.
+&cType exam shelf to see the books inside it.
+~
+#1226
+a glass earring~
+a glass earring~
+A glass earring lays on the ground here.~
+~
+8 1073741824 0
+0 0 0 0 0 0 0
+2 0 0
+1
+0
+S 0 0
+A
+3 1
+A
+1 1
+A
+17 -1
+A
+19 -1
+A
+18 -3
+A
+13 10
+#1227
+blackened steel greaves~
+a set of blackened steel greaves~
+These greaves are made from thick, blackened steel.~
+~
+9 1073741824 33
+60 60 0 0 0 0 0
+5 0 0
+1
+13
+S 0 0
+A
+1 5
+A
+18 10
+#1228
+a blackened steel full plate~
+a blackened steel full plate~
+A thick steel full plate made of blackened, hardened steel lays here.~
+~
+9 1073741824 9
+60 60 0 0 0 0 0
+10 0 0
+1
+13
+S 0 0
+A
+5 3
+A
+4 10
+A
+12 1000
+#1229
+blackened steel vambraces~
+a pair of blackened steel vambraces~
+A pair of blackened steel vambraces lay here, each one etched with a Red Dragon.~
+~
+9 1073741824 257
+60 60 0 0 0 0 0
+1 0 0
+1
+13
+S 0 0
+A
+19 3
+A
+2 3
+#1230
+a whip crafted from the spine of a human~
+a spine of a human~
+A whip that has been crafted from the spine of a human is here.~
+~
+5 265 8193
+10 14 2 5 3 0 0
+8 10000 1000
+1
+5
+S 0 0
+E
+spine bones bone whip~
+&WThis rather long whip has been crafted from the spine of a human, the
+bones have been bound together by some type of materail allowing them
+to be able to handle the harsh crack and backlash of the whip.&D
+~
+A
+2 1
+A
+19 3
+A
+17 -1
+A
+24 -1
+A
+27 256
+> wear_prog 100~
+if ispc($n)
+mppause 2
+mea $n You crack a evil grin as you give the whip a quick swing.
+mer $n $n cracks a very evil grin as they give the whip a quick swing.
+endif
+~
+|
+#1231
+a diamond encrested steel blade~
+a diamond encrested steel blade~
+A diamond encrested steel blade glistens on the ground here.~
+~
+54 0 1
+0 1287 1232 0 0 0 0
+2 0 0
+1
+8
+S 0 0
+#1232
+a diamoned encrested steel sword~
+a diamoned encrested steel sword~
+A diamoned encrested steel sword has been stuck in the ground here.~
+~
+5 524554 8193
+12 8 2 1 1 0 0
+7 300 30
+1
+8
+S 0 0
+A
+48 5
+A
+19 2
+A
+18 1
+A
+1 1
+#1235
+A large jeweled hammer~
+a large jeweled hammer~
+A large jeweled hammer sits on its side here.~
+~
+5 267 8193
+12 15 2 4 5 0 0
+10 6000 600
+1
+3
+S 0 0
+A
+19 3
+A
+18 1
+A
+2 -1
+A
+1 1
+A
+21 -1
+A
+13 25
+> wear_prog 100~
+if ispc($n)
+mppause 2
+mea $n You move your fingers around the handle of the hammer gaining+
+a tighter grip.
+mer $n $n moves their fingers around the handle of a jeweled hammer attempting+
+to gain a tighter grip.
+endif
+~
+|
+#1238
+a jeweled mask~
+a jeweled mask~
+A jeweled mask lays on the ground here.~
+~
+8 258 131073
+0 0 0 0 0 0 0
+1 457 45
+1
+4
+S 0 0
+A
+4 1
+A
+24 -2
+#1239
+bronze~
+a hunk of raw ore~
+A hunk of raw ore sits in the ground here.~
+~
+67 0 1
+0 0 0 0 0 0 0
+5 0 0
+1
+8
+S 0 0
+#1240
+bronze~
+a hunk of raw ore~
+A hunk of raw ore sits in the ground here.~
+~
+67 0 1
+0 0 0 0 0 0 0
+1 0 0
+1
+1
+S 0 0
+#1241
+bronze~
+a hunk of raw ore~
+A hunk of raw ore sits in the ground here.~
+~
+67 0 1
+0 0 0 0 0 0 0
+1 0 0
+1
+1
+S 0 0
+#1242
+bronze~
+a hunk of raw ore~
+A hunk of raw ore sits in the ground here.~
+~
+67 0 1
+0 0 0 0 0 0 0
+1 0 0
+1
+5
+S 0 0
+#1243
+bronze~
+a hunk of raw ore~
+A hunk of raw ore sits in the ground here.~
+~
+67 0 1
+0 0 0 0 0 0 0
+1 0 0
+1
+11
+S 0 0
+#1250
+a water bowl~
+a water bowl~
+A water bowl is here.~
+~
+25 0 0
+0 0 0 0 0 0 0
+1 0 0
+1
+0
+S 0 0
+#1251
+rubber ball~
+a newly created rubber ball~
+Some god dropped a newly created rubber ball here.~
+~
+13 1073741824 16385
+0 0 0 0 0 0 0
+1 0 0
+1
+0
+S 0 0
+#1252
+scimitar blade~
+a scimitar blade~
+A scimitar blade lays on the ground here.~
+~
+5 0 8193
+12 10 6 1 1 0 0
+1 50 5
+1
+8
+S 0 0
+#1253
+a horned, blackened steel helm~
+a horned, blackened steel helm~
+A horned helm lies here.~
+~
+9 1073741824 17
+60 60 0 0 0 0 0
+1 0 0
+1
+13
+S 0 0
+A
+24 -10
+A
+21 -10
+A
+27 64
+#1254
+straight-jacket~
+a straight-jacket~
+A white straight-jacket lays on the ground here.~
+~
+8 0 9
+0 0 0 0 0 0 0
+5 0 0
+1
+5
+S 0 0
+#1255
+a metal bin~
+a metal bin~
+A bin made of metal sits near the doorway.~
+~
+15 1073741824 0
+100 10 0 0 0 0 0
+1 0 0
+1
+8
+S 0 0
+> exa_prog 100~
+if ispc($n)
+Mea $n you look in the bin as one of the men get a straight jacket out.
+Mer $n $n looks in the bin as one of the men get a straight jacket out.
+mpoload 1254
+endif
+~
+|
+#1256
+a desert eagle~
+a desert eagle~
+A desert eagle .454 lays on the ground here.~
+~
+13 0 8193
+0 0 0 0 0 0 0
+7 0 0
+1
+8
+S 0 0
+> wear_prog 100~
+if ispc($n)
+mea $n You Quicky draw the large chrome desert eagle from its holster.
+mer $n $n Quicky draws the large chrome desert eagle from its holster.
+endif
+~
+> remove_prog 100~
+if ispc($n)
+mea $n You spin the desert eagle around your finger and quickly place+
+the gun in its holster.
+mer $n $n spins the desert eagle around their finger and quickly places+
+the gun in its holster.
+endif
+~
+|
+#1257
+anti-tank rocket laucher~
+a anti-tank rocket laucher~
+A anti-tank rocket laucher, lays on the ground here.~
+~
+13 0 16385
+0 0 0 0 0 0 0
+1 0 0
+1
+8
+S 0 0
+> wear_prog 100~
+if ispc($n)
+if name($n) == Taon
+mea $n You hoist the rocket laucher onto your shoulder and begin to+
+search for a target.
+mer $n $n hoist a rocket laucher onto their shoulder and begins to+
+search for a target.
+else
+mea $n You hoist the rocket laucher onto your shoulder and shudder as you+
+think of the impact it will cause.
+mer $n $n hoist the rocket laucher onto their shoulders and shudder as they+
+begin to go into a deep thought.
+endif
+endif
+~
+> remove_prog 100~
+if name($n) == Taon
+mea $n You disarm the rocket laucher, and quicky put it away.
+mer $n $n disarms the rocket laucher, and quicky puts it away.
+endif
+~
+|
+#1258
+a cloud of anthrax~
+a cloud of anthrax~
+A cloud of anthrax floats about the area here.~
+~
+13 1073741824 1025
+0 0 0 0 0 0 0
+1 0 0
+1
+5
+S 0 0
+A
+13 10000
+A
+24 -1000
+> wear_prog 100~
+if name($n) == Taon
+mea $n You begin to cough.
+mer $n $n begins to cough harshly.
+endif
+~
+|
+#1259
+a pair of astronaut boots~
+a pair of astronaut boots~
+A pair of astronaut boots lay on the ground here.~
+~
+13 0 65
+0 0 0 0 0 0 0
+10 0 0
+1
+5
+S 0 0
+#1260
+&zS&YG&zT &YSt&zri&Yps&D~
+&zS&YG&zT &YSt&zri&Ypes&D~
+A &zS&YG&zT armband lays here.~
+~
+9 0 257
+100 100 0 0 0 0 0
+3 2147483647 214748364
+1
+0
+S 0 0
+#1261
+a bright sign~
+a bright sign~
+A glowing yellow sign has been attached to the elevator door.~
+~
+13 0 0
+0 0 0 0 0 0 0
+1 0 0
+1
+14
+S 0 0
+E
+bright yellow sign~
+&Y+-------------------------+
+|   Away Till the 27th.   |
+&Y+-------------------------+&D
+~
+#1262
+ivory sceptre white rod~
+A Ivory Sceptre~
+A white rod radiating with magical energy hovers above the ground here.~
+~
+5 459 8193
+12 12 3 4 11 0 0
+2 1000 100
+1
+5
+S 0 0
+E
+ivory sceptre~
+&WA short ivory staff is surrounded with a magical aura, almost blinding
+any whom dare to look to close at it.&D
+~
+A
+12 30
+A
+24 -2
+A
+19 2
+A
+21 -1
+A
+27 8
+A
+4 -2
+> wear_prog 100~
+if name($n) == Pelil
+mppause 2
+mea $n A white glow makes its way up the sceptre surrounding your entire+
+body.
+mer $n A white glow makes its way up $n sceptre surrounding their entire+
+body.
+endif
+~
+> wear_prog 30~
+if name($n) == Pelil
+if rand(5)
+mppause 25
+mpecho A loud hum comes from the Sceptre in Pelil's hands.
+endif
+endif
+~
+> remove_prog 100~
+if name($n) == Pelil
+mppause 2
+mea $n &WA white glow grows dim as you tuck away the ivory sceptre.&D
+mer $n &WA white glow grows dim as $n puts away the ivory sceptre.&D
+endif
+~
+|
+#1263
+a pair of spiked, blackened steel boots~
+a pair of spiked, blackened steel boots~
+A pair of spiked, blackened steel boots litters the ground here.~
+~
+9 1073741824 65
+60 60 0 0 0 0 0
+1 0 0
+1
+13
+S 0 0
+A
+27 256
+A
+47 10
+#1264
+A pair arched of flaming wings wing arch~
+a pair of arched flaming wings~
+A pair of flaming wings howers above the ground here.~
+~
+9 1073741824 524289
+60 60 0 0 0 0 0
+1 0 0
+1
+3
+S 0 0
+A
+27 1
+A
+26 524288
+#1265
+flaming whip~
+a newly created flaming whip~
+A whip fashioned from flames is here.~
+~
+5 0 8193
+0 50 100 0 0 0 0
+1 1 0
+4
+0
+S 0 0
+#1267
+cloak thin woven blackened steel~
+a cloak, made of a thin layer of woven blackened steel~
+A cloak, made of a thin layer of woven blackened steel litters the ground.~
+~
+9 1073741824 5
+60 60 0 0 0 0 0
+1 0 0
+1
+13
+S 0 0
+A
+21 -5
+A
+12 300
+A
+3 5
+#1268
+a flamberge made of purest obsidain~
+a flamberge made of the purest obsidain~
+A flamberge made of the purest obsidain lays here.~
+~
+5 1073746307 8193
+12 50 100 1 0 0 0
+1 0 0
+1
+13
+S 0 0
+A
+19 2
+A
+18 10
+A
+48 10
+#1269
+a pnut currently acting as Alenas brain~
+a pnut currently acting as Alenas brain~
+A pnut currently acting as Alenas brain litters the ground here.~
+~
+13 1073741824 16385
+0 0 0 0 0 0 0
+1 0 0
+1
+6
+S 0 0
+#1270
+cowled crimson cloak~
+a deeply cowled floor length crimson cloak~
+Raelyn must have left her deeply cowled floor length crimson cloak here.~
+~
+9 0 1025
+60 60 0 0 0 101 0
+2 333 214748364
+1
+6
+S 0 0
+#1271
+grey leather bodice~
+a dark grey back-laced leather bodice~
+Raelyn must have dropped her dark grey back-laced leather bodice here.~
+~
+9 256 9
+60 60 0 0 0 101 0
+4 235 1000
+1
+13
+S 0 0
+A
+19 200
+A
+18 200
+> wear_prog 100~
+if name($n) == Xumlox
+mppause 2
+mea $n You check to make sure you attached the wings tightly to your back.
+mer $n $n checks to make sure he attached the wings tightly to his back.
+else
+mea $n You attempt to attach the wings to your back but while, doing so they+
+fly away.
+mer $n $n attempts to attach a pair of black dragon wings to his back, but+
+while doing so they fly off.
+mpopurge 1271
+endif
+~
+> remove_prog 100~
+if name($n) == Xumlox
+mppause 3
+mea $n You remove the wings from your back, landing slowly on the ground.
+mer $n $n removes the wings from his back, making him land slowly on+
+the ground.
+endif
+~
+|
+#1272
+a massive monster truck~
+a massive monster truck~
+A massive "ford" monster truck is here roaring.~
+~
+22 1073741824 0
+0 0 0 0 0 0 0
+8000 0 0
+1
+13
+S 0 0
+> speech_prog killalena~
+if name($n)  ==  Taon
+mea $n You jump in the truck, slaming on the gas... heading right for+
+Alena.
+mer $n jumps in the truck, slaming the gas, heading right toward+
+you...
+mppause 5
+mea $n You slam into Alena, sending &Rblood everywhere!&D
+mer $n Taon slams into with the massive "ford" truck. "&RSending blood+
+everywhere!!!&D
+mpdamage alena 10000
+endif
+~
+> speech_prog getcharlana~
+if name($n)  == Taon
+mppause 2
+mea $n You quickly jump up in the truck, and slam on the gas, heading+
+toward Charlana.
+mer $n $n quickly jumps up in a truck, and slams on the gas, heading+
+right for you.
+mppause 6
+mea $n You slam into charlana sending her flying through the air.
+mer $n $n slams into you sending you flying through the air.
+mpdamage charlana 10000
+endif
+~
+|
+#1273
+serrated crystalline dagger~
+a serrated-edged crystalline dagger~
+Raelyn must have dropped her serrated-edged crystalline dagger here.~
+~
+5 256 8193
+0 50 100 6 2 101 0
+3 4000 400
+1
+5
+S 0 0
+E
+dagger cross hilted~
+&WThis small cross hilted dagger, appears almost weightless due to the type
+of metal that would used when this fine blade was crafted.  The weaponsmith
+weaved a spell of magic over the raw steel creating a blue aura surrounding
+the entire blade.  A crossed hilt has been made out of ivory, adding to the
+beauty of the dagger.&D
+~
+A
+18 200
+A
+19 200
+> wear_prog 100~
+if ispc($n)
+mppause 2
+mea $n You twirl the dagger around a few of your fingers to get a feel+
+for its weight.
+mer $n $n twirls a dagger around a few of their fingers to get a feel+
+for its weight.
+endif
+~
+> remove_prog 100~
+if ispc($n)
+mppause 2
+mea $n You spin the dagger around your index finger before sliding+
+it into a holster.
+mer $n $n spins the dagger around their index finger before putting+
+it away.
+endif
+~
+> exa_prog 25~
+if ispc($n)
+mppause 2
+mea $n The blade on the dagger glistens off of a light, almost blinding+
+you as you try to take a closer look at the dagger.
+mer $n $n lets out a small shout, and quickly covers their eyes as they+
+are almost blinded by their dagger.
+endif
+~
+|
+#1274
+leather pants~
+a pair of skin tight leather pants~
+Raelyn must have dropped her skin tight leather pants here.~
+~
+9 0 33
+60 60 0 0 0 101 0
+5 6000 600
+1
+6
+S 0 0
+A
+3 1
+A
+24 -2
+A
+21 -2
+A
+4 3
+#1275
+grey leather boots~
+a pair of thigh-high dark grey leather boots~
+Raelyn must have dropped her thigh-high dark grey leather boots here.~
+~
+9 0 65
+60 60 0 0 0 101 0
+1 266 26
+1
+13
+S 0 0
+#1276
+Slice Greetmir's Birthday Cake~
+a HUGE slice of Greetmir's double chocolate birthday cake~
+Someone must have dropped a HUGE slice of Greetmir's double chocolate birthday cake here.~
+%s throw$q health to the wind and eat$q $p.~
+19 0 1
+90 0 0 0 0 0 0
+3 20 2
+1
+13
+S 0 0
+#1277
+violet lace bodice~
+a violet lace bodice with a lacey trail~
+Amarath must have dropped her violet lace bodice here.~
+~
+9 0 9
+60 60 0 0 0 0 0
+1 251 25
+1
+12
+S 0 0
+#1278
+tiny leather skirt~
+a tiny black leather skirt~
+Amarath must have lost her tiny leather skirt here.~
+~
+9 0 2049
+60 60 0 0 0 0 0
+1 299 29
+1
+13
+S 0 0
+#1279
+blood red silken stockings~
+a pair of knee-high blood red silken stockings~
+Amarath must have dropped her blood red silken stockings here.~
+~
+9 0 33
+60 60 0 0 0 0 0
+1 285 28
+1
+6
+S 0 0
+#1280
+black leather whip~
+a black leather whip with shards of razor embedded along its length~
+Amarath must have dropped her whip here.~
+~
+5 197204 8193
+25 50 100 5 3 101 100
+2 202 20
+1
+13
+S 0 0
+A
+19 210
+A
+18 210
+#1281
+black leather gloves~
+a pair of shoulder high flared black leather gloves~
+Amarath must have dropped her black leather gloves here.~
+~
+9 0 129
+60 60 0 0 0 101 0
+1 284 28
+1
+13
+S 0 0
+#1282
+black leather boots~
+a pair of black leather pointed-toe high heeled boots~
+Amarath must have dropped her black leather boots here.~
+~
+9 0 65
+60 60 0 0 0 101 0
+1 254 25
+1
+13
+S 0 0
+#1283
+dark sunglasses~
+a pair of dark sunglasses~
+Amarath must have dropped her sunglasses here.~
+~
+9 0 131073
+60 60 0 0 0 101 0
+1 298 29
+1
+13
+S 0 0
+#1284
+anklet engraved Greetmir~
+an anklet engraved with "Outfit created by Greetmir"~
+Someone must have dropped their engraved anklet here.~
+~
+9 0 2097153
+60 60 0 0 0 101 0
+1 291 29
+1
+7
+S 0 0
+#1291
+pillow ilyessa~
+a pillow~
+A soft cozy pillow is inviting you to sit on it.~
+~
+12 0 0
+1 3000 585 0 0 0 0
+1 1260 126
+4
+0
+S 0 0
+E
+pillow~
+It's a square pillow filled with soft feathers. The cover is satin white 
+and feels smooth to the touch. 
+~
+> get_prog 100~
+mposet 1291 flags prototype
+mposet 1291 wear take
+mposet 1291 flags prototype
+~
+|
+#1292
+arm chair cozy ilyessa~
+a leather high backed chair~
+A black leather high backed chair stands in front of the bookshelves.~
+~
+12 0 0
+1 1050 2338 0 0 0 0
+1 1270 127
+4
+13
+S 0 0
+E
+chair~
+It's made of solid oak wood and padded with black cushions. On the arms of 
+the chair, intricate carvings can be found. 
+~
+E
+carvings~
+A solar system has been carved into the arms of the chair, the left part 
+of the left arm, the right part of the right arm. 
+~
+#1293
+clan rulebook build how-to~
+a clan rulebook~
+A thick black book has been left on the ground here.~
+~
+35 0 1
+0 0 0 0 0 0 0
+1 0 0
+1
+5
+S 0 0
+E
+clan rulebook build how-to book~
+&C               The book of &r6 Dragons &CClan Rules
+
+                    Table of Contents
+
+     page1...............................Costs to the Player 
+     page2...............................Additonal Costs
+     page3...............................Basic Setup
+     page4...............................Advanced Setup
+     page5...............................Clan Objects
+     page6...............................More on Objects
+     page7...............................Yet More on Objects
+     page8...............................Clan Mobs
+     page9...............................Clan Rooms
+     page10..............................Clan Rules
+     page11..............................Clan Commands
+     page12..............................Clan Leadership Commands
+
+          Type look 'page#' to read the book.
+
+       Written by Vladaar - During the Age of Despair.
+~
+E
+page2~
+&CAdditional Costs
+
+This is where the players really must pool their funds to get things
+that every clan really needs.
+
+clan healer..........1 million gold.
+clan guard...........1 million gold.
+clan object1.........0.5  million gold.
+clan object2.........1 million gold.
+clan object3.........2 million gold.
+Clan Shopkeeper......1 million gold.
+Safe Room flag.......1 million gold.  ( Maximum 3 flags maybe purchased )
+
+Items that may be purchased from the shopkeeper.
+Extra large container       - 100,000 gold
+Some type of food, or drink -  50,000 gold
+Clan recall scrolls         -  50,000 gold
+Clan light                  -  10,000 gold
+Potion, with 1 affect only  - 100,000 gold + affectcost
+
+Affects must be set at level 25.
+
+Affect choices
+- Heal, Sanctuary, Truesight, Restore Mana
+Heal affectcost 50,000 gold and potion maybe sold for 100 silver coins.
+Sanctuary affectcost 300,000 gold and maybe sold for 100 gold coins.
+Truesight affectcost 100,000 gold and maybe sold for 200 silver coins.
+Restore Mana affectcost 50,000 gold and maybe sold for 100 silver coins.
+
+To turn page, type 'look page3' 
+~
+E
+page3~
+&CThe Basic Setup
+
+Now with the 30 room vnums, it should be setup to include the following:
+
+A Clan storeroom - has room flag clanstoreroom
+Clan Leader Office 
+Number One Office
+Number Two Office
+Number Three Office
+A Recall room
+
+Offices should have doors, unless not wanted.
+
+All rooms should have room flags that are noastral, noportal, nosummon.
+
+An entrance and exit to the clan that is hidden with the exflag hidden, but 
+can be accessed by any players, even non-clan members.
+
+If a saferoom flag is purchased it should be the recall room, or the healer
+room if a healer is purchased.
+
+To turn page, type 'look page4'
+~
+E
+page4~
+&CAn Advanced Setup
+
+Ahh, looks like we got some big spenders, and crafty leaders here.
+
+This is the same as a basic setup, except all 30 rooms are utilized.
+
+It can be done to make some type of maze for those entering the clan
+so non-members have a hard time finding their way inside.
+
+Paintings, signs, and other objects can be noted in room descriptions
+that read the clans motto, creed, and maybe even founders.
+
+This is done by redit ed sign or whatever you want for a player to
+look at.
+
+To turn page, type 'look page5'
+
+~
+E
+page5~
+&CClan Objects
+
+Yes the mother of all objects in every mud is the clan objects.
+
+Clan Object1 - Will be for levels 20 and below.
+Clan Object2 - Will be for levels 40 and below.
+Clan Object3 - Will be for levels 60 and below.
+
+Each Object must meet the following criteria.
+
+1. No colors in the object descriptions.
+2. Can only be a type armor object.
+3. Armor value for objects will be set at 15.
+4. Each object may have 3 affects.
+5. Any wear location maybe chosen by the Leader.
+Clan object flags will be clanobject, and magic.
+
+* Objects must meet 6D Building Guidelines 
+  http://6dragons.org/guide.html.
+
+To turn page, type 'look page6'
+~
+E
+page6~
+&CMore on Objects
+
+Available Affects that maybe chosen are:
+str, int, wis, con, cha, dex, lck, hitroll, damroll, armor, sneak,
+hide, pass_door, floating, invisible, hit, mana, move, resist, and detect_invis
+
+* Note: you may not stack affects.
+
+Clan Object1 maxes:
+
+ability score can only be affected by 2.
+hitroll can only be affected by 3.
+damroll can only be affected by 3.
+armor can only be affected by -10.
+hit can only be affected by 10.
+mana can only be affected by 10.
+move can only be affected by 30.
+resist can only be one weapontype.
+
+
+To turn page, type 'look page7'
+~
+E
+page7~
+&CYet More on Objects
+
+Clan Object2 maxes:
+
+ability score can only be affected by 3.
+hitroll can only be affected by 4.
+damroll can only be affected by 4.
+armor can only be affected by -12.
+hit can only be affected by 15.
+mana can only be affected by 15.
+move can only be affected by 40.
+resist can only be one weapontype.
+
+Clan Object3 maxes:
+
+ability score can only be affected by 4.
+hitroll can only be affected by 5.
+damroll can only be affected by 5.
+armor can only be affected by -15.
+hit can only be affected by 25.
+mana can only be affected by 25.
+move can only be affected by 50.
+resist can only be one weapontype.
+
+To turn page, type 'look page8'
+~
+E
+page8~
+&CClan Mobs
+
+Clan Healers if purchased will be set to level 125,
+which gives them a little higher bless then normal healers.
+
+Clan Guardians will be set at level 100, with level 100 stats.
+* Guardians should be set with truesight, and will have a program
+  on them set to attack non-clan members.
+
+* Note Again there should be no fancy colors in mob descriptions.
+* Mobs must meet 6 Dragons Building Guidelines.
+
+To turn page, type 'look page9'
+~
+E
+page9~
+&CClan Rooms
+
+* All Clan Room flags should include: noastral, noportal, nosummon.
+
+* Rooms must meet 6D Building Guidelines  
+
+To turn page, type 'look page10'
+~
+E
+page10~
+&CClan Rules
+
+Leaders and clan members shall be patient while waiting for clans to
+be built or improved.  If a STAFF member tells you it is being handled
+and not to ask about it again, doing so may forfeit your clan.  This
+is basically saying do not pester STAFF about when your clan will be
+done.  It will be done as soon as we are able.
+
+Disputes between clan leaders on objects, pricing, etc shall be handled
+via a council between the parties involved.  The decision of STAFF is
+final.
+
+Clan Leaders will are allowed one alt in their clan.
+All other members must be other players.
+Each clan may have a maximum of 10 members.
+There will be a maximum of 5 clans.
+
+~
+E
+page11~
+&CClan Commands
+ 
+Syntax : Clan
+Syntax : Clan < clan name>
+ 
+Clan by itself shows the listing of various clans.
+Clan with a name shows indepth info about a particular clan.
+ 
+Clan members maybe give rank, and be empowered by Clan Leadership.
+
+Syntax : Petition
+
+Sends a gnote to the leader of a clan letting them know you
+would like to join. 
+ 
+To turn the page 'look page12'
+~
+E
+page12~
+&CClan Leadership Commands
+ 
+Syntax: setrank clan <field> <player>
+
+This command is used by clan leadership to set the ranks, members, motto,
+and description for their prospective clans.
+ 
+Syntax: Empower <player> <field>
+
+This command lets clan leadership delegate clan duties such as: empower, induct
+outcast, or otherwise set the rank of a particular player members.
+ 
+Syntax: Declare <field> <clan>
+
+This allows the clan leader to declare war, peace, or alliance on other clans.
+ 
+Syntax: Induct <player>/ Outcast <player>
+ 
+Are clan leadership commands that allow players to be brought into the clan or
+kicked out.
+ 
+Syntax: Make <object>
+ 
+Lets clan leadership make clan objects.
+
+~
+E
+page1~
+&CCosts to the Player
+ 
+First off players that want a clan must &RAPPLY&C for the clan.
+Its not automatic because they saved up the gold needed.
+ 
+By applying I mean, they need to complete a detailed clan theme,
+and name to submit to us.  This will be reviewed for quality, and
+used in creating the clan.  Players should be told in a timely
+manner whether their application is good, or needs works, and what
+needs work done to it. 
+ 
+A Basic Clan Package consists of-
+25 room vnums
+1 room must be a store room, with clanstore flag.
+ 
+Your basic clan package with no bells and whistles currently is set
+at the cost of 5 million gold.  This may change as the economy here
+changes.
+ 
+ 
+* NOTE: All clan entrances can only be hidden, and locked.
+ 
+To turn the page, type 'look page2'
+~
+> drop_prog 100~
+mpforce $n trash rule
+~
+|
+#1294
+a snifter of brandy~
+a snifter of brandy~
+A snifter of brandy is here.~
+~
+17 1073741824 16385
+3 3 5 0 0 0 0
+1 0 0
+1
+0
+S 0 0
+#1295
+a dry martini; shaken, not stirred~
+&Ca dry martini; shaken, not stirred&D~
+A dry martini; shaken, not stirred is here.~
+~
+17 1073741824 16385
+3 3 8 0 0 0 0
+1 0 0
+1
+0
+S 0 0
+#1296
+a can of Pepsi~
+a can of &RPe&Wp&Bsi&D~
+A can of &RPe&Wp&Bsi&D fizzes away.~
+~
+10 0 16385
+202 -1 -1 -1 0 0 0
+1 0 0
+1
+0
+'quickening' 'refresh' 'NONE'
+S 0 0
+#1297
+MUDMobile~
+the MUDMobile~
+The MUDMobile vrooms here, chrome gleaming and code steaming.~
+~
+22 3 24577
+0 0 0 0 0 0 0
+1 0 0
+1
+8
+S 0 0
+> exa_prog 100~
+mea $n As you examine the smooth vehicle, a voice speaks-
+mpe _lbl To go somewhere, simply speak the name of the place
+mpe _lbl you wish to cruise to, and if it is around then you
+mpe _lbl will be taken there.
+mea $n &O-Courtesy of &YMaynard&O and the &Y6D&O PR Staff-&D
+~
+> speech_prog p Maynard~
+mea $n You jump into the MUDMobile, and are whisked away!
+mea $n In a split second, you arrive at the spot...
+mpechoar $n $n steps into the craft and is whisked away!
+mea $n Now leaving: Maynard's Office. Please watch your step.
+mea $n &cThe MUDMobile turns around, and vrooms off!&D
+mptrans $n 1208
+~
+> speech_prog p Sathek~
+mea $n You jump into the MUDMobile, and are whisked away!
+mea $n In a split second, you arrive at the spot...
+mpechoar $n $n steps into the craft and is whisked away!
+mea $n Now leaving: Sathek's Office. Please watch your step.
+mea $n &cThe MUDMobile turns around, and vrooms off!&D
+mptrans $n 1208
+~
+> speech_prog p Vladaar~
+mea $n You jump into the MUDMobile, and are whisked away!
+mea $n In a split second, you arrive at the spot...
+mpechoar $n $n steps into the craft and is whisked away!
+mea $n Now leaving: Hall of Code, Vladaar's Mansion. Please watch your step.
+mea $n &cThe MUDMobile turns around, and vrooms off!&D
+mptrans $n 1200
+~
+> speech_prog p Nagafen~
+mea $n You jump into the MUDMobile, and are whisked away!
+mea $n In a split second, you arrive at the spot...
+mpechoar $n $n steps into the craft and is whisked away!
+mea $n Now leaving: Path to Nagafen's Tower. Please watch your step.
+mea $n &cThe MUDMobile turns around, and vrooms off!&D
+mptrans $n 1202
+~
+> speech_prog p PR~
+mea $n You jump into the MUDMobile, and are whisked away!
+mea $n In a split second, you arrive at the spot...
+mpechoar $n $n steps into the craft and is whisked away!
+mea $n Now leaving: Hall of Player Relations. Please watch your step.
+mea $n &cThe MUDMobile turns around, and vrooms off!&D
+mptrans $n 1208
+~
+> speech_prog p Player Relations~
+mea $n You jump into the MUDMobile, and are whisked away!
+mea $n In a split second, you arrive at the spot...
+mpechoar $n $n steps into the craft and is whisked away!
+mea $n Now leaving: Hall of Player Relations. Please watch your step.
+mea $n &cThe MUDMobile turns around, and vrooms off!&D
+mptrans $n 1208
+~
+> speech_prog p Area Architect~
+mea $n You jump into the MUDMobile, and are whisked away!
+mea $n In a split second, you arrive at the spot...
+mpechoar $n $n steps into the craft and is whisked away!
+mea $n Now leaving: Hall of Area Architects. Please watch your step.
+mea $n &cThe MUDMobile turns around, and vrooms off!&D
+mptrans $n 1212
+~
+|
+#1298
+pick axe~
+a pick axe~
+A pick axe has been left here.~
+%s enjoy$q $p~
+73 0 16385
+8 0 0 0 0 1 0
+1 1 0
+4
+13
+S 0 0
+#1299
+grimoire questionable spells~
+the grimoire of questionable spells~
+A dark red grimoire is here bound by a silver chain.~
+~
+35 590342 17409 128
+0 0 0 0 0 0 0
+1 0 0
+4
+0
+S 0 0
+E
+grimoire manual preface ~
+&rThe chains snap open and the grimoire slowly floats up and opens directly before you
+emitting a large dust cloud. Letters written in blood begin appearing from the right
+side of the page in neat complex writing. As you study it more the strange language
+suddenly become intelligable and the words:
+
+                    &RGrimoire of of Questionable Spells&r
+                          written and composed by
+                              --==Samael==--
+
+appears in the center of the page. More words appear below that become intelligellible
+as the words:
+
+     &RThe spells contained inside are constrained to be of as little help as
+                            use at your own risk.&r
+
+suddenly appear below. The words suddenly clear an index appears in it's place.&D
+~
+E
+index~
+page1
+&RSCHOOL OF - Pitiless Conjuration&r
+Heavenly Cage of Saliva
+conjure detergent golum
+Magical Invocation of the Wrestlers
+Grand Incantation of the Vinegar Demon&D
+
+page2
+&RSCHOOL OF - Colorful Domination&r
+Dominate Mouthwash Elemental
+Control Florist&D
+
+page3
+&RSCHOOL OF - Desperate Enchantments&r
+Eliminate Bad Hair
+Dread Enchantment of Balsa
+Dread Shield of Baldness&D
+
+page4
+&RSCHOOL OF - One Shot Assaults&r
+Cabalistic Assault of Cramps
+Cursed Ritual of Diarrhea
+Puddle of Annoyance
+Astonishing Globe of Persperation
+Hermetic Invocation of Pus
+Erruption of Cowlicks&D
+
+page5
+&RSCHOOL OF - Useless Thought&r
+Astral Ceremony of Corn&D
+~
+A
+12 100
+A
+3 100
+A
+4 100
+#0
+
+
+#ROOMS
+#1200
+Fortress of Operations~
+The room is shaped in a gigantic oval.  A large hallway runs to the east,
+and west.  A giant rug covers the stone floor.  Rich tapestries hang from
+the walls.  A swirling portal of energy is part of the north wall, and leads
+into a dark dimension of unknown places.  A library is to the south.
+~
+1 268451844 43
+D0
+~
+dimension~
+8389679 -1 1224
+D1
+~
+~
+0 -1 1212
+D2
+~
+~
+0 -1 1251
+D3
+~
+~
+0 -1 1208
+D5
+~
+door~
+3 -1 1253
+R O 0 1200 1 1200
+R D 0 1200 0 2
+R D 0 1200 5 1
+E
+giant rug~
+The rug has a circle inside it with the symbols of all the councils.
+ 
+Writing in the center reads....
+ 
+&Y6D&w STAFF Councils committed to working together to bring the best
+ 
+mud experience possible to our players.
+ 
+~
+E
+swirling portal energy dark dimension~
+&YThe swirling portal of energy makes you feel sick to your stomach as
+you look into the endless dark dimension.
+~
+> act_prog p opens the dimension.~
+mppause 4
+mpecho &B$n utters some arcane words and the portal begins to open.
+mppause 4
+mpecho &CThe portal now reveals a hallway to the north.
+~
+> act_prog p closes the dimension.~
+mppause 4
+mpecho &B$n utters some arcane words and the portal begins to close.
+mppause 4
+mpecho &CThe portal is now completely closed off.
+~
+|
+S
+#1201
+Vladaar's Sanctuary~
+The room is surrounded with chairs, and desks.  A nice fireplace is in the
+center of the room.  A skull-shaped throne is against the far wall.  The
+ceiling is dome shaped, and has large spikes coming down from the top.
+~
+1 3146244 39 0 0 0 7
+D0
+~
+door~
+3 -1 4
+D2
+~
+patio~
+3 -1 1228
+R D 0 1201 0 1
+R D 0 1201 2 1
+E
+fireplace~
+The fireplace contains a nice warm fire.
+~
+E
+rug~
+It sure does look inviting.
+~
+E
+chair~
+It looks very comfortable.
+~
+S
+#1202
+A Sandy Path~
+This path is somewhat narrow, and is lined with a long garden filled with red
+and white roses. It leads to the east. The roses are to high to climb over or
+walk through. A slight breeze passes through here and cools the area. The path
+has small pockets of flowers growing in it as well. Not too far to the east
+lies a large building, its' walls made of a black marble with white lines
+swirling throughout it. To the west, a portal has been opened and leads to the
+6D Staff area.
+~
+1 4 0
+> speech_prog get~
+if level($n) > 207
+mpmload 1201
+mppause 5
+mpforce Julia emote comes rushing in the room for her Master Vladaar.
+endif
+~
+> speech_prog away~
+if level($n) > 207
+mpforce Julia say Heading back to tend the kitchen as you wish Vladaar.
+mpforce julia mpgoto 4
+endif
+~
+|
+S
+#1204
+Nagafen's Tower: Level 1~
+The inside of the tower here is vast. It seems to be an inside garden of sorts.
+The main attraction is a single rose bush, in the center of the room, that
+stands in its' own flowerbed. Its' petals aer not red, or white like the all
+of the others surrounding it in other flowerbeds, but a black color, with white
+edges to the petals. It puts off a very sweet smell. A small stream can be seen
+running through eventually leading to a small rock pond and waterfall. A few
+bonzai plants have grown to the rocks and seem to be doing quite well. Behind
+all these flowerbeds and gardens a single spiral staircase lies. A sign next
+to it reads, "Nagafen's Office".
+~
+1 4 0
+D4
+~
+~
+0 -1 1205
+> speech_prog get~
+if level($n) > 207
+mpmload 1201
+mppause 5
+mpforce Julia emote comes rushing in the room for her Master Vladaar.
+endif
+~
+> speech_prog away~
+if level($n) > 207
+mpforce Julia say Heading back to tend the kitchen as you wish Vladaar.
+mpforce julia mpgoto 4
+endif
+~
+|
+S
+#1205
+Nagafen's Office~
+The walls here are made of black marble with white streak running through them.
+On the walls, a picture of a rose has been etched into the wall and is very
+detailed. A small garden lies in the back of the room by the staircase. There
+is a white marble desk and coffee table here, with a few chairs to rest in.
+The staircase leads up, but seems to be sealed of by a door of some kind.
+~
+1 4 0
+D4
+~
+~
+0 -1 1206
+D5
+~
+~
+0 -1 1204
+R O 0 1201 1 1205
+R O 0 1202 1 1205
+R O 0 1203 1 1205
+> speech_prog get~
+if level($n) > 207
+mpmload 1201
+mppause 5
+mpforce Julia emote comes rushing in the room for her Master Vladaar.
+endif
+~
+> speech_prog away~
+if level($n) > 207
+mpforce Julia say Heading back to tend the kitchen as you wish Vladaar.
+mpforce julia mpgoto 4
+endif
+~
+|
+S
+#1206
+Nagafen's Tower: Level 3~
+This room is designed to help new builders. Please pay attention to everything
+and read this description. Type "look wall" for help on some normal building
+commands. Type "look etchings" for some more in depth commands, and type "look
+sign" for webpages to furthermore help you in building.
+~
+1 4 0
+D5
+~
+~
+0 -1 1205
+> speech_prog get~
+if level($n) > 207
+mpmload 1201
+mppause 5
+mpforce Julia emote comes rushing in the room for her Master Vladaar.
+endif
+~
+> speech_prog away~
+if level($n) > 207
+mpforce Julia say Heading back to tend the kitchen as you wish Vladaar.
+mpforce julia mpgoto 4
+endif
+~
+|
+S
+#1207
+Hall of Area Architects~
+A quiet parlour, the fireplace in the southwest corner emits a bright glow,
+from a dark, blue flame. The crackle of magical wood fills the air along
+with the smell of smouldering cedar. To the north lies an elaborately
+shaped, white, spruce, pine door. The door-knob is made of engraved silver.
+~
+1 4 0
+S
+#1208
+Hall of Player Relations~
+A long, quiet hall, each door looks like every other. A light incensed
+cloud fills the air along with the smell of smouldering cedar. To the north
+and south lie elaborately shaped, white, spruce, pine doors, donning 
+door-knobs of engraved silver. A large flashing sign just floats in the air.
+~
+1 4 39
+D0
+~
+door~
+8389665 -1 1210
+D1
+~
+~
+0 -1 1200
+D2
+~
+door~
+1 -1 1211
+D3
+~
+~
+0 -1 1209
+R D 0 1208 0 0
+R D 0 1208 2 0
+E
+large flashing sign~
+&Y+++++++ Hall of PLAYER RELATIONS +++++++&W
+ 
+  Head's Office -- North
+ 
+Asst. Head's Office -- South
+ 
+   Further Offices -- West
+ 
+ 
+Head of PR - }YMaynard&D&W | Asst. Head of PR - }YSathek&D&W
+&GWatch your step for buzzing MUDMobiles, and enjoy your day!&D
+ 
+ &Y++++++++++++++++++++++++++++++++++++++++&D
+~
+S
+#1209
+Hall of Player Relations~
+&gA long, quiet hall, each door looks like every other. A light incensed
+cloud fills the air along with the smell of smouldering cedar. To the north
+and south lie elaborately shaped, white, spruce, pine doors, donning 
+door-knobs of engraved silver. A large flashing sign just creaks in the air.&D
+~
+1 4 39
+D0
+~
+~
+3 -1 1234
+D1
+~
+~
+0 -1 1208
+D2
+~
+door~
+8389667 -1 1235
+D3
+~
+doors~
+7 -1 1233
+R D 0 1209 0 1
+R D 0 1209 2 1
+R D 0 1209 3 2
+E
+large flashing sign~
+A Vacant Office -- North
+ 
+  Broom Closet -- South
+ 
+  Player Relations Board Room -- West
+ 
+~
+S
+#1210
+An Office in a Lake of...LAVA?~
+&RDefinitely an office in a lake of lave. &RUpon entering this deathly 
+place of fire and death, only two things dominate this place: A large 
+basalt slab of rock used as a desk, and an ultra thin bridge--that barely 
+looks like it can support any weight at all--leading to that desk. 
+~
+1 -2147483644 0
+D0
+~
+wall~
+8389679 -1 31093
+D2
+~
+door~
+8389665 -1 1208
+R D 0 1210 0 2
+R D 0 1210 2 0
+E
+fireplace down glow blazing flame blue~
+&gThe fireplace, sunken into the lower portion of the office, seems to
+crackle and *POP* with life, blue flames dancing upon the magical wood,
+almost beckoning you to join them...
+~
+E
+large white marble desk~
+&gA large, white marble desk stands here, just emitting power and
+authority. Placed upon the top are a nameplate, and a small sign
+among other small articles.
+~
+E
+nameplate~
+&Y||  &WMaynard&O -- &WHead of Player Relations, &Y6D&W Staff  &Y||&D
+ 
+~
+E
+small sign~
+&W===Office Directives===
+ 
+1. If you are here to speak with me, please wait I am coming.
+2. If you are here for a meeting, please wait I will join you shortly.
+3. If you have no reason for being here, other then to look....
+- Be careful, many things bite, and they don't even have teeth! :0)
+ 
+    --Maynard
+ 
+~
+> speech_prog p Jeeves!~
+if level($n) >= 203
+mpmload 1297
+mppause 4
+mpforce Jeeves emote comes forth briskly, bowing as he enters the room.
+mppause 3
+mpforce Jeeves say Yyeeeeeesssss, sir?
+endif
+~
+> speech_prog p You may go~
+if level($n) >= 203
+mpforce Jeeves say As you wish, sir.
+mppurge Jeeves
+endif
+~
+> speech_prog p Oh Julia!~
+if level($n) > 203
+mpmload 1201
+mppause 5
+mpforce Julia emote comes rushing in the room for her man Maynard,+
+sweaty and sexy.
+mppause 2
+mpforce Julia say Here I am, you big teddy bear.
+mpforce julia giggle
+endif
+~
+> speech_prog p Away woman~
+if level($n) == 204
+mppause 2
+mpforce Julia say Of course, my sexy teddy bear.
+mpforce Julia giggle
+mppurge Julia
+endif
+~
+|
+S
+#1211
+Sinjin's Roadside Cafe~
+This cosy room is cleverly separated into both kitchen and dining area. 
+The entire expanse of wall is covered in neat cherry wood panels and a 
+number of paintings of landscapes and some attractive nudes. Mysterious 
+black granite flooring paves the way through the room guiding you to two 
+steps down into the kitchen area. The kitchen has all the appliances 
+including stove and refrigerator tucked in between neat rows of solid 
+cherry wood cupboards and counter tops as well as the prominence of coffee 
+making facilities. Aside from the raised floor, two rows of potted plants 
+at different heights line the edge of the platform to create a barrier, 
+invisible glass podiums supporting the colorful display which look as if 
+they freely levitate. A large cherry wood table decorated with fresh 
+flowers and candles invites you to dine in luxury, supported by matching 
+leather upholstered chairs whose curves invite you to enter their embrace. 
+Subdued lighting from the candles and decorative silver gas lamps finish 
+off the mood of this room elegantly. 
+~
+1 4 0
+D0
+~
+door~
+1 -1 1208
+R D 0 1211 0 0
+> speech_prog get~
+if level($n) > 207
+mpmload 1201
+mppause 5
+mpforce Julia emote comes rushing in the room for her Master Vladaar.
+endif
+~
+> speech_prog away~
+if level($n) > 207
+mpforce Julia say Heading back to tend the kitchen as you wish Vladaar.
+mpforce julia mpgoto 4
+endif
+~
+> speech_prog p Jeeves!~
+if level($n) >= 203
+mpmload 1297
+mppause 4
+mpforce Jeeves emote comes forth briskly, bowing as he enters the room.
+mppause 3
+mpforce Jeeves say Yyeeeeeesssss, sir?
+endif
+~
+> speech_prog p You may go~
+if level($n) >= 203
+mpforce Jeeves say As you wish, sir.
+mppurge Jeeves
+endif
+~
+|
+S
+#1212
+A Vast Hallway~
+This small hallway is rather quiet the crackle of burning wood and the
+smell of cedar reminds one of paradise.  To the north is an elaborately
+shaped, white spruce, pine door with a engraved silver door-knob.  To
+the south is a simple wooden door, with a glass window about halfway up
+the doorway.  The hall continues to travel off to the east passing by a
+few offices before coming to a dead end, and off to the west towards a
+four way intersection before approaching the Player Relation's section
+of the Staff Halls.
+~
+1 4 39
+D0
+~
+door~
+7 -1 1215
+D1
+~
+~
+0 -1 1213
+D2
+~
+door~
+3 -1 1216
+D3
+~
+~
+0 -1 1200
+R D 0 1212 0 2
+R D 0 1212 2 1
+S
+#1213
+A Vast Hallway~
+This hallway continues to travel off to the east leading towards a dead
+end and to the west passing by a few doorways before approaching a small
+intersection.  The crackle of burning wood fills the air along with the
+smell of smouldering cedar.  A mahogany door that is to the north stands
+apart from the more common spruce pine doorway to the south.  
+~
+1 4 39
+D0
+~
+mahogany door~
+3 -1 1217
+D1
+~
+~
+0 -1 1214
+D2
+~
+door~
+3 -1 1218
+D3
+~
+~
+0 -1 1212
+R D 0 1213 0 1
+R D 0 1213 2 1
+E
+silver plaque~
+A slender silver plaque has been fitted into an ebony slot installed on the 
+dark mahogany door set in the north wall.  In flowing black script, 
+apparently written there by hand and engraved into the silver by magical 
+means, is a name: "Neryn Sul'Tr, Corporal".
+~
+> speech_prog get~
+if level($n) > 207
+mpmload 1201
+mppause 5
+mpforce Julia emote comes rushing in the room for her Master Vladaar.
+endif
+~
+> speech_prog away~
+if level($n) > 207
+mpforce Julia say Heading back to tend the kitchen as you wish Vladaar.
+mpforce julia mpgoto 4
+endif
+~
+|
+S
+#1214
+A Vast Hallway~
+The small hallway comes to a sudden hault due to a large wall being built
+along the eastern side of the room.  The crackle of burning wood fills the
+air along with the smell of smouldering cedar.  To the north lies a set of
+elevator doors, and to the south is an gigantic metal door that has a large
+selection of different types of locks.  The grand hallway continues to run
+off to the west of here passing by many more offices before approaching a
+small intersection in the hall.
+~
+1 4 39
+D0
+~
+~
+3 -1 1252
+D3
+~
+~
+0 -1 1213
+R D 0 1214 0 1
+> rand_prog 40~
+if rand(35)
+mpecho &cSounds of horror can be heard, coming from the south.&D
+endif
+~
+|
+S
+#1215
+&RSamael's &zSmithy&D~
+&RTo the north the room opens up to a wide vista above a mountain. The smithy is 
+built next to a path that spirals up the face of the mountain. Against the 
+southwestern wall a f&zo&Rr&zg&Re is built into the rock at an angle just grave 
+enough to catch the last &Yrays&R of the sun and the first &Yrays&R of the morning. 
+A chiseling set and a small hammer are next to it while a k&ri&Rl&rn &Ris on the 
+opposite side of the small enclave. On the wall next to the chisel set leans a 
+couple bars of &Ws&wi&Wl&wv&We&wr &Rwith strange runes carved into them. Near the 
+kiln but out of the way a pool of frosty pool of chilled &Wunicorns &rblood&R. In 
+the middle of the floor a giant pitch black &zanvil&R is here and on it lies a book 
+titled, "&WHow to forge mythril"&R. 
+~
+1 524292 0
+D0
+~
+~
+16777216 -1 1256
+D2
+~
+door~
+7 -1 1212
+R D 0 1215 2 2
+S
+#1216
+A Glass Paneled Room~
+With floor to ceiling glass to the south, east and west, the only wall of 
+this room is the northern one which has white wallpaper with golden 
+designs. An mahogany door is set in the northern wall, with a large glass 
+window in it facing the hallway. Above, round white lamps made of frosted 
+glass hang at whimsically differing intervals from the ceiling. Through 
+the three glass walls, the blue sky and a garden of varying plants are 
+visible. 
+~
+1 4 0
+D0
+~
+door~
+1 -1 1212
+R O 0 1207 1 1216
+R O 0 1213 4 1216
+R D 0 1216 0 0
+S
+#1217
+Room for Rent~
+~
+1 1074791432 0
+D2
+~
+mahogany door~
+1 -1 1213
+D5
+~
+fogged glass trapdoor~
+8 -1 1250
+R D 0 1217 2 0
+E
+carpet~
+A picture window has been set into the far wall.  Why is anyone's guess, as 
+beyond it lies only the swirling gray mist of the void.  A set of dark blue 
+curtains, tied back with pale blue rope (complete with tassled ends), seem to 
+serve little purpose except a last touch of feminity, and the glass has been 
+polished with the methodic precision of an obsessive compulsive.
+~
+E
+window~
+A picture window has been set into the far wall.  Why is anyone's guess, as 
+beyond it lies only the swirling gray mist of the void.  A set of dark blue 
+curtains, tied back with pale blue rope (complete with tassled ends), seem to 
+serve little purpose except a last touch of feminity, and the glass has been 
+polished with the methodic precision of an obsessive compulsive.
+ 
+Just beneath the window, as closely centered on the floor as possible, is a 
+simple white oak trapdoor, panelled with a square of fogged glass and 
+sporting a clean silver handle.
+~
+E
+plant~
+Just beyond the door a clay pot (painted black -- an unexpected neutral amid 
+the blues and wood of the rest of the room) holds what appears to be a fake 
+hibiscus plant, adorned with five brilliant blooms, their orange and red 
+petals like sparks of fire amid lush green.  Upon closer inspection, though, 
+it becomes apparent that the plant seems not to be affected by gravity, 
+either; the leaves and flowers stand at attention, proud of their beauty and 
+brilliance.  How strange.
+~
+E
+artwork~
+Two paintings have been placed against the east and west walls, facing each 
+other across the center of the room.  They don't seem to have much of a 
+subject.  One is a cerulean splash of paint thrown against white canvas that 
+resembles (vaguely) a melting rose; or is that a weeping stick figure?  The 
+other is a monochromatic pattern of blues: various deformed geometric shapes 
+against a solid background, dancing a crazy fandango across the painting.  No 
+initials or labels have been placed on the "art," so they must not be done by 
+anyone famous (as though that would come as a surprise...).
+~
+> rand_prog 2~
+MPECHO _dbl +
+    The painting on the east wall seems to come alive for a moment...
+  MPECHO _cya +
+    The lopsided shapes adorning its dark blue canvas dance circles around+
+one another...
+~
+|
+S
+#1218
+LOADING CENTER~
+Carved from ancient rock, this room is both large and wide. The floor is 
+covered by a plush black carpet while the walls have many tapestries 
+hanging from them. In one corner of the room an oaken desk sits with a 
+chair pushed to the side. A bed on the opposite wall for someone to sleep 
+on in case work gets exhausting. On the wall next to the bed a weapon rack 
+is hung from the wall. It's displaying many daggers that have been 
+collected over the years. 
+~
+1 4 39
+D0
+~
+door~
+1 -1 1213
+R D 0 1218 0 0
+S
+#1219
+Taon's Office~
+&zThis office sets in the middle of a endless rift of time and space,
+lingering inside a void of utter darkness with no walls, floors, or
+ceilings.  Susspended in mid-air is the office has been banished to
+the spares of C.T.A.  A rather large black marble desk hovers in the
+air infront of a comfortable looking black leather chair.  The only
+way to access this room is by the use of a translucent elevator that
+travels through the rifts of time and space by using a magic only &RT&Wao&Bn&z
+could weave and invoke.
+~
+1 4 0
+D2
+~
+rift~
+1 -1 1254
+R M 0 1204 1 1219
+R O 0 1270 1 1219
+R D 0 1219 2 0
+> speech_prog get~
+if level($n) > 207
+mpmload 1201
+mppause 5
+mpforce Julia emote comes rushing in the room for her Master Vladaar.
+endif
+~
+> speech_prog away~
+if level($n) > 207
+mpforce Julia say Heading back to tend the kitchen as you wish Vladaar.
+mpforce julia mpgoto 4
+endif
+~
+|
+S
+#1220
+Theror's Office~
+A quiet parlour, the fireplace in the southwest corner emits a bright glow,
+from a dark, blue flame. The crackle of magical wood fills the air along
+with the smell of smouldering cedar. To the north lies an elaborately
+shaped, white, spruce, pine door. The door-knob is made of engraved silver.
+Looking up, the ceiling can not be seen.  There seem to be no bounds to the
+upper space in this room.  Several birds which seem to be on fire circle above.
+Occasionally one will spontaneously burst into flame, showering the floor with 
+ash.
+~
+1 4 0
+D0
+~
+door~
+3 -1 1214
+R D 0 1220 0 1
+> speech_prog get~
+if level($n) > 207
+mpmload 1201
+mppause 5
+mpforce Julia emote comes rushing in the room for her Master Vladaar.
+endif
+~
+> speech_prog away~
+if level($n) > 207
+mpforce Julia say Heading back to tend the kitchen as you wish Vladaar.
+mpforce julia mpgoto 4
+endif
+~
+|
+S
+#1221
+Fortress of Operations~
+A quiet parlour, the fireplace in the southwest corner emits a bright glow,
+from a dark, blue flame. The crackle of magical wood fills the air along
+with the smell of smouldering cedar. To the north lies an elaborately
+shaped, white, spruce, pine door. The door-knob is made of engraved silver.
+~
+1 4 0
+S
+#1222
+Fortress of Operations~
+A quiet parlour, the fireplace in the southwest corner emits a bright glow,
+from a dark, blue flame. The crackle of magical wood fills the air along
+with the smell of smouldering cedar. To the north lies an elaborately
+shaped, white, spruce, pine door. The door-knob is made of engraved silver.
+~
+1 4 0
+D5
+A red door stands at the end of a small flight of stairs leading down from the suite.
+~
+~
+11 -1 42300
+S
+#1223
+Fortress of Operations~
+A quiet parlour, the fireplace in the southwest corner emits a bright glow,
+from a dark, blue flame. The crackle of magical wood fills the air along
+with the smell of smouldering cedar. To the north lies an elaborately
+shaped, white, spruce, pine door. The door-knob is made of engraved silver.
+~
+1 4 0
+S
+#1224
+Game Admin Corridor ~
+The Hall is massive and goes on for what appears miles to the north.  There
+are strange writings all over the walls, floors, and ceilings.  The floor
+and walls are made out of a shimmering material that fades in and out.  A
+series of torches light the path to the north.
+~
+1 0 39
+D0
+~
+~
+0 -1 1225
+D2
+~
+dimension~
+8391719 -1 1200
+D5
+~
+~
+0 -1 1299
+R D 0 1224 2 2
+E
+writings strange writing wall walls floor floors ceiling ceilings~
+&Csend_to_char("&YGood Morning Vladaar.&C\n\r", ch);
+ 
+do_restore(ch, "Vladaar" );
+ 
+return;
+~
+> act_prog p opens the dimension.~
+mppause 4
+mpecho &B$n utters some arcane words and the portal begins to open.
+mppause 4
+mpecho &CThe portal now reveals a room to the south.
+~
+> act_prog p closes the dimension.~
+mppause 4
+mpecho &B$n utters some arcane words and the portal begins to close.
+mppause 4
+mpecho &CThe portal is now completely closed off.
+~
+|
+S
+#1225
+Six Dragons Board Room~
+The room has no walls or ceiling just a shimmering floor surrounded by vast
+emptiness.  A large sign hovers in the air above the table.  The universe
+spreads out before you all on sides with the stars and planets appearing to
+be within the reach of your hands.
+~
+1 0 39
+D0
+~
+illusion~
+8391719 -1 1226
+D2
+~
+~
+0 -1 1224
+R O 0 1202 1 1225
+R O 0 1203 1 1225
+R D 0 1225 0 2
+E
+sign~
+&CHall of Code Directives
+ 
+1. If you are hear to apply to be a coder see help 'coder'.
+2. If you are here for a meeting, please wait I will join you shortly.
+3. If you have no reason for being here, other then to look....
+- Ask my permission first.
+ 
+~
+> act_prog p opens the illusion.~
+mppause 4
+mpecho &Y$n has tossed the illusion of emptiness aside and revealed a mansion.
+mppause 4
+mpecho &CThe Mansion is massive and beckons you to head north.
+~
+> act_prog p closes the illusion.~
+mppause 4
+mpecho &CThe massive Mansion fades from view suddenly.
+mppause 4
+mpecho &Y$n has put up an illusion of emptiness to conceal a mansion.
+~
+|
+S
+#1226
+Before a Magnificant Mansion~
+A pure white Mansion made of marble gleams in the sunlight here.  A large
+set of columns hold up a decorated archway before a double door.  A plush
+green yard leads up to the mansion, but nothing besides the mansion and
+the yard seems to exist.  A solid wall is to the south.
+~
+1 0 39
+D0
+~
+double~
+3 -1 1227
+D2
+~
+illusion~
+8391719 -1 1225
+R D 0 1226 0 1
+R D 0 1226 2 2
+> act_prog p opens the illusion.~
+mppause 4
+mpecho &Y$n has tossed the illusion aside to reveal a southern doorway.
+mppause 4
+mpecho &CThe Code Board Room beckons you to head south.
+~
+> act_prog p closes the illusion.~
+mppause 4
+mpecho &CThe Code Board Room becomes masked behind a clever illusion.
+mppause 4
+mpecho &Y$n has put up an illusion of a wall to conceal a doorway.
+~
+|
+S
+#1227
+Reception Chamber~
+The room is massive in size and has oak trimmings on the walls.  A
+bricked floor is covered by a beautiful rug.  There are many paintings
+hanging from the walls.  A large chandelier decorates the ceiling.
+~
+1 0 39
+D0
+~
+~
+0 -1 1228
+D1
+~
+~
+0 -1 1232
+D2
+~
+double~
+3 -1 1226
+R D 0 1227 2 1
+E
+paintings~
+The paintings depict various battles throughout the time span of the
+realms.
+~
+S
+#1228
+The Grand Hall~
+The hallway is vast and extends to the east and west.  The floor is made
+up of marble squares.  There are perfectly sculpted crystal statues that
+line the walls.  An elegant dining room is spread out to the west, and a
+trendy bar is to the east.  The hallway is lit up from a crystal like
+ceiling that glows brightly illuminating the whole hall.
+~
+1 4 39
+D0
+~
+patio~
+3 -1 1201
+D1
+~
+~
+0 -1 1230
+D2
+~
+~
+0 -1 1227
+D3
+~
+~
+0 -1 1229
+R D 0 1228 0 1
+S
+#1229
+The Dining Room~
+A quiet parlour, the fireplace in the southwest corner emits a bright glow,
+from a dark, blue flame. The crackle of magical wood fills the air along
+with the smell of smouldering cedar. To the north lies an elaborately
+shaped, white, spruce, pine door. The door-knob is made of engraved silver.
+~
+1 4 39
+D1
+~
+~
+0 -1 1228
+R M 0 1255 1 1229
+S
+#1230
+The Bar of Reckoning~
+There is a giant oak counter to the south that has nearly every type of
+liquor available sitting on shelves.  A few bar stools are mounted to the
+floor in front of the counter.  Some paintings of the ocean decorate the
+wall.  The floor is covered with peanut shells.
+~
+1 4 39
+D1
+~
+~
+0 -1 1231
+D3
+~
+~
+0 -1 1228
+R M 0 1201 1 1230
+  R E 1 1209 1 5
+R O 0 1204 1 1230
+R O 0 1210 1 1230
+S
+#1231
+Courtyard Patio~
+A quiet parlour, the fireplace in the southwest corner emits a bright glow,
+from a dark, blue flame. The crackle of magical wood fills the air along
+with the smell of smouldering cedar. To the north lies an elaborately
+shaped, white, spruce, pine door. The door-knob is made of engraved silver.
+~
+1 4 39
+D3
+~
+~
+0 -1 1230
+S
+#1232
+Garden of Tranquility~
+The garden is full of plush plants, and flowers with a mulitude of colors.
+A few trees are strategically placed to avoid ruining the view of the
+garden.  The ground is a thick green grass with no weeds.
+~
+1 1073741824 39
+D3
+~
+~
+0 -1 1227
+> entry_prog 100~
+mpecho &CA cool breeze washes over you as you enter the garden.
+~
+|
+S
+#1233
+&WPlayer Relations Board Room&D~
+This appears to be the end of the Player Relations Hall, a Board Room
+where meetings are held, inductees are given paperwork and coffee is
+drunk. It is a regular meeting room with plush gray carpeting, soft tan
+walls and a soft lighting fixture in the middle, from where a sign hangs.
+Most of the space is taken by a long meeting table, the office chairs
+about it and a small water cooler in the corner with paper cups on top.
+~
+1 1073741828 1
+D0
+~
+~
+255 -1 1257
+D1
+~
+doors~
+7 -1 1209
+D3
+~
+doors~
+7 -1 1242
+R O 0 1203 1 1233
+R O 0 1202 1 1233
+R O 0 1206 1 1233
+R D 0 1233 1 2
+R D 0 1233 3 2
+E
+sign~
+== Player Relations Board Room Directives ==
+ 
+1. If you are hear to apply to be a PR wizard see help 'PR'.
+2. If you are here for a meeting, please wait we will join you shortly.
+3. If you have no reason for being here, other then to look....
+ 
+~
+E
+long meeting table~
+&dA long meeting table is here, donning ring marks, used and unused
+coffee cups, pads of paper, and lots and lots of broken pencils (a
+few still unbroken).
+~
+E
+small shiny water cooler~
+A shiny water cooler is here, with a big Sparkletts drum barrel on top...
+ 
+   ..eh, whats that? There seems to be a small sticker on the side of
+   the cooler! I wonder what is says...
+~
+E
+sticker~
+This is a sticker on the side of the water cooler, bright silver. Here's
+what it says:
+ 
+&C**Sparkletts Water Cooler**&D
+&cCall 555-COOL for servicing.&D
+&WHave a Great Day!&D
+ 
+It seems theres a small scratched message below on the sticker! It reads...
+ 
+&YCome get some more and chill out at the PR Lounge when you're off work :0)&D
+&YJust GOTO 1241 to chill and hang out, and don't walk into the pole! :D
+--Maynard&D
+ 
+&DHow peculiar!
+~
+S
+#1234
+Room for Rent~
+~
+1 1073741828 1
+D2
+~
+~
+3 -1 1209
+R D 0 1234 2 1
+> speech_prog get~
+if level($n) > 207
+mpmload 1201
+mppause 5
+mpforce Julia emote comes rushing in the room for her Master Vladaar.
+endif
+~
+> speech_prog away~
+if level($n) > 207
+mpforce Julia say Heading back to tend the kitchen as you wish Vladaar.
+mpforce julia mpgoto 4
+endif
+~
+|
+S
+#1235
+PR Department Broom Closet~
+Ugh! Cobwebs litter the cluttered closet, which feels extremely 
+cramped with 3 tall shelving units filling in the walls. Each shelf 
+is full of supplies, with some like brooms, refill cleaning fluid, 
+porter sticks and other logistic supplies. The right shelf holds 
+some peculiar bookends and a few big manuals, and the floor looks 
+like pure dirt and dustbunnies. Strangely enough, a shiny bronze 
+pole extends from the ceiling into the floor.
+A small tunnel leads to the south through the bookshelf, into darkness.
+~
+1 1073741828 1
+D0
+~
+door~
+8389665 -1 1209
+D2
+~
+bookshelf~
+655371 -1 1246
+R M 0 1215 1 1235
+  R E 1 1216 1 6
+  R E 1 1211 1 5
+R D 0 1235 0 0
+R D 0 1235 2 1
+E
+bookshelf~
+The tall one to the south seems moveable, and light... perhaps it can be
+opened? 
+ 
+Oh, whats this? A small note on the bookshelf, that reads:
+ 
+   &CMade Playpen for PR to mess around on objects
+    and mobs with. Go in if you're PR, if not then BEWARE!!!&D
+ 
+ &C--Maynard&D
+ 
+How nice... looks like some fun is waiting on the other side!
+~
+S
+#1241
+The PR Lounge~
+A couple pool tables, some old couches, a small fridge and a bar, all
+under the glow of some colored-glass Pool lights, complete this warm and
+cozy lounge. The sound of the 8-ball in the corner pocket and beer cans
+being *POP*ed and drunk is familiar throughout this great, great place.
+Strangely enough, a shiny bronze pole extends from the base at the ceiling
+down through the floor into a dark room below.
+~
+1 1073741824 1
+D5
+~
+pole~
+0 -1 1235
+R O 0 1206 1 1241
+R O 0 1204 1 1241
+S
+#1242
+&WHall of Player Relations&D~
+&gA long, quiet hall, each door looks like every other. A light incensed
+cloud fills the air along with the smell of smouldering cedar. To the north
+and south lie elaborately shaped, white, spruce, pine doors, donning 
+door-knobs of engraved silver. A large flashing sign just creaks in the air.&D
+~
+1 1073741828 0
+D0
+~
+door~
+33555459 -1 1243
+D1
+~
+doors~
+7 -1 1233
+D2
+~
+door~
+3 -1 1245
+R D 0 1242 0 1
+R D 0 1242 1 2
+R D 0 1242 2 1
+E
+large flashing sign~
+&WKiandra's Office -- North
+ 
+Alirin's Office -- South&D
+ 
+~
+S
+#1243
+Room for Rent~
+~
+1 3154948 0
+D2
+~
+door~
+1027 -1 1242
+R D 0 1243 2 1
+E
+door~
+The door is solid oak with a golden knob in the shape of the head of a 
+dragon. 
+~
+S
+#1245
+Office for Rent~
+~
+1 1073741828 1
+D0
+~
+door~
+3 -1 1242
+R D 0 1245 0 1
+S
+#1246
+PR Playpen~
+Here numerous colored balls are piled high from each corner, leading into
+a ball-covered valley in the middle of the room.  Wallpapers printed with
+pastel colors and Disney characters line the walls beneath rubber spheres
+of red, blue, yellow and green, and as you enter this room a large sign pops
+out of a small hole in the ceiling, with a few balls too.
+~
+1 1073741828 1
+D0
+~
+door~
+3 -1 1235
+R M 0 1251 1 1246
+R O 0 1251 1 1246
+R D 0 1246 0 1
+E
+large sign~
+--Rules of the PR Playpen--
+ 
+  *No Fighting*
+ 
+   *Only use OSET and MSET to toy with.*
+ 
+   *Only toy with obj and mob in room.*
+ 
+  *Be creative*
+ 
+  *When set for review, ask a Head*
+ 
+  *If using progs, check and debug*
+ 
+  *If using progs, make it cool!*
+ 
+--                       --
+~
+> entry_prog 100~
+mppause 4
+if council($n) == player relations
+mppause 4
+mpecho &CA voice says 'Welcome to the PR Playroom, Staff Member $n. Enjoy+
+your stay, and have a nice day.'&D
+mppause 4
+mpecho A large sign *POP*s and floats down slowly into view from the ceiling.
+else
+mpecho &CA voice says 'You are not PR, you worthless piece of turd. You are a+
+Spy!'
+mppause 3
+mpecho &CA voice says 'Have a nice day.'&D
+mpecho &RA large sign *POP*s and hits you in the head hard!&D
+mppause 4
+mpecho &RWhen you look up to see the sign, balls fall on your face and spill+
+rotten eggs all over you!&D
+endif
+~
+|
+S
+#1247
+Bexar's Lair~
+Floppy disks, bones, broken furniture and treasure are strewn across the 
+floor of the chamber. Dried blood is splattered across everything, a trail 
+of it visible towards the opening of this lair. The only thing that seems 
+to have been spared destruction is a pool of crystal clear water and an 
+oak desk. On the desk stands an old buggy windows 95 computer with a 
+rattling hard drive. 
+
+~
+1 1073741836 0
+S
+#1248
+Floating in a void~
+~
+1 1073741828 1
+S
+#1249
+Room for Rent~
+~
+1 1073741828 1
+S
+#1250
+A Large Basement Study~
+A cement staircase leads down into a rather large room that resembles a 
+prison cell more than anything.  The walls, floor and ceiling are all cement, 
+maintaining decent insulation that gives the room a breezy coolness not 
+entirely uncomfortable.  Papers and pencils lie in a hectic craze about the 
+floor, scribbled over with notes and grids.  A few pieces of graph paper have 
+been taped against the back wall, showing off a formidable map that doesn't 
+seem to cover much real space.
+~
+1 1073741824 1
+D4
+~
+fogged glass trapdoor~
+33 -1 1217
+R O 0 1215 1 1250
+R O 0 1219 1 1250
+R D 0 1250 4 0
+E
+staircase~
+A plain staircase with a sanded oak railing is set into the northeast corner 
+of the room, even less elaborate than the meager decorations of the living 
+room upstairs.  The fogged glass trapdoor leads back up to a less arid 
+scenery, though maybe it's not any less bland.
+~
+E
+papers pencils~
+Loose papers lie across the floor in piles and alone: notebook paper, sketch 
+paper, graph paper.  Most of it is blank, but some of the lined stuff has 
+notes and maps scribbled across them, each labeled neatly with the words 
+"Gorj Uluk" -- apparently the resident's latest project.  Pencils of various 
+colors and stages of use are strewn across the floor, probably having fallen 
+from the desk and rolled to their current positions.
+~
+E
+graph paper map~
+Against the west wall, three large pieces of graph paper have been taped side 
+by side, each labeled in a crisp cursive hand: "The Goblin Fortress Gorj 
+Uluk."  They go in order from top to lower level, each drawn square 
+representing a room, its vnum labeled as crisply as the area name, only now 
+in red ink instead of black.  The arrangement of the area, as well as that of 
+the maps, signals the work of an obsessive compulsive...  That could be both 
+good and bad.
+~
+S
+#1251
+Staff Library~
+A gigantic oval room is filled with rows and rows of book shelves.  The floor
+is made up of swirling marble colored stone slabs.  The ceiling has massive
+oak archways, with large pillars leading up to them.  There are many large
+stain glassed windows.  Several hooded lanterns are mounted to walls.
+~
+1 1074003968 39
+D0
+~
+~
+0 -1 1200
+R O 0 1225 1 1251
+  R P 0 1293 1 1225
+  R P 0 1224 1 1225
+  R P 0 1214 1 1225
+  R P 0 1205 1 1225
+> entry_prog 100~
+mppause 2
+mpechoat $n A strong feeling that your every question can be answered here penetrates your mind.
+mppause 4
+mpechoat $n If you take a book from the shelf, make sure you return it.
+mppause 2
+mpechoat $n Lest you invoke the wrath of the librarian.
+mppause 4
+mpechoat $n Do not place non-book, or map items in the shelf.
+~
+|
+S
+#1252
+Office for Rent~
+~
+1 1073741828 1
+D2
+~
+~
+1 -1 1214
+R D 0 1252 2 0
+> rand_prog 1~
+if ispc($n)
+mea $r A translucent figure passes through a wall, then quickly leaves+
+through another one.
+endif
+~
+> rand_prog 1~
+if ispc($n)
+mpforce $n cry
+mppause 4
+mpforce $n rest
+mppause 4
+mea $n You start pulling all of your hair out.
+mer $n $n starts pulling all of their hair out.
+endif
+~
+> act_prog p grins.~
+if ispc($n)
+mea $n In your mental state you see, a twisted up clown face grin back at+
+you.
+mer $n In $n mental state they swear they just seen a twisted up clown face+
+grin back at them.
+endif
+~
+> rand_prog 1~
+if ispc($n)
+mea $r For a second you can swear you just seen the glare from Taon's+
+buggy eyes.
+endif
+~
+> rand_prog 1~
+if ispc($n)
+mea $r The chilling sounds of children screaming can be heard coming from+
+everywhere.
+endif
+~
+|
+S
+#1253
+Office for Rent~
+~
+1 1073741824 2
+D4
+~
+door~
+3 -1 1200
+R D 0 1253 4 1
+S
+#1254
+A Mystic Elevator~
+&CThis small room shimmers with waves of colors as its ectoplasmic walls
+shift into many different shapes and sizes, then quickly melts back down
+to almost a liquid like material.  The elevator has been weaved out of a
+magic that only Taon could invoke.  While one is passing through the rifts
+of time and space everything begins to fade dark, as the elevator jolts
+and shifts violetly as it soars by the spares of C.T.A.
+~
+1 1073741824 1
+D0
+~
+rift~
+10488875 -1 1219
+D2
+~
+'elevator doors'~
+1 -1 1214
+R D 0 1254 0 1
+R D 0 1254 2 0
+S
+#1255
+Office for Rent~
+~
+1 1076896772 1
+S
+#1256
+Outside the Smithy~
+&wThe air is cool as a brisk wind blows by. The heat from the smithy to the south 
+keeps it a relatively nice temperature however. To the east the path continues down 
+the mountain, and to the west it spirals upwards. A small tree is just near the 
+entrance on the eastern side. A small dwarf sits at the foot of the tree watching 
+something bright a littles ways towards the western pathway. A giant orb is here 
+covered in what looks to be mostly blue with big sections marked green and a flimsy 
+white mist surrounds all of it. A sign sits infront of it marked 'Do Not Touch'. 
+Snow begins falling a little ways down each path. 
+~
+1 1073741824 1
+D2
+~
+~
+0 -1 1215
+S
+#1257
+Office for Rent~
+~
+1 1076896768 1
+D2
+~
+~
+8389815 -1 1233
+S
+#1258
+Amarath's Office~
+&r
+
+The room is painted a dark red, likely to hide any and all blood stains 
+that might happen when she appears and disappears from the place. Hanging 
+on a wall there is but one painting, that of a beautiful pink flower. It 
+looks like a lotus but the tips of the petals curl out like a rose just 
+beginning to bloom. There are several torches lighting the room, all 
+burning a black flame. The tile floor is a dark shade of grey with gold 
+stripes in the stone forming the shape of a pentagram on each tile. 
+&D
+~
+1 1076896768 1
+D1
+~
+~
+7 -1 1242
+S
+#1266
+Greetmir's Straightjacket~
+You must have done something quite naughty to have been placed here. Now 
+you will have some quiet time to think about your actions and contemplate 
+your future plans. There is nothing else to do here, afterall. You shall 
+be released at the convenience of the Staff Member that placed you here 
+after they have spoken with you. 
+
+Perhaps.
+
+~
+1 3515532 1
+S
+#1270
+&PFya's Grove~
+&GA sparkling brook flows across a verdant green clearing.  The water
+is just barely deep enough to swim in.  Grass forms a soft, thick
+cushion along the banks.  A multitude of tiny varicolored flowers
+peek out of the grass.  A thick wall of trees encloses the clearing 
+completely, allowing no egress.
+~
+1 33562628 1
+S
+#1299
+Zeplin's Office~
+Kiytain            PK     23rd Level     Demon       HellSpawn
+Hecate             PK      2nd Level     Shade       Assassin/Necro/Mage
+Sasha                      9th Level     Pixie       Mage/Crusader/priest
+Mokie              PK      9th Level     WereWolf
+Kota               PK      7th Level     Shade       Necro/Mage/Assassin
+Lucrat             PK      2nd Level     Drow        Necro/Assassin/Mage
+Dami               PK      5th Level     Demon       Hellspawn/priest/priest
+Kami                       5th Level     lizardman   Necro/assassin/Warrior
+~
+1 1073741828 0
+D4
+~
+~
+0 -1 1224
+S
+#0
+
+
+#SHOPS
+ 1297    0  0  0  0  0   100  90         0  0    ; Jeeves
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  1214 spec_breath_acid
+S
+
+
+#$

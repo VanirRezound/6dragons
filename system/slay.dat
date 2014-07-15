@@ -1,0 +1,962 @@
+#SLAY
+Type  die~
+Owner  Any~
+Color  12
+Cmessage  &Rdiediediediediediediediediediediedie
+
+                 die         die
+
+                die          die
+
+               diediediedie  die
+
+              die       die  die        die
+
+             die       die   die       die
+
+            die       die    die      die
+
+           die die die       die    die
+
+          die    die         die  die
+
+               die           diedie      die
+
+            die              die     die  die
+
+         die              diedie          die
+
+      die               die   die         die
+
+                     die       diediediedie
+
+ 
+
+                   &Y(&WThe deed is done.&Y)
+
+~
+Vmessage  &Rdiediediediediediediediediediediedie
+
+                  die         die
+
+                 die          die
+
+                diediediedie  die
+
+               die       die  die        die
+
+              die       die   die       die
+
+             die       die    die      die
+
+            die die die       die    die
+
+           die    die         die  die
+
+                die           diedie      die
+
+             die              die     die  die
+
+          die              diedie          die
+
+       die               die   die         die
+
+                      die       diediediedie
+
+ 
+
+                        &Y(&WDie.&Y)
+
+~
+Rmessage  &Rdiediediediediediediediediediediedie
+
+                  die         die
+
+                 die          die
+
+                diediediedie  die
+
+               die       die  die        die
+
+              die       die   die       die
+
+             die       die    die      die
+
+            die die die       die    die
+
+           die    die         die  die
+
+                die           diedie      die
+
+             die              die     die  die
+
+          die              diedie          die
+
+       die               die   die         die
+
+                      die       diediediedie
+
+ 
+
+                   &Y(&W$N has died.&Y)
+
+~
+End
+
+#SLAY
+Type  snack~
+Owner  Any~
+Color  12
+Cmessage  With vegence singing to you....
+
+You grow to the size of Storm giant.
+
+
+Now with your grissly deed in mind....
+
+You grasp $N in your meaty hand.
+
+
+With a casual toss you flip $N into your
+
+massive mouth and chew up $N into little 
+
+pieces before you swallow.
+
+~
+Vmessage  $n mutters some arcane words and grows to the size of a Storm giant!
+
+ 
+
+$n picks you up in his giant hand, and casually tosses you into his
+
+ 
+
+massive mouth!
+
+ 
+
+$n chews you to pieces until you see nothing, but darkness.......
+
+~
+Rmessage  $n mutters some arcane words, and suddenly grows to the size of a Storm giant!
+
+ 
+
+$n scoops up $N with one meaty hand, and casually tosses $N into his mouth.
+
+ 
+
+$n chews up $N into little pieces, before swallowing.
+
+ 
+
+~
+End
+
+#SLAY
+Type  pie~
+Owner  Any~
+Color  25
+Cmessage  A GIANT PIE falls upon your head from the sky!!
+
+You have been obliterated by a GIANT PIE!!!!! 
+
+~
+Vmessage  $n sends a GIANT PIE from the sky, and drops it on your head!!!
+
+~
+Rmessage  $n drops a GIANT PIE from the sky on $N, swishing them into nothingness!!!
+
+~
+End
+
+#SLAY
+Type  implode~
+Owner  any~
+Color  25
+Cmessage  &YYou snap your fingers and cackle evilly!&D
+
+
+&zSuddenly, $N doesn't feel very well...
+
+ 
+
+ 
+
+&Y|/  /\  D  ( )  ( )  |\  /|  |||&D 
+
+&R|\  /\  D  ( )  ( )  | \/ |  ...&D
+
+
+ 
+
+&Y$N implodes, entrails splattering all over the room!&D
+
+~
+Vmessage  &Y$M snaps his fingers and cackles evilly!
+
+
+&zSuddenly, you don't feel very well...
+
+ 
+
+ 
+
+&Y|/  /\  D  ( )  ( )  |\  /|  ||| 
+
+&R|\  /\  D  ( )  ( )  | \/ |  ...
+
+ 
+
+&YYou implode, entrails splattering all over the room!&D
+
+~
+Rmessage  &Y$M snaps his fingers and cackles evilly!
+
+ 
+
+&zSuddenly, $N doesn't feel very well...&D
+
+  
+
+  
+
+ &Y|/  /\  D  ( )  ( )  |\  /|  ||| 
+
+ &R|\  /\  D  ( )  ( )  | \/ |  ...
+
+
+  
+
+&Y$N implodes, entrails splattering all over the room!
+
+~
+End
+
+#SLAY
+Type  al_slay~
+Owner  any~
+Color  25
+Cmessage  &bYou begin to twitch as your stress builds and finally
+
+peaks...
+
+ 
+
+You scream out, "&rTAON!!!!!!&b" and he bursts forth through
+
+the ground, roaring with all his demonic might!
+
+ 
+
+"&rThe time has come for you to die, $N.&b" the evil Taon
+
+hisses through his horrendous fangs.
+
+ 
+
+&PAAaaaaAAaaAAAaaiiiIIIIeeEEEeeeeeEEE!!!!!.... &bscreams $N
+
+as $S body is torn apart by Taon's many crooked fingernails.&D
+
+~
+Vmessage  &bYou feel a little nervous as $n starts twitching violently
+
+and screams out, "&rTAON!!!!!!&b" at the top of $s lungs.
+
+The ground beneath your feet cracks and shifts, and a
+
+gigantic evil Taon bursts forth from the earth!
+
+ 
+
+"&rThe time has come for you to die, $N.&b" the evil Taon
+
+hisses through his horrendous fangs.
+
+ 
+
+&PAAaaaaAAaaAAAaaiiiIIIIeeEEEeeeeeEEE!!!!!.... &byou scream
+
+as your body is torn apart by Taon's many crooked fingernails.&D
+
+~
+Rmessage  &bAs you stare in horror, $n starts twitching violently
+
+and screams out, "&rTAON!!!!!!&b" at the top of $s lungs.
+
+The ground beneath your feet cracks and shifts, and a
+
+gigantic evil Taon bursts forth from the earth!
+
+ 
+
+"&rThe time has come for you to die, $N.&b" the evil Taon
+
+hisses through his horrendous fangs.
+
+ 
+
+&PAAaaaaAAaaAAAaaiiiIIIIeeEEEeeeeeEEE!!!!!.... &b$N screams
+
+as $S body is torn apart by Taon's many crooked fingernails.&D
+
+~
+End
+
+#SLAY
+Type  stake~
+Owner  Any~
+Color  25
+Cmessage  &WHaving put up with all you can take from $N, you make a magical stake 
+
+appear in your hand and quickly shove it into $N's chest, &rblood&W pours 
+
+out of $S wound.&D 
+
+~
+Vmessage  &WHaving put up with all $e can take from you, $n makes a magical stake appear 
+
+in $s hand and quickly shoves it into your chest, &rblood&W pours out of your 
+
+wound.&D 
+
+~
+Rmessage  &WHaving put up with all $e can take from $N, $n makes a magical stake 
+
+appear in $s hand and quickly shoves it into $N's chest, &rblood&W pours 
+
+out of $S wound.&D 
+
+~
+End
+
+#SLAY
+Type  alaecorn~
+Owner  any~
+Color  12
+Cmessage  A golden alaecorn charges out of the aether, impaling $N on his long, spiralling horn.
+
+~
+Vmessage  A golden alaecorn charges out of the aether, impaling you on his long, spiralling horn.
+
+~
+Rmessage  A golden alaecorn charges out of the aether, impaling $N on his long, spiralling horn.
+
+~
+End
+
+#SLAY
+Type  slime~
+Owner  Any~
+Color  12
+Cmessage  A GINORMOUS SLIME FALLS DOWN FROM THE SKY SLAYING $N!
+&P                              ,     ,                                
+
+                                       .+                                  
+
+                                     ,,@@                                  
+
+                                      .#@,                                 
+
+                                     ,#+*:,                                
+
+                                    ,+#++@ ,                               
+
+                                    .@+++@,                                
+
+                                   :@+++++#,                               
+
+                                  .@++++:+@.,                              
+
+                              , ,+@++++:::+@  ,                            
+
+                               ,##++++::::+*#  ,                           
+
+                              :@+*+++::::::+#+,                            
+
+                         ,  ,##***+++::...::+#*                            
+
+                      , , ,*@****++++::....::+##                           
+
+                      , ,*@*****+++::::.....::++@: ,                       
+
+                     , +@******+++++::::....:::++##,                       
+
+                     :@******+++++::::::......:::+*@: ,,                   
+
+                 , .##******+++++::::::::......:::++#@.,  ,                
+
+               ,, *@*******+++++::::::::::......:::+++@*                  
+
+              , :@*******+++++:::::::::::::.......:::++*@:                 
+
+            , ,*#*******+++++:::::::::::::::........::+++## ,          
+
+           ,,,@********+++++:::::::::::::::::.......:::+++*@,              
+
+          , .@*#*****++++++::::::::::::::::::::......:::++++@:             
+
+         , :@**#****+++++:::::::::::::::::::::::.....::::+:++@+   
+
+         ,.@******++@@@@#+::::::::::::::::::::::::...::::::+++#*           
+
+        ,,@**#***+@*, ,,.##:::::::::::::::::::::::::::::::::+++#+,        
+
+        ,@******+@: ,   ,,:*:::::::::::+@###@@:::::::::::::::+:+#:,        
+
+       ,@**#***+*+  :##+   #+:::::::::#*, , ,.@+::::::::::::::+:+@,,       
+
+       ***#****+@  +WWWW@ ,.#::::::::#:,       #+::::::::::::::+++@       
+
+      .@******+**,,WWWWWW. ,@::::::::*  .@@@:   @::::::::::::::+++#.,     
+
+     ,@+*****++*: ,WWWWWW:, @:::::::@, .WWWWW:, :+:::::::::::::++++@ ,     
+
+     .#****++++*:  WWWWWW:  @:::::::# ,@WWWWWW ,,#:::::::::::::::++#:      
+
+     #***+++:++++, #WWWWW  ,#:::::::* ,WWWWWWW,, @:::::::::::::::+++@      
+
+    ,@**++::::::@  ,#WW@,  ++:::::::*  @WWWWWW,  @::::.....:::::++++#.     
+
+    :**++:..::::+#  ,, ,,,.#::::::::@, :WWWWW* ,.*:::.......:::::++++# ,   
+
+    #+*+:..,..:::*@,,    :@:::::::::#., :@W@+ , #:::...,,,...::::++++@,    
+
+    @**+:.,,,..:::+#@#*#@*:::::::::::@,     ,, *+::...,,,,,..::::++++#.    
+
+    @**+:.,,,..:::::::::::::::::::::::@+, ,  ,#*:::...,,,,,,.::::++++*+    
+
+   ,@**+:..,..:::::::::::::::::::::::::+@#**@@:::::...,,,,,,.::::++++**,   
+
+   ,#**++:...:::::::::::::::::::::::::::::+::::::::...,,,,,..::::++++*#    
+
+   ,@***++::::::+#::::::::::::::::::::::::::::::::::...,,,,..:::+++++*#    
+
+    @*****++++++@WWW@#+:::::::::::::::::::::+#WWW::::......:::::++++**+    
+
+    #*##***+++++#WWWWWW@#+:::::::::::::++#@WWWWWW+:::::::::::::++++**#:    
+
+    +*******+++++WWWWWWWWWW@@@####@@@@@@##@WWWWWW+::::::::::::+++++**#,    
+
+    ,@*##****++++#WWWWWWW@@########*****##*##WWWW:::::::::::::+++++**W    
+
+     @*###***+++++WWWWW@#######**************#@W*:::::::::::++++++***#     
+
+     +#*###***+++:*WW@#######*****************#@::::::::::::+++++***#:    
+
+      @*###****++++#W#####*********+++++******@:::::::::::++++++++**@      
+
+     ,***###***+++++@####*******+++++++++++**@+:::::::::++++++++*****      
+
+      ,@**##****++++:###********+++++++++++*@+:::::::::++++++++****@,      
+
+       +#**##*****++++##********++++++++++##:::::::::+++++++++****#+       
+
+       ,W**###****++++++@@+***+++++++++*@#:::::::::++++++++++*****@        
+
+        .W+####*****+++:++#@#*++++++*@#+:::::::::+++++++++++*****@,,       
+
+         .@+*###*****+++++::+*#@@@#*+::+::::::+++++++++++++***#*@.,        
+
+         ,:@**####*****++++++::::::+++::+++++++++++++++++******@+          
+
+          ,.@**####*****++++++++++++++++++++++++++++++********@:           
+
+            .@***####******++++++++++++++++++++++++**********@:            
+
+            , ##****##*******+++++++++++++++++++**********+*@,,            
+
+              ,.@#***####***********+++++++***************@*              
+
+                ,:@#****#####**********************#****@@,,               
+
+                 , :@@*****###**#**************##****#@*.                  
+
+                     ,+@@#****#**#**##***********+#@@:, ,                  
+
+                     ,  ,:#@@##*************+*#@@#:,, ,                   
+
+                            ,,:*#@@@@@@@@@W@@*:,                           
+
+                                    ,,,,,,,   
+
+
+
+&D
+
+~
+Vmessage  $n SUMMONS A GINORMOUS SLIME THAT CRUSHES YOU INSTANTLY!
+&P
+
+                              ,     ,                                
+
+                                       .+                                  
+
+                                     ,,@@                                  
+
+                                      .#@,                                 
+
+                                     ,#+*:,                                
+
+                                    ,+#++@ ,                               
+
+                                    .@+++@,                                
+
+                                   :@+++++#,                               
+
+                                  .@++++:+@.,                              
+
+                              , ,+@++++:::+@  ,                            
+
+                               ,##++++::::+*#  ,                           
+
+                              :@+*+++::::::+#+,                            
+
+                         ,  ,##***+++::...::+#*                            
+
+                      , , ,*@****++++::....::+##                           
+
+                      , ,*@*****+++::::.....::++@: ,                       
+
+                     , +@******+++++::::....:::++##,                       
+
+                     :@******+++++::::::......:::+*@: ,,                   
+
+                 , .##******+++++::::::::......:::++#@.,  ,                
+
+               ,, *@*******+++++::::::::::......:::+++@*                  
+
+              , :@*******+++++:::::::::::::.......:::++*@:                 
+
+            , ,*#*******+++++:::::::::::::::........::+++## ,          
+
+           ,,,@********+++++:::::::::::::::::.......:::+++*@,              
+
+          , .@*#*****++++++::::::::::::::::::::......:::++++@:             
+
+         , :@**#****+++++:::::::::::::::::::::::.....::::+:++@+   
+
+         ,.@******++@@@@#+::::::::::::::::::::::::...::::::+++#*           
+
+        ,,@**#***+@*, ,,.##:::::::::::::::::::::::::::::::::+++#+,        
+
+        ,@******+@: ,   ,,:*:::::::::::+@###@@:::::::::::::::+:+#:,        
+
+       ,@**#***+*+  :##+   #+:::::::::#*, , ,.@+::::::::::::::+:+@,,       
+
+       ***#****+@  +WWWW@ ,.#::::::::#:,       #+::::::::::::::+++@       
+
+      .@******+**,,WWWWWW. ,@::::::::*  .@@@:   @::::::::::::::+++#.,     
+
+     ,@+*****++*: ,WWWWWW:, @:::::::@, .WWWWW:, :+:::::::::::::++++@ ,     
+
+     .#****++++*:  WWWWWW:  @:::::::# ,@WWWWWW ,,#:::::::::::::::++#:      
+
+     #***+++:++++, #WWWWW  ,#:::::::* ,WWWWWWW,, @:::::::::::::::+++@      
+
+    ,@**++::::::@  ,#WW@,  ++:::::::*  @WWWWWW,  @::::.....:::::++++#.     
+
+    :**++:..::::+#  ,, ,,,.#::::::::@, :WWWWW* ,.*:::.......:::::++++# ,   
+
+    #+*+:..,..:::*@,,    :@:::::::::#., :@W@+ , #:::...,,,...::::++++@,    
+
+    @**+:.,,,..:::+#@#*#@*:::::::::::@,     ,, *+::...,,,,,..::::++++#.    
+
+    @**+:.,,,..:::::::::::::::::::::::@+, ,  ,#*:::...,,,,,,.::::++++*+    
+
+   ,@**+:..,..:::::::::::::::::::::::::+@#**@@:::::...,,,,,,.::::++++**,   
+
+   ,#**++:...:::::::::::::::::::::::::::::+::::::::...,,,,,..::::++++*#    
+
+   ,@***++::::::+#::::::::::::::::::::::::::::::::::...,,,,..:::+++++*#    
+
+    @*****++++++@WWW@#+:::::::::::::::::::::+#WWW::::......:::::++++**+    
+
+    #*##***+++++#WWWWWW@#+:::::::::::::++#@WWWWWW+:::::::::::::++++**#:    
+
+    +*******+++++WWWWWWWWWW@@@####@@@@@@##@WWWWWW+::::::::::::+++++**#,    
+
+    ,@*##****++++#WWWWWWW@@########*****##*##WWWW:::::::::::::+++++**W    
+
+     @*###***+++++WWWWW@#######**************#@W*:::::::::::++++++***#     
+
+     +#*###***+++:*WW@#######*****************#@::::::::::::+++++***#:    
+
+      @*###****++++#W#####*********+++++******@:::::::::::++++++++**@      
+
+     ,***###***+++++@####*******+++++++++++**@+:::::::::++++++++*****      
+
+      ,@**##****++++:###********+++++++++++*@+:::::::::++++++++****@,      
+
+       +#**##*****++++##********++++++++++##:::::::::+++++++++****#+       
+
+       ,W**###****++++++@@+***+++++++++*@#:::::::::++++++++++*****@        
+
+        .W+####*****+++:++#@#*++++++*@#+:::::::::+++++++++++*****@,,       
+
+         .@+*###*****+++++::+*#@@@#*+::+::::::+++++++++++++***#*@.,        
+
+         ,:@**####*****++++++::::::+++::+++++++++++++++++******@+          
+
+          ,.@**####*****++++++++++++++++++++++++++++++********@:           
+
+            .@***####******++++++++++++++++++++++++**********@:            
+
+            , ##****##*******+++++++++++++++++++**********+*@,,            
+
+              ,.@#***####***********+++++++***************@*              
+
+                ,:@#****#####**********************#****@@,,               
+
+                 , :@@*****###**#**************##****#@*.                  
+
+                     ,+@@#****#**#**##***********+#@@:, ,                  
+
+                     ,  ,:#@@##*************+*#@@#:,, ,                   
+
+                            ,,:*#@@@@@@@@@W@@*:,                           
+
+                                    ,,,,,,,   
+
+
+
+~
+Rmessage  $n SUMMONS A GINORMOUS SLIME THAT CRUSHES $N INSTANTLY!
+&P
+                             ,     ,                                
+
+                                       .+                                  
+
+                                     ,,@@                                  
+
+                                      .#@,                                 
+
+                                     ,#+*:,                                
+
+                                    ,+#++@ ,                               
+
+                                    .@+++@,                                
+
+                                   :@+++++#,                               
+
+                                  .@++++:+@.,                              
+
+                              , ,+@++++:::+@  ,                            
+
+                               ,##++++::::+*#  ,                           
+
+                              :@+*+++::::::+#+,                            
+
+                         ,  ,##***+++::...::+#*                            
+
+                      , , ,*@****++++::....::+##                           
+
+                      , ,*@*****+++::::.....::++@: ,                       
+
+                     , +@******+++++::::....:::++##,                       
+
+                     :@******+++++::::::......:::+*@: ,,                   
+
+                 , .##******+++++::::::::......:::++#@.,  ,                
+
+               ,, *@*******+++++::::::::::......:::+++@*                  
+
+              , :@*******+++++:::::::::::::.......:::++*@:                 
+
+            , ,*#*******+++++:::::::::::::::........::+++## ,          
+
+           ,,,@********+++++:::::::::::::::::.......:::+++*@,              
+
+          , .@*#*****++++++::::::::::::::::::::......:::++++@:             
+
+         , :@**#****+++++:::::::::::::::::::::::.....::::+:++@+   
+
+         ,.@******++@@@@#+::::::::::::::::::::::::...::::::+++#*           
+
+        ,,@**#***+@*, ,,.##:::::::::::::::::::::::::::::::::+++#+,        
+
+        ,@******+@: ,   ,,:*:::::::::::+@###@@:::::::::::::::+:+#:,        
+
+       ,@**#***+*+  :##+   #+:::::::::#*, , ,.@+::::::::::::::+:+@,,       
+
+       ***#****+@  +WWWW@ ,.#::::::::#:,       #+::::::::::::::+++@       
+
+      .@******+**,,WWWWWW. ,@::::::::*  .@@@:   @::::::::::::::+++#.,     
+
+     ,@+*****++*: ,WWWWWW:, @:::::::@, .WWWWW:, :+:::::::::::::++++@ ,     
+
+     .#****++++*:  WWWWWW:  @:::::::# ,@WWWWWW ,,#:::::::::::::::++#:      
+
+     #***+++:++++, #WWWWW  ,#:::::::* ,WWWWWWW,, @:::::::::::::::+++@      
+
+    ,@**++::::::@  ,#WW@,  ++:::::::*  @WWWWWW,  @::::.....:::::++++#.     
+
+    :**++:..::::+#  ,, ,,,.#::::::::@, :WWWWW* ,.*:::.......:::::++++# ,   
+
+    #+*+:..,..:::*@,,    :@:::::::::#., :@W@+ , #:::...,,,...::::++++@,    
+
+    @**+:.,,,..:::+#@#*#@*:::::::::::@,     ,, *+::...,,,,,..::::++++#.    
+
+    @**+:.,,,..:::::::::::::::::::::::@+, ,  ,#*:::...,,,,,,.::::++++*+    
+
+   ,@**+:..,..:::::::::::::::::::::::::+@#**@@:::::...,,,,,,.::::++++**,   
+
+   ,#**++:...:::::::::::::::::::::::::::::+::::::::...,,,,,..::::++++*#    
+
+   ,@***++::::::+#::::::::::::::::::::::::::::::::::...,,,,..:::+++++*#    
+
+    @*****++++++@WWW@#+:::::::::::::::::::::+#WWW::::......:::::++++**+    
+
+    #*##***+++++#WWWWWW@#+:::::::::::::++#@WWWWWW+:::::::::::::++++**#:    
+
+    +*******+++++WWWWWWWWWW@@@####@@@@@@##@WWWWWW+::::::::::::+++++**#,    
+
+    ,@*##****++++#WWWWWWW@@########*****##*##WWWW:::::::::::::+++++**W    
+
+     @*###***+++++WWWWW@#######**************#@W*:::::::::::++++++***#     
+
+     +#*###***+++:*WW@#######*****************#@::::::::::::+++++***#:    
+
+      @*###****++++#W#####*********+++++******@:::::::::::++++++++**@      
+
+     ,***###***+++++@####*******+++++++++++**@+:::::::::++++++++*****      
+
+      ,@**##****++++:###********+++++++++++*@+:::::::::++++++++****@,      
+
+       +#**##*****++++##********++++++++++##:::::::::+++++++++****#+       
+
+       ,W**###****++++++@@+***+++++++++*@#:::::::::++++++++++*****@        
+
+        .W+####*****+++:++#@#*++++++*@#+:::::::::+++++++++++*****@,,       
+
+         .@+*###*****+++++::+*#@@@#*+::+::::::+++++++++++++***#*@.,        
+
+         ,:@**####*****++++++::::::+++::+++++++++++++++++******@+          
+
+          ,.@**####*****++++++++++++++++++++++++++++++********@:           
+
+            .@***####******++++++++++++++++++++++++**********@:            
+
+            , ##****##*******+++++++++++++++++++**********+*@,,            
+
+              ,.@#***####***********+++++++***************@*              
+
+                ,:@#****#####**********************#****@@,,               
+
+                 , :@@*****###**#**************##****#@*.                  
+
+                     ,+@@#****#**#**##***********+#@@:, ,                  
+
+                     ,  ,:#@@##*************+*#@@#:,, ,                   
+
+                            ,,:*#@@@@@@@@@W@@*:,                           
+
+                                    ,,,,,,,   
+
+
+
+~
+End
+
+#SLAY
+Type  balzhur~
+Owner  Any~
+Color  25
+Cmessage  You have opened the gates of Hell and called Balzhur to slay $N!
+
+                                       &R.                                  &D
+
+                &R ,                     |\      -,- ,  .'\ ._              &D
+
+                &R/|          \    ,     , ]       }  )/  / `-,',           &D
+
+               &R[ ,          |\  /|     | |       /  \|  |/`  ,`           &D
+
+               &R| |       ,.`  `,` `,  /  / _,...(   (      _',            &D
+
+               &R\  \  __ ,-` `  ,  , `/  /,'    Y    (   \_L\              &D
+
+                &R\  \_\,``,   ` , ,      /       )         _,/             &D
+
+                &R\     `  ,_ _`_,-,<._.<        /         /                &D
+
+                  &R', `>.,`  `  `   ,., |_      |         /                &D
+
+                    &R\/`  `,   `   ,`  | /__,.-`    _,   `\                &D
+
+                &R-,-..\     \  `  /  }W,&D&R  / `._) _,-\`       \         &D
+
+    &YBalzhur-     &R\_,,.) }W/\&D&R    ` /  }W/ )&D &R(-,, ``    ,        |&D
+
+   &Ythe pet demon&R,` )  | }W\_\       '-`&D  &R|  `(               \      &D
+
+               &R/  /```(   , --, ,' \   |`<`    ,            |             &D
+
+              &R/  /_,--`\   <\  &WV &R/> ,` )<_/)  | \      _____)         &D
+
+        &R,-, ,`   `   (_,\ \    |   /) / __/  /   `----`                   &D
+
+       &R(-, \           ) \ ('_.-._)/ /,`    /                             &D
+
+       &R| /  `          `/ \\ &WV   V&R, /`     /                          &D
+
+    &R,--\(        ,     <_/`\\     ||      /                               &D
+
+   &R(   ,``-     \/|         \-&WA&R.&WA&R-`|     /                        &D
+
+  &R,>,_ )_,..(    )\          -,,_-`  _--`                                 &D
+
+ &R(_ \|&R`   _,/_  /  \_            ,--`                                   &D
+
+  &R\( `   <.,../`     `-.._   _,-`                                         &D
+
+   &R`                      ```                                             &D
+
+~
+Vmessage  $n opened the gates of Hell and called Balzhur to take you back!
+
+                                       &R.                                  &D
+
+                &R ,                     |\      -,- ,  .'\ ._              &D
+
+                &R/|          \    ,     , ]       }  )/  / `-,',           &D
+
+               &R[ ,          |\  /|     | |       /  \|  |/`  ,`           &D
+
+               &R| |       ,.`  `,` `,  /  / _,...(   (      _',            &D
+
+               &R\  \  __ ,-` `  ,  , `/  /,'    Y    (   \_L\              &D
+
+                &R\  \_\,``,   ` , ,      /       )         _,/             &D
+
+                &R\     `  ,_ _`_,-,<._.<        /         /                &D
+
+                  &R', `>.,`  `  `   ,., |_      |         /                &D
+
+                    &R\/`  `,   `   ,`  | /__,.-`    _,   `\                &D
+
+                &R-,-..\     \  `  /  }W,&D&R  / `._) _,-\`       \         &D
+
+    &YBalzhur-     &R\_,,.) }W/\&D&R    ` /  }W/ )&D &R(-,, ``    ,        |&D
+
+   &Ythe pet demon&R,` )  | }W\_\       '-`&D  &R|  `(               \      &D
+
+               &R/  /```(   , --, ,' \   |`<`    ,            |             &D
+
+              &R/  /_,--`\   <\  &WV &R/> ,` )<_/)  | \      _____)         &D
+
+        &R,-, ,`   `   (_,\ \    |   /) / __/  /   `----`                   &D
+
+       &R(-, \           ) \ ('_.-._)/ /,`    /                             &D
+
+       &R| /  `          `/ \\ &WV   V&R, /`     /                          &D
+
+    &R,--\(        ,     <_/`\\     ||      /                               &D
+
+   &R(   ,``-     \/|         \-&WA&R.&WA&R-`|     /                        &D
+
+  &R,>,_ )_,..(    )\          -,,_-`  _--`                                 &D
+
+ &R(_ \|&R`   _,/_  /  \_            ,--`                                   &D
+
+  &R\( `   <.,../`     `-.._   _,-`                                         &D
+
+   &R`                      ```                                             &D
+
+~
+Rmessage  $n opened the gates of Hell and called Balzhur to slay $N!
+
+                                       &R.                                  &D
+
+                &R ,                     |\      -,- ,  .'\ ._              &D
+
+                &R/|          \    ,     , ]       }  )/  / `-,',           &D
+
+               &R[ ,          |\  /|     | |       /  \|  |/`  ,`           &D
+
+               &R| |       ,.`  `,` `,  /  / _,...(   (      _',            &D
+
+               &R\  \  __ ,-` `  ,  , `/  /,'    Y    (   \_L\              &D
+
+                &R\  \_\,``,   ` , ,      /       )         _,/             &D
+
+               &R\     `  ,_ _`_,-,<._.<        /         /                 &D
+
+                  &R', `>.,`  `  `   ,., |_      |         /                &D
+
+                    &R\/`  `,   `   ,`  | /__,.-`    _,   `\                &D
+
+                &R-,-..\     \  `  /  }W,&D&R  / `._) _,-\`       \         &D
+
+    &YBalzhur-     &R\_,,.) }W/\&D&R    ` /  }W/ )&D &R(-,, ``    ,        |&D
+
+   &Ythe pet demon&R,` )  | }W\_\       '-`&D  &R|  `(               \      &D
+
+               &R/  /```(   , --, ,' \   |`<`    ,            |             &D
+
+              &R/  /_,--`\   <\  &WV &R/> ,` )<_/)  | \      _____)         &D
+
+        &R,-, ,`   `   (_,\ \    |   /) / __/  /   `----`                   &D
+
+       &R(-, \           ) \ ('_.-._)/ /,`    /                             &D
+
+       &R| /  `          `/ \\ &WV   V&R, /`     /                          &D
+
+    &R,--\(        ,     <_/`\\     ||      /                               &D
+
+   &R(   ,``-     \/|         \-&WA&R.&WA&R-`|     /                        &D
+
+  &R,>,_ )_,..(    )\          -,,_-`  _--`                                 &D
+
+ &R(_ \|&R`   _,/_  /  \_            ,--`                                   &D
+
+  &R\( `   <.,../`     `-.._   _,-`                                         &D
+
+   &R`                      ```                                             &D
+
+~
+End
+
+#SLAY
+Type  danell~
+Owner  Any~
+Color  40
+Cmessage  You smile and pull out a pretty flower and toss it to $N.
+
+$N was stupid enough to catch it as they were to get you this angry so you just smile as they realise that the flower is actually a grenade on a stick painted like a rose and blow up into tiny cute little pieces.
+~
+Vmessage  $n smiles at you and tosses you a pretty rose. You smile at first but then you realise that its not a rose, but a grenade on a stick painted like a rose. A look of terror covers your face as $n chuckles while you are blown apart into tiny cute pieces.
+~
+Rmessage  $n smiles at $N and tosses $M a rose. $N smiles at $n untill $E relises that its not a flower but a grenade on a stick painted like one.....
+
+...$n just chuckles as $N is blown apart into cute little pieces....
+~
+End
+
+#SLAY
+Type  shine~
+Owner  rene~
+Color  12
+Cmessage  You raise your hand up, palm facing the heavens, and call down the holy powers bestowed upon you. A beam of shining light forms the shape of an elegant sword of white which strikes down upon $N, killing them instantly in a blinding flash.
+~
+Vmessage  $n raises her hand, palm facing the heavens, and call down the holy powers bestowed upon her. A beam of shining light forms the shape of an elegant sword of white which suddenly strikes down upon you. The sword pierces deep into your soul and burns away your life in the ensuing bright flash, killing you instantly.
+~
+Rmessage  $n raises her hand up, palm facing the heavens, and call down the holy powers bestowed upon her. A beam of shining light forms the shape of an elegant sword of white which strikes down upon $N, killing them instantly in a blinding flash.
+~
+End
+
+#SLAY
+Type  paper~
+Owner  Syrin~
+Color  12
+Cmessage  &zYou swing your arm in a wide arc, vast sheafs of paper falling in its wake. The sheets take on a &wstrange&z hue as their edges appear sharp enough to cut light - they promptly fly at $N, who is quickly rendered formless, devoid of any semblance of life other than the sudden blossom of a fine mist of &rblood&z.
+~
+Vmessage  &z$n swings $s arm in an arc, trailing improbable quantities of strange paper in its wake. You wonder briefly at their appearance, as they look as if they are sufficiently thin to cut &Wlight itself&z, before noticing that they are soaring rapidly at you and-
+~
+Rmessage  &z$n swings an arm, producing floating sheets of paper in imperceptably large quantities. You are given a brief chance to notice their supernatural exiguity before they fly at $N, thoroughly ending $S life in a fine mist of &rblood&z.
+~
+End
+
+#END

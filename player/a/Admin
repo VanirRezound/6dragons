@@ -1,0 +1,111 @@
+#PLAYER
+Version      5
+Name         Admin~
+Sex          1
+Class        11
+Secondclass  -1
+Thirdclass   -1
+Race         13
+Age          0 13 14 832
+Languages    -1 1
+Level        108
+Firstlevel   0
+Secondlevel  0
+Thirdlevel   0
+Played       283
+Room         41001
+HpManaMove   220 220 150 150 200 200
+BaseHp       0 
+Blood        10 37
+Money         0 10 50 100 1000 -1
+Exp           0
+Firstexp      0
+Secondexp     0
+Thirdexp      0
+Height        126
+Weight        327
+Act           570426952&4096
+AffectedBy    512
+Channels      chat say~
+Position      115
+Style         2
+Practice      4
+SavingThrows  0 0 0 0 0
+Alignment     0
+AppBlood      0
+Hitroll       0
+Damroll       0
+Armor         60
+Resistant     8193
+SQL           0
+Password      AdcL.Zc3YFO2o~
+Title          the very young Red Dragon~
+GetsDExp     0
+LDExpUpdate  1388749347
+tmproom 41001
+Boards          4 General 0 Personal 0 Stories 0 Staff 0
+Textspeed          5
+PotionTimer        0 0 0
+FirstExpR          0
+SecondExpR         0
+ThirdExpR          0
+FocusLevel         0
+UsedTrade          0
+Faith              0
+ChanInvite         0
+QuestCurr          0
+QuestAccum         0
+MobCount           0
+ObjCount           0
+ArenaWins          0
+ArenaLoss          0
+MapToggle          0
+MapSize            0
+MapDescToggle      0
+MapNameToggle      0
+MapType            0
+FoundArea       Wilderness~
+WizInvis     108
+Flags        32772
+Bardtimer    0
+Bardsn       0
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     21 16 16 10 21 12 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 48 48 0
+Site         127.0.0.1
+LastNews     1291967740
+Holdbreath 0
+Frostbite 0
+Adjust 0
+NNSkill       95 0 'devour' 0 0
+NNSkill       50 0 'slice' 0 0
+NNTongue      95 0 'common' 0 0
+NNTongue      95 0 'draconic' 0 0
+MaxColors    111
+Colors       0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 31 22 27 17 23 28 18 24 29 19 25 30 20 26 16 21 8 8 4 9 0 5 8 8 14 8 8 8 4 8 8 11 2 8 8 4 8 8 8 3 8 4 10 8 8 14 8 8 1 4 3 8 8 9 11 11 1 8 3 8 11 3 4 3 2 14 10 11 10 5 4 4 4 9 8 9 9 14 13 9 10 11 2 3 5 4 11 2 6 3 11 9 8 9 5 
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Currtype     1
+Color        14
+Size   0
+Values       0 0 -1 0 0 0 0
+End
+
+#OBJECT
+Vnum         68
+WearLoc      22
+Currtype     2
+Color        2
+Size   0
+Values       300 0 0 6 0 0 0
+End
+
+#END

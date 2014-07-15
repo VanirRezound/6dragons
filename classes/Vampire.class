@@ -1,0 +1,448 @@
+Name           Vampire~
+Filename       Vampire~
+Class          15
+Starting       1
+AttrPrime      1
+AttrSecond     2
+AttrDeficient  0
+Races          229375
+Nocombo        0
+Reclass        0 0 0
+Skilladept     95
+Thac0          18
+Thac32         7
+Hpmin          18
+Hpmax          20
+ManaMin        4
+ManaMax        10
+Expbase        1700
+Craftbase        0
+Resist         0
+Suscept        0
+Skill 'armor' 36 95
+Skill 'battlefield view' 70 95
+Skill 'black lightning' 85 95
+Skill 'blindness' 56 80
+Skill 'curse' 38 75
+Skill 'dark blessings' 15 95
+Skill 'detect magic' 20 85
+Skill 'dispel magic' 69 95
+Skill 'enchant weapon' 46 85
+Skill 'farsight' 92 95
+Skill 'fascinate' 95 95
+Skill 'identify' 15 95
+Skill 'locate object' 64 95
+Skill 'nosight' 31 95
+Skill 'paralyze' 79 50
+Skill 'poison' 44 95
+Skill 'remove invis' 35 80
+Skill 'scry' 24 95
+Skill 'shadowform' 86 95
+Skill 'sleep' 45 95
+Skill 'slow' 42 95
+Skill 'transport' 92 40
+Skill 'unholy shroud' 37 95
+Skill 'ventriloquate' 9 95
+Skill 'weaken' 30 95
+Skill 'behead' 5 95
+Skill 'biofeedback' 60 95
+Skill 'bite' 1 95
+Skill 'bloodlet' 11 95
+Skill 'brittle bone' 60 95
+Skill 'broach' 41 60
+Skill 'burrow' 1 95
+Skill 'cannibalize' 10 95
+Skill 'claw' 1 95
+Skill 'climb' 1 95
+Skill 'control' 20 95
+Skill 'demonic sight' 10 95
+Skill 'desecrate' 38 95
+Skill 'dodge' 3 95
+Skill 'dual wield' 24 90
+Skill 'dye' 1 95
+Skill 'endurance' 63 50
+Skill 'enhanced damage' 28 95
+Skill 'fade' 2 95
+Skill 'faith' 38 95
+Skill 'feed' 1 95
+Skill 'fifth attack' 68 65
+Skill 'fourth attack' 48 80
+Skill 'gauge' 4 95
+Skill 'granite skin' 26 95
+Skill 'impale' 13 95
+Skill 'kick' 1 95
+Skill 'maim' 50 80
+Skill 'marble skin' 5 95
+Skill 'mistform' 6 95
+Skill 'mistwalk' 43 90
+Skill 'mount' 1 95
+Skill 'parry' 4 95
+Skill 'peek' 8 95
+Skill 'phase' 39 60
+Skill 'punch' 6 95
+Skill 'scan' 1 95
+Skill 'search' 1 95
+Skill 'second attack' 10 95
+Skill 'shapeshift' 5 95
+Skill 'shelter' 9 95
+Skill 'shriek' 35 95
+Skill 'sixth attack' 90 35
+Skill 'slice' 1 95
+Skill 'smell' 17 50
+Skill 'surreal speed' 1 95
+Skill 'swim' 1 95
+Skill 'telepathy' 1 95
+Skill 'thaitin' 25 95
+Skill 'third attack' 30 95
+Skill 'vampiric strength' 1 95
+Skill 'wings' 17 95
+Skill '1h bludgeons' 1 95
+Skill '1h long blades' 1 95
+Skill '1h short blades' 1 95
+Skill '2h bludgeons' 1 95
+Skill '2h long blades' 1 95
+Skill 'talons' 1 95
+Skill 'whips' 1 95
+Skill 'celestial' 1 99
+Skill 'centaurian' 1 95
+Skill 'common' 1 99
+Skill 'demonic' 1 99
+Skill 'dwarven' 1 99
+Skill 'elven' 1 99
+Skill 'gnomish' 1 99
+Skill 'goblic' 1 99
+Skill 'hobbit' 1 99
+Skill 'infernal' 1 99
+Skill 'ogrian' 1 99
+Skill 'orcish' 1 99
+Skill 'pixish' 1 99
+Skill 'silent' 1 95
+Skill 'trollese' 1 95
+Title
+Vampire~
+Vampiress~
+Title
+Apprentice of Blood~
+Apprentice of Blood~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

@@ -1,0 +1,61 @@
+Name        Demon~
+Race        16
+SDbonus     0
+Base_Str 20
+Base_Int 14
+Base_Wis 14
+Base_Con 16
+Base_Cha 10
+Base_Dex 12
+Base_Lck 14
+Hit         25
+Mana        0
+Affected    0
+Resist      1
+Suscept     0
+Language    16384
+Align       -1000
+Min_Align   -1000
+Max_Align   1000
+AC_Plus     0
+Exp_Mult    55
+Height      72
+Weight      225
+Flags	      1
+Hunger_Mod  5
+Thirst_mod  3
+Mana_Regen  0
+HP_Regen    0
+Race_Recall 0
+WhereName  [used as light    ] ~
+WhereName  [worn on finger   ] ~
+WhereName  [worn on finger   ] ~
+WhereName  [worn around neck ] ~
+WhereName  [worn around neck ] ~
+WhereName  [worn on body     ] ~
+WhereName  [worn on head     ] ~
+WhereName  [worn on legs     ] ~
+WhereName  [worn on feet     ] ~
+WhereName  [worn on hands    ] ~
+WhereName  [worn on arms     ] ~
+WhereName  [worn as shield   ] ~
+WhereName  [worn about body  ] ~
+WhereName  [worn about waist ] ~
+WhereName  [worn around wrist] ~
+WhereName  [worn around wrist] ~
+WhereName  [wielded          ] ~
+WhereName  [held             ] ~
+WhereName  [dual wielded     ] ~
+WhereName  [worn on ears     ] ~
+WhereName  [worn on eyes     ] ~
+WhereName  [missile wielded  ] ~
+WhereName  [worn on back     ] ~
+WhereName  [worn over face   ] ~
+WhereName  [worn around ankle] ~
+WhereName  [worn around ankle] ~
+WhereName  [lodged in a rib  ] ~
+WhereName  [lodged in an arm ] ~
+WhereName  [lodged in a leg  ] ~
+WhereName  [sheathed weapon  ] ~
+WhereName  [worn on shoulders] ~
+End

@@ -1,0 +1,443 @@
+Name           Monk~
+Filename       Monk~
+Class          16
+Starting       1
+AttrPrime      2
+AttrSecond     5
+AttrDeficient  31
+Races          260084
+Nocombo        4
+Reclass        0 0 0
+Skilladept     90
+Thac0          17
+Thac32         8
+Hpmin          14
+Hpmax          18
+ManaMin        2
+ManaMax        8
+Expbase        1600
+Craftbase        0
+Resist         1
+Suscept        0
+Skill 'shadowform' 90 95
+Skill 'adrenaline rush' 3 95
+Skill 'aid' 1 95
+Skill 'assault' 16 95
+Skill 'battle trance' 55 90
+Skill 'behead' 10 95
+Skill 'biofeedback' 52 95
+Skill 'boost' 8 95
+Skill 'climb' 1 95
+Skill 'cook' 1 95
+Skill 'counterstrike' 22 95
+Skill 'daze' 41 90
+Skill 'defensive posturing' 27 95
+Skill 'disarm' 7 85
+Skill 'displacement' 76 95
+Skill 'dodge' 5 95
+Skill 'dual wield' 15 95
+Skill 'dye' 1 95
+Skill 'endurance' 16 85
+Skill 'enhanced damage' 29 95
+Skill 'ensnare' 60 85
+Skill 'feign death' 32 50
+Skill 'fifth attack' 50 95
+Skill 'find weakness' 23 95
+Skill 'flint fire' 1 30
+Skill 'focus' 4 95
+Skill 'fourth attack' 36 95
+Skill 'fury' 18 80
+Skill 'gouge' 38 75
+Skill 'headbutt' 25 90
+Skill 'heart grab' 95 95
+Skill 'hide' 20 35
+Skill 'inertial barrier' 63 80
+Skill 'iron skin' 11 95
+Skill 'judo' 20 35
+Skill 'keen eye' 20 95
+Skill 'kick' 1 85
+Skill 'knee' 9 95
+Skill 'lore' 25 25
+Skill 'maintain position' 30 95
+Skill 'martial arts' 1 95
+Skill 'masters eye' 92 85
+Skill 'mount' 1 85
+Skill 'offensive stance' 43 95
+Skill 'parry' 17 60
+Skill 'peek' 7 95
+Skill 'prayer' 4 95
+Skill 'punch' 2 90
+Skill 'quivering palm' 5 95
+Skill 'rapid healing' 19 95
+Skill 'recoil' 49 95
+Skill 'restring' 10 95
+Skill 'ritual' 39 95
+Skill 'roundhouse' 25 70
+Skill 'scan' 1 95
+Skill 'search' 1 95
+Skill 'second attack' 5 95
+Skill 'seventh attack' 85 95
+Skill 'sidestep' 32 95
+Skill 'sixth attack' 70 95
+Skill 'slice' 1 95
+Skill 'sneak' 18 35
+Skill 'swim' 1 95
+Skill 'taunt' 2 95
+Skill 'third attack' 15 95
+Skill 'track' 28 95
+Skill 'tumble' 30 30
+Skill 'untangle' 60 95
+Skill 'uppercut' 28 80
+Skill '1h bludgeons' 1 95
+Skill '1h long blades' 1 95
+Skill '1h short blades' 1 95
+Skill 'archery' 1 95
+Skill 'flails' 1 95
+Skill 'polearms' 1 95
+Skill 'pugilism' 1 95
+Skill 'spears' 1 95
+Skill 'staves' 1 95
+Skill 'whips' 1 95
+Skill 'celestial' 1 99
+Skill 'centaurian' 1 95
+Skill 'common' 1 99
+Skill 'demonic' 1 99
+Skill 'dwarven' 1 99
+Skill 'elven' 1 99
+Skill 'gnomish' 1 99
+Skill 'goblic' 1 99
+Skill 'hobbit' 1 99
+Skill 'infernal' 1 99
+Skill 'ogrian' 1 99
+Skill 'orcish' 1 99
+Skill 'pixish' 1 99
+Skill 'silent' 1 95
+Skill 'trollese' 1 95
+Title
+of the training yard.~
+of the training grounds.~
+Title
+wanderer from the training yard.~
+wanderer from the training grounds.~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

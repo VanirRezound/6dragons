@@ -1,0 +1,26 @@
+[*****] BUG: new_get_room_index: bad vnum 31093. Called from file db.c line 2814 &D
+[*****] BUG: Deleting north exit in room 1210 &D
+[*****] BUG: Fread_bank: no match: #END &D
+[*****] BUG: fread_word: EOF encountered on read. &D
+[*****] BUG: Fread_bank: no match: ÿ &D
+[*****] BUG: Fread_bank: Name not found &D
+[*****] BUG: fread_letter: EOF encountered on read.
+ &D
+[*****] BUG: Load_bank: # not found. &D
+[*****] BUG: __FileOpen: can't open notes/General for r. Called from gboard.c:306 &D
+[*****] BUG: __FileOpen: can't open notes/Personal for r. Called from gboard.c:306 &D
+[*****] BUG: __FileOpen: can't open notes/Stories for r. Called from gboard.c:306 &D
+[*****] BUG: __FileOpen: can't open notes/Staff for r. Called from gboard.c:306 &D
+[*****] BUG: new_get_room_index: bad vnum 31093. Called from file db.c line 2814 &D
+[*****] BUG: Deleting north exit in room 1210 &D
+[*****] BUG: Fread_bank: no match: #END &D
+[*****] BUG: fread_word: EOF encountered on read. &D
+[*****] BUG: Fread_bank: no match: ÿ &D
+[*****] BUG: Fread_bank: Name not found &D
+[*****] BUG: fread_letter: EOF encountered on read.
+ &D
+[*****] BUG: Load_bank: # not found. &D
+[*****] BUG: __FileOpen: can't open notes/General for r. Called from gboard.c:306 &D
+[*****] BUG: __FileOpen: can't open notes/Personal for r. Called from gboard.c:306 &D
+[*****] BUG: __FileOpen: can't open notes/Stories for r. Called from gboard.c:306 &D
+[*****] BUG: __FileOpen: can't open notes/Staff for r. Called from gboard.c:306 &D

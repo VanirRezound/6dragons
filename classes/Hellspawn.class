@@ -1,0 +1,448 @@
+Name           Hellspawn~
+Filename       Hellspawn~
+Class          13
+Starting       1
+AttrPrime      1
+AttrSecond     0
+AttrDeficient  0
+Races          196607
+Nocombo        0
+Reclass        0 0 0
+Skilladept     95
+Thac0          18
+Thac32         7
+Hpmin          22
+Hpmax          28
+ManaMin        8
+ManaMax        14
+Expbase        1700
+Craftbase        0
+Resist         0
+Suscept        0
+Skill 'astral walk' 15 95
+Skill 'battlefield view' 60 95
+Skill 'create fire' 10 95
+Skill 'curse' 10 80
+Skill 'dark blessings' 17 95
+Skill 'demonskin' 34 95
+Skill 'farsight' 68 95
+Skill 'fireshield' 55 95
+Skill 'gate' 14 95
+Skill 'identify' 16 75
+Skill 'invis' 17 95
+Skill 'knock' 17 95
+Skill 'know alignment' 14 50
+Skill 'locate object' 52 95
+Skill 'minor globe' 25 95
+Skill 'ogre vitality' 30 95
+Skill 'paralyze' 75 50
+Skill 'pass door' 21 95
+Skill 'refresh' 3 95
+Skill 'resilience' 42 70
+Skill 'scry' 24 95
+Skill 'shadow bolt' 96 95
+Skill 'shadowform' 78 95
+Skill 'slow' 42 95
+Skill 'stone skin' 42 75
+Skill 'transport' 70 95
+Skill 'valiance' 55 95
+Skill 'word of recall' 8 95
+Skill 'aid' 1 95
+Skill 'ball of fire' 1 95
+Skill 'behead' 10 95
+Skill 'brittle bone' 45 95
+Skill 'climb' 1 80
+Skill 'cook' 1 95
+Skill 'dehydrate' 10 95
+Skill 'demonic sight' 10 95
+Skill 'desecrate' 18 95
+Skill 'displacement' 85 95
+Skill 'dodge' 5 95
+Skill 'dual wield' 17 90
+Skill 'dye' 1 95
+Skill 'endurance' 1 95
+Skill 'enhanced damage' 1 90
+Skill 'faith' 18 95
+Skill 'feed' 3 95
+Skill 'fifth attack' 50 65
+Skill 'find weakness' 49 95
+Skill 'fourth attack' 37 80
+Skill 'fury' 30 95
+Skill 'impale' 15 95
+Skill 'inferno' 62 95
+Skill 'kick' 1 95
+Skill 'lunge' 7 95
+Skill 'mount' 1 90
+Skill 'phase' 40 95
+Skill 'punch' 6 90
+Skill 'remember' 40 95
+Skill 'scan' 1 95
+Skill 'search' 1 95
+Skill 'second attack' 10 90
+Skill 'shapeshift' 8 95
+Skill 'shield' 12 85
+Skill 'shrink' 12 95
+Skill 'sixth attack' 90 35
+Skill 'slice' 1 95
+Skill 'spectral ward' 15 95
+Skill 'spike' 12 95
+Skill 'spirits ward' 30 95
+Skill 'spurn' 10 85
+Skill 'swim' 1 95
+Skill 'telepathy' 1 95
+Skill 'third attack' 20 90
+Skill 'unholy sphere' 4 95
+Skill 'wings' 1 95
+Skill '1h axes' 1 95
+Skill '1h bludgeons' 1 95
+Skill '1h long blades' 1 95
+Skill '1h short blades' 1 95
+Skill '2h bludgeons' 1 95
+Skill 'flails' 1 95
+Skill 'pugilism' 1 95
+Skill 'spears' 1 95
+Skill 'talons' 1 95
+Skill 'whips' 1 95
+Skill 'celestial' 1 99
+Skill 'centaurian' 1 95
+Skill 'common' 1 99
+Skill 'demonic' 1 99
+Skill 'dwarven' 1 99
+Skill 'elven' 1 99
+Skill 'gnomish' 1 99
+Skill 'goblic' 1 99
+Skill 'hobbit' 1 99
+Skill 'infernal' 1 99
+Skill 'ogrian' 1 99
+Skill 'orcish' 1 99
+Skill 'pixish' 1 99
+Skill 'silent' 1 95
+Skill 'trollese' 1 95
+Title
+Hellspawn~
+Hellspawn~
+Title
+Tanzean'al's newly Appointed Hellspawn~
+Tanzean'al's newly Appointed Hellspawn~
+Title
+Blood Student~
+Blood Student~
+Title
+Scholar of Blood~
+Scholar of Blood~
+Title
+Delver in Blood~
+Delveress in Blood~
+Title
+Medium of Blood~
+Medium of Blood~
+Title
+Scribe of Blood~
+Scribess of Blood~
+Title
+Seer of Blood~
+Seeress of Blood~
+Title
+Blood Sage~
+Blood Sage~
+Title
+Illusionist~
+Illusionist~
+Title
+Abjurer~
+Abjuress~
+Title
+Invoker~
+Invoker~
+Title
+Enchanter~
+Enchantress~
+Title
+Conjurer~
+Conjuress~
+Title
+Magician~
+Witch~
+Title
+Maker~
+Maker~
+Title
+Savant~
+Savant~
+Title
+Magus~
+Craftess~
+Title
+Warlock~
+War Witch~
+Title
+Demi-Sorcerer~
+Demi-Sorceress~
+Title
+Sorcerer~
+Sorceress~
+Title
+Elder Sorcerer~
+Elder Sorceress~
+Title
+Grand Sorcerer~
+Grand Sorceress~
+Title
+Great Sorcerer~
+Great Sorceress~
+Title
+Zombie Maker~
+Zombie Maker~
+Title
+Greater Zombie Maker~
+Greater Zombie Maker~
+Title
+Maker of Stones~
+Maker of Stones~
+Title
+Maker of Poisons~
+Maker of Poisons~
+Title
+Maker of Slaves~
+Maker of Slaves~
+Title
+Green Wizard~
+Green Wizard~
+Title
+Brown Wizard~
+Brown Wizard~
+Title
+Blue Wizard~
+Blue Wizard~
+Title
+Red Wizard~
+Red Wizard~
+Title
+Grey Wizard~
+Grey Wizard~
+Title
+White Wizard~
+White Wizard~
+Title
+Silver Wizard~
+Silver Wizard~
+Title
+Gold Wizard~
+Gold Wizard~
+Title
+Platinum Wizard~
+Platinum Wizard~
+Title
+Diamond Wizard~
+Diamond Wizard~
+Title
+Archmage of Rods~
+Archmage of Rods~
+Title
+Archmage of Wands~
+Archmage of Wands~
+Title
+Archmage of Staves~
+Archmage of Staves~
+Title
+Archmage of Orbs~
+Archmage of Orbs~
+Title
+Demon Summoner~
+Demon Summoner~
+Title
+Greater Demon Summoner~
+Greater Demon Summoner~
+Title
+Dragon Charmer~
+Dragon Charmer~
+Title
+Greater Dragon Charmer~
+Greater Dragon Charmer~
+Title
+Master of Demons~
+Mistress of Demons~
+Title
+Master of Dragons~
+Mistress of Dragons~
+Title
+Master of all Magic~
+Mistress of all Magic~
+Title
+Avatar~
+Avatar~
+Title
+Neophyte~
+Neophyte~
+Title
+Acolyte~
+Acolyte~
+Title
+Creator~
+Creator~
+Title
+Savior~
+Savior~
+Title
+Demi God~
+Demi Goddess~
+Title
+Immortal~
+Immortal~
+Title
+Lesser God~
+Lesser Goddess~
+Title
+God~
+Goddess~
+Title
+Greater God~
+Greater Goddess~
+Title
+Ascendant God~
+Acendant Goddess~
+Title
+Exalted God~
+Exalted Goddess~
+Title
+Ancient One~
+Ancient One~
+Title
+Eternal One~
+Eternal One~
+Title
+Infinite One~
+Infinite One~
+Title
+Supreme Entity~
+Supreme Entity~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

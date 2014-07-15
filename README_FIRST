@@ -1,0 +1,16 @@
+Greetings,
+
+I hope you enjoy this game.  As I mentioned in the download area please inform me if you use this codebase.  I just like to see how others
+implment ideas with this code.  patriot19@hushmail.com  - Patriot
+
+In the src directory with a linux operating system type make clean
+
+To start the game type the below with 4100 being whatever you set the port too.
+
+nohup ./startup 6dragons 4100 &
+
+I added a Admin player with password 12345
+
+just change password, and pcrename command for your name or adjust name in 6dragons/players/a/Admin file.
+
+ 

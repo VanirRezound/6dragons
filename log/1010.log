@@ -1,0 +1,91 @@
+Fri Jan  3 06:43:36 2014 :: Booting Database
+Fri Jan  3 06:43:36 2014 :: [*****] BOOT: ---------------------[ Boot Log ]--------------------
+Fri Jan  3 06:43:36 2014 :: Loading commands
+Fri Jan  3 06:43:36 2014 :: Loading mud channels...
+Fri Jan  3 06:43:36 2014 :: Loading sysdata configuration...
+Fri Jan  3 06:43:36 2014 :: Loading socials
+Fri Jan  3 06:43:36 2014 :: Loading skill table
+Fri Jan  3 06:43:36 2014 :: Sorting skill table...
+Fri Jan  3 06:43:36 2014 :: Remapping slots to sns
+Fri Jan  3 06:43:36 2014 :: Loading classes
+Fri Jan  3 06:43:36 2014 :: Loading races
+Fri Jan  3 06:43:36 2014 :: Loading herb table
+Fri Jan  3 06:43:36 2014 :: Loading tongues
+Fri Jan  3 06:43:36 2014 :: Making 6 Dragons stafflist
+Fri Jan  3 06:43:36 2014 :: Loading MSSP Data...
+Fri Jan  3 06:43:36 2014 :: Building wizinfo
+Fri Jan  3 06:43:36 2014 :: Initializing random number generator
+Fri Jan  3 06:43:36 2014 :: Setting time and weather.
+Fri Jan  3 06:43:36 2014 :: Loading holiday chart...
+Fri Jan  3 06:43:36 2014 :: Assigning gsn's
+ASSIGN_GSN: Skill rotten gut not found.
+Fri Jan  3 06:43:36 2014 :: Reading in area files...
+(help.are)
+limbo.are     : Rooms:     2 - 99    Objs:     2 - 99    Mobs:     1 - 99
+staff.are     : Rooms:  1200 - 1299  Objs:  1200 - 1299  Mobs:  1200 - 1299
+wild.are      : Rooms: 41000 - 44000 Objs: 41000 - 41026 Mobs: 41000 - 41039
+Fri Jan  3 06:43:36 2014 :: Loading buildlist
+Fri Jan  3 06:43:36 2014 :: staff/Admin
+Fri Jan  3 06:43:36 2014 :: Fixing exits
+Fri Jan  3 06:43:36 2014 :: [*****] BUG: new_get_room_index: bad vnum 31093. Called from file db.c line 2814
+Fri Jan  3 06:43:36 2014 :: [*****] BOOT: Fix_exits: room 1210, exit north leads to bad vnum (31093)
+Fri Jan  3 06:43:36 2014 :: [*****] BUG: Deleting north exit in room 1210
+Fri Jan  3 06:43:36 2014 :: Initializing economy
+Fri Jan  3 06:43:36 2014 :: Resetting areas
+Fri Jan  3 06:43:36 2014 :: Loading storerooms
+Fri Jan  3 06:43:36 2014 :: Loading clans
+Fri Jan  3 06:43:36 2014 :: Loading clans...
+Fri Jan  3 06:43:36 2014 :: $
+Fri Jan  3 06:43:36 2014 ::  Done clans 
+Fri Jan  3 06:43:36 2014 :: Loading quests
+Fri Jan  3 06:43:36 2014 :: Loading currency...
+Fri Jan  3 06:43:36 2014 :: Loading banks
+Fri Jan  3 06:43:36 2014 :: [*****] BUG: Fread_bank: no match: #END
+Fri Jan  3 06:43:36 2014 :: [*****] BUG: fread_word: EOF encountered on read.
+Fri Jan  3 06:43:36 2014 :: [*****] BUG: Fread_bank: no match: ÿ
+Fri Jan  3 06:43:36 2014 :: [*****] BUG: Fread_bank: Name not found
+Fri Jan  3 06:43:36 2014 :: [*****] BUG: fread_letter: EOF encountered on read.
+
+Fri Jan  3 06:43:36 2014 :: [*****] BUG: Load_bank: # not found.
+Fri Jan  3 06:43:36 2014 :: Loading landmarks
+Fri Jan  3 06:43:36 2014 :: Loading councils
+Fri Jan  3 06:43:36 2014 :: Loading councils...
+Fri Jan  3 06:43:36 2014 :: $
+Fri Jan  3 06:43:36 2014 ::  Done councils 
+Fri Jan  3 06:43:36 2014 :: Loading deities
+Fri Jan  3 06:43:36 2014 :: Loading deities...
+Fri Jan  3 06:43:36 2014 :: Done deities
+Fri Jan  3 06:43:36 2014 :: Loading hometowns
+Fri Jan  3 06:43:36 2014 :: Loading htowns...
+Fri Jan  3 06:43:36 2014 :: $
+Fri Jan  3 06:43:36 2014 ::  Done htowns 
+Fri Jan  3 06:43:36 2014 :: Loading cities
+Fri Jan  3 06:43:36 2014 :: Loading cities...
+Fri Jan  3 06:43:36 2014 :: $
+Fri Jan  3 06:43:36 2014 ::  Done cities 
+Fri Jan  3 06:43:36 2014 :: Loading watches
+Fri Jan  3 06:43:36 2014 :: Loading bans
+Fri Jan  3 06:43:36 2014 :: Done.
+Fri Jan  3 06:43:36 2014 :: Loading reserved names
+Fri Jan  3 06:43:36 2014 :: Loading auth namelist
+Fri Jan  3 06:43:36 2014 :: Loading corpses
+Fri Jan  3 06:43:36 2014 :: Loading News
+Fri Jan  3 06:43:36 2014 :: Loading Hints...
+Fri Jan  3 06:43:36 2014 :: Loading slay table
+Fri Jan  3 06:43:36 2014 :: Loading Immortal Hosts
+Fri Jan  3 06:43:36 2014 :: Done.
+Fri Jan  3 06:43:36 2014 :: Loading Morphs
+Fri Jan  3 06:43:36 2014 :: Optimizing Morphs.
+Fri Jan  3 06:43:36 2014 :: Done.
+Fri Jan  3 06:43:36 2014 :: Loading Global Boards
+Fri Jan  3 06:43:36 2014 :: [*****] BUG: __FileOpen: can't open notes/General for r. Called from gboard.c:306
+notes/General: No such file or directory
+Fri Jan  3 06:43:36 2014 :: [*****] BUG: __FileOpen: can't open notes/Personal for r. Called from gboard.c:306
+notes/Personal: No such file or directory
+Fri Jan  3 06:43:36 2014 :: [*****] BUG: __FileOpen: can't open notes/Stories for r. Called from gboard.c:306
+notes/Stories: No such file or directory
+Fri Jan  3 06:43:36 2014 :: [*****] BUG: __FileOpen: can't open notes/Staff for r. Called from gboard.c:306
+notes/Staff: No such file or directory
+Fri Jan  3 06:43:36 2014 :: Initializing Autoboot
+Fri Jan  3 06:43:36 2014 :: Initializing socket
+Fri Jan  3 06:43:36 2014 :: 6 Dragons ready at address patriot-Inspiron-3521 on port 4100.

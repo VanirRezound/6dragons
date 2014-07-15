@@ -1,0 +1,92 @@
+#HERB
+Name         pipeweed~
+Type         unknown
+Info         0
+Flags        0
+Rounds       5
+Dammsg       smoke~
+Minlevel     101
+End
+
+#HERB
+Name         black gwyvel~
+Type         unknown
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Slot         1
+Rounds       12
+Code         spell_smaug
+Dammsg       smoke~
+Hitvict      You start to cough and choke!~
+Affect       '' 13 '-10' -1
+Minlevel     101
+End
+
+#HERB
+Name         vermeir~
+Type         unknown
+Info         0
+Flags        0
+Target       3
+Minpos       106
+Slot         2
+Rounds       4
+Code         spell_smaug
+Hitchar      .~
+Hitvict      You feel a sparkling warmth flow through your limbs.~
+Hitroom      $N leans back, relishing the flavor of the vermeir.~
+Affect       '' 14 '20' -1
+Minlevel     101
+End
+
+#HERB
+Name         nooracht~
+Type         unknown
+Info         0
+Flags        2097152
+Target       3
+Minpos       106
+Slot         3
+Rounds       4
+Code         spell_smaug
+Wearoff      Your feet slowly lower to the ground.~
+Hitvict      The acrid taste of the smoke overwhelms your senses. You feel light headed.~
+Hitroom      $N grimaces at the acrid flavor of the nooracht.~
+Affect       '' 12 '20' -1
+Affect       '30' 0 '' 21
+Minlevel     101
+End
+
+#HERB
+Name         occadaal~
+Type         unknown
+Info         0
+Flags        0
+Target       3
+Slot         4
+Code         spell_smaug
+Hitvict      The sharp flavor of the smoke sends a flow of warmth through your body.~
+Hitroom      $N's eyes water as the smoke flows around $m.~
+Affect       '' 13 '20' -1
+Minlevel     101
+End
+
+#HERB
+Name         draconic weed~
+Type         unknown
+Info         0
+Flags        0
+Target       3
+Minpos       112
+Slot         5
+Code         spell_smaug
+Wearoff      Everything about you takes on it's normal drab tone.~
+Hitvict      Life takes on a brighter, crisper outlook as you savor the draconic weed flavor.~
+Hitroom      $N smiles as $s enjoys the mellow flavor of the draconic weed.~
+Affect       '10' 70 'truesight' -1
+Minlevel     101
+End
+
+#END

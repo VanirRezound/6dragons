@@ -1,0 +1,422 @@
+Name           Rogue~
+Filename       Rogue~
+Class          24
+Starting       0
+AttrPrime      5
+AttrSecond     2
+AttrDeficient  0
+Races          0
+Nocombo        0
+Reclass        0 0 0
+Skilladept     0
+Thac0          18
+Thac32         6
+Hpmin          45
+Hpmax          55
+ManaMin        5
+ManaMax        10
+Expbase        2400
+Craftbase        0
+Resist         0
+Suscept        0
+Skill 'shadowform' 80 95
+Skill 'assassinate' 85 95
+Skill 'backstab' 2 95
+Skill 'bash' 18 95
+Skill 'battle trance' 60 95
+Skill 'behead' 10 95
+Skill 'circle' 30 95
+Skill 'counterstrike' 27 95
+Skill 'disarm' 5 95
+Skill 'dodge' 1 95
+Skill 'dominate' 37 95
+Skill 'dual wield' 9 95
+Skill 'eighth attack' 85 95
+Skill 'endurance' 6 95
+Skill 'enhanced damage' 1 95
+Skill 'ensnare' 15 95
+Skill 'fifth attack' 35 95
+Skill 'find weakness' 19 95
+Skill 'fourth attack' 20 95
+Skill 'gouge' 13 95
+Skill 'hide' 2 95
+Skill 'judo' 20 95
+Skill 'kick' 2 95
+Skill 'parry' 1 95
+Skill 'phase' 31 95
+Skill 'poison weapon' 40 95
+Skill 'rapid healing' 23 95
+Skill 'second attack' 3 95
+Skill 'seventh attack' 65 95
+Skill 'sidestep' 25 95
+Skill 'sixth attack' 50 95
+Skill 'sneak' 5 95
+Skill 'spirits ward' 14 95
+Skill 'steal' 3 95
+Skill 'stun' 95 95
+Skill 'taunt' 2 95
+Skill 'third attack' 12 95
+Skill 'track' 11 95
+Skill 'untangle' 15 95
+Skill '1h axes' 1 95
+Skill '1h bludgeons' 1 95
+Skill '1h long blades' 1 95
+Skill '1h short blades' 1 95
+Skill '2h axes' 1 95
+Skill '2h bludgeons' 1 95
+Skill '2h long blades' 1 95
+Skill 'archery' 1 95
+Skill 'blowguns' 1 95
+Skill 'flails' 1 95
+Skill 'lances' 1 95
+Skill 'polearms' 1 95
+Skill 'pugilism' 1 95
+Skill 'spears' 1 95
+Skill 'staves' 1 95
+Skill 'talons' 1 95
+Skill 'whips' 1 95
+Skill 'celestial' 1 95
+Skill 'centaurian' 1 95
+Skill 'common' 1 95
+Skill 'demonic' 1 95
+Skill 'draconic' 1 95
+Skill 'dwarven' 1 95
+Skill 'elven' 1 95
+Skill 'gnomish' 1 95
+Skill 'goblic' 1 95
+Skill 'hobbit' 1 95
+Skill 'infernal' 1 95
+Skill 'ogrian' 1 95
+Skill 'orcish' 1 95
+Skill 'pixish' 1 95
+Skill 'silent' 1 95
+Skill 'trollese' 1 95
+Skill 'uncommon' 1 95
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+(null)~
+(null)~
+End

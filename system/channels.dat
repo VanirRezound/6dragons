@@ -1,0 +1,273 @@
+#CHANNEL
+ChanName    ooc~
+ChanLevel   2
+ChanType    0
+ChanHistory 1
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    shout~
+ChanLevel   2
+ChanType    0
+ChanHistory 0
+DoScramble  1
+End
+
+#CHANNEL
+ChanName    yell~
+ChanLevel   2
+ChanType    1
+ChanHistory 0
+DoScramble  1
+End
+
+#CHANNEL
+ChanName    icc~
+ChanLevel   2
+ChanType    0
+ChanHistory 1
+DoScramble  1
+End
+
+#CHANNEL
+ChanName    chat~
+ChanLevel   1
+ChanType    0
+ChanHistory 1
+DoScramble  1
+End
+
+#CHANNEL
+ChanName    wartalk~
+ChanLevel   2
+ChanType    4
+ChanHistory 1
+DoScramble  1
+End
+
+#CHANNEL
+ChanName    event~
+ChanLevel   2
+ChanType    0
+ChanHistory 1
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    music~
+ChanLevel   2
+ChanType    0
+ChanHistory 1
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    Think~
+ChanLevel   104
+ChanType    0
+ChanHistory 1
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    muse~
+ChanLevel   105
+ChanType    0
+ChanHistory 1
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    comm~
+ChanLevel   101
+ChanType    5
+ChanHistory 0
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    info~
+ChanLevel   2
+ChanType    5
+ChanHistory 0
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    auth~
+ChanLevel   101
+ChanType    5
+ChanHistory 0
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    warn~
+ChanLevel   101
+ChanType    5
+ChanHistory 0
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    build~
+ChanLevel   101
+ChanType    5
+ChanHistory 0
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    log~
+ChanLevel   102
+ChanType    5
+ChanHistory 0
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    counciltalk~
+ChanLevel   101
+ChanType    3
+ChanHistory 1
+DoScramble  1
+End
+
+#CHANNEL
+ChanName    alliance~
+ChanLevel   10
+ChanType    2
+ChanHistory 1
+DoScramble  1
+End
+
+#CHANNEL
+ChanName    sooc~
+ChanLevel   101
+ChanType    0
+ChanHistory 1
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    avtalk~
+ChanLevel   100
+ChanType    0
+ChanHistory 1
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    ask~
+ChanLevel   2
+ChanType    0
+ChanHistory 1
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    answer~
+ChanLevel   2
+ChanType    0
+ChanHistory 1
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    swear~
+ChanLevel   2
+ChanType    0
+ChanHistory 1
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    flirt~
+ChanLevel   2
+ChanType    0
+ChanHistory 1
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    hint~
+ChanLevel   2
+ChanType    0
+ChanHistory 1
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    osay~
+ChanLevel   2
+ChanType    6
+ChanHistory 0
+DoScramble  1
+End
+
+#CHANNEL
+ChanName    say~
+ChanLevel   1
+ChanType    6
+ChanHistory 1
+DoScramble  1
+End
+
+#CHANNEL
+ChanName    6d~
+ChanLevel   101
+ChanType    7
+ChanHistory 1
+DoScramble  0
+End
+
+#CHANNEL
+ChanName    throng~
+ChanLevel   10
+ChanType    8
+ChanHistory 1
+DoScramble  1
+End
+
+#CHANNEL
+ChanName    reunion~
+ChanLevel   1
+ChanType    0
+ChanHistory 1
+DoScramble  1
+End
+
+#CHANNEL
+ChanName    halcyon~
+ChanLevel   10
+ChanType    9
+ChanHistory 1
+DoScramble  1
+End
+
+#CHANNEL
+ChanName    paleon~
+ChanLevel   10
+ChanType    10
+ChanHistory 1
+DoScramble  1
+End
+
+#CHANNEL
+ChanName    dakar~
+ChanLevel   10
+ChanType    11
+ChanHistory 1
+DoScramble  1
+End
+
+#CHANNEL
+ChanName    forbidden~
+ChanLevel   10
+ChanType    12
+ChanHistory 1
+DoScramble  1
+End
+
+#END

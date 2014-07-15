@@ -1,0 +1,399 @@
+Name           Dragon Lord~
+Filename       DragonLord~
+Class          7
+Starting       0
+AttrPrime      1
+AttrSecond     0
+AttrDeficient  0
+Races          0
+Nocombo        0
+Reclass        0 0 0
+Skilladept     0
+Thac0          0
+Thac32         0
+Hpmin          30
+Hpmax          40
+ManaMin        10
+ManaMax        20
+Expbase        2000
+Craftbase        0
+Resist         0
+Suscept        0
+Skill 'astral walk' 25 95
+Skill 'continual light' 5 95
+Skill 'dragon wit' 14 95
+Skill 'dragonskin' 16 95
+Skill 'fly' 1 95
+Skill 'identify' 12 95
+Skill 'kindred strength' 11 95
+Skill 'locate object' 16 95
+Skill 'word of recall' 20 95
+Skill 'aid' 1 95
+Skill 'behead' 10 95
+Skill 'climb' 1 95
+Skill 'cone' 10 95
+Skill 'cook' 1 95
+Skill 'dodge' 5 95
+Skill 'doorbash' 8 95
+Skill 'dual wield' 35 95
+Skill 'enhanced damage' 44 95
+Skill 'fifth attack' 85 95
+Skill 'fourth attack' 65 95
+Skill 'human form' 20 95
+Skill 'kick' 2 95
+Skill 'parry' 15 95
+Skill 'peek' 45 95
+Skill 'rage' 18 95
+Skill 'scan' 1 95
+Skill 'search' 1 95
+Skill 'second attack' 7 95
+Skill 'slice' 1 95
+Skill 'smell' 8 95
+Skill 'swim' 1 95
+Skill 'third attack' 30 95
+Skill 'truesight' 10 95
+Skill 'talons' 20 95
+Skill 'celestial' 1 95
+Skill 'centaurian' 1 95
+Skill 'common' 1 95
+Skill 'demonic' 1 95
+Skill 'draconic' 1 95
+Skill 'dwarven' 1 95
+Skill 'elven' 1 95
+Skill 'gnomish' 1 95
+Skill 'goblic' 1 95
+Skill 'hobbit' 1 95
+Skill 'infernal' 1 95
+Skill 'ogrian' 1 95
+Skill 'orcish' 1 95
+Skill 'pixish' 1 95
+Skill 'silent' 1 95
+Skill 'trollese' 1 95
+Title
+Lord~
+Lord~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

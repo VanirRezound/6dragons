@@ -1,0 +1,442 @@
+Name           Shadowknight~
+Filename       Shadowknight~
+Class          18
+Starting       1
+AttrPrime      5
+AttrSecond     1
+AttrDeficient  4
+Races          260126
+Nocombo        48
+Reclass        0 0 0
+Skilladept     90
+Thac0          13
+Thac32         4
+Hpmin          22
+Hpmax          28
+ManaMin        4
+ManaMax        10
+Expbase        1100
+Craftbase        0
+Resist         0
+Suscept        0
+Skill 'create fire' 10 95
+Skill 'dark blessings' 33 95
+Skill 'fireshield' 69 95
+Skill 'nosight' 55 95
+Skill 'aid' 1 95
+Skill 'assault' 16 95
+Skill 'bash' 32 70
+Skill 'behead' 10 95
+Skill 'biofeedback' 65 60
+Skill 'break' 35 95
+Skill 'brittle bone' 88 95
+Skill 'charge' 35 95
+Skill 'climb' 1 95
+Skill 'cook' 1 95
+Skill 'daze' 17 80
+Skill 'death embrace' 80 95
+Skill 'decree decay' 24 95
+Skill 'demonic sight' 10 95
+Skill 'desecrate' 38 95
+Skill 'disarm' 7 85
+Skill 'dodge' 5 95
+Skill 'dual wield' 15 95
+Skill 'dye' 1 95
+Skill 'endurance' 48 75
+Skill 'enhanced damage' 6 80
+Skill 'enrage' 12 95
+Skill 'faith' 38 95
+Skill 'fifth attack' 50 80
+Skill 'find weakness' 45 65
+Skill 'flint fire' 1 30
+Skill 'fourth attack' 38 95
+Skill 'fury' 49 80
+Skill 'grip' 68 75
+Skill 'harm touch' 24 95
+Skill 'hide' 20 35
+Skill 'inertial barrier' 44 95
+Skill 'keen eye' 20 95
+Skill 'kick' 1 85
+Skill 'knee' 14 95
+Skill 'lore' 25 25
+Skill 'maintain position' 41 95
+Skill 'mitigate' 17 95
+Skill 'mount' 1 85
+Skill 'offensive stance' 47 95
+Skill 'poison weapon' 100 25
+Skill 'pummel' 40 75
+Skill 'punch' 2 90
+Skill 'restring' 10 95
+Skill 'roundhouse' 25 70
+Skill 'scan' 1 95
+Skill 'search' 1 95
+Skill 'second attack' 5 95
+Skill 'seventh attack' 92 30
+Skill 'sidestep' 49 60
+Skill 'siphon strength' 8 95
+Skill 'sixth attack' 90 75
+Skill 'slam' 30 95
+Skill 'slice' 1 95
+Skill 'sneak' 18 35
+Skill 'spectral ward' 28 95
+Skill 'spirits ward' 40 95
+Skill 'swim' 1 95
+Skill 'taunt' 2 95
+Skill 'third attack' 15 95
+Skill 'track' 26 85
+Skill 'uppercut' 28 80
+Skill '1h bludgeons' 1 95
+Skill '1h long blades' 1 95
+Skill '1h short blades' 1 95
+Skill '2h axes' 1 80
+Skill '2h bludgeons' 1 80
+Skill '2h long blades' 2 95
+Skill 'archery' 1 95
+Skill 'flails' 1 95
+Skill 'polearms' 1 95
+Skill 'spears' 1 95
+Skill 'staves' 1 95
+Skill 'whips' 1 95
+Skill 'celestial' 1 99
+Skill 'centaurian' 1 95
+Skill 'common' 1 99
+Skill 'demonic' 1 99
+Skill 'dwarven' 1 99
+Skill 'elven' 1 99
+Skill 'gnomish' 1 99
+Skill 'goblic' 1 99
+Skill 'hobbit' 1 99
+Skill 'infernal' 1 99
+Skill 'ogrian' 1 99
+Skill 'orcish' 1 99
+Skill 'pixish' 1 99
+Skill 'silent' 1 95
+Skill 'trollese' 1 95
+Title
+a young adventurer.~
+a young adventuress.~
+Title
+Swordpupil~
+Swordpupil~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

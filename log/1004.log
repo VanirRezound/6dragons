@@ -1,0 +1,1045 @@
+Fri Jan  3 06:23:54 2014 :: Booting Database
+Fri Jan  3 06:23:54 2014 :: [*****] BOOT: ---------------------[ Boot Log ]--------------------
+Fri Jan  3 06:23:54 2014 :: Loading commands
+Fri Jan  3 06:23:54 2014 :: Loading mud channels...
+Fri Jan  3 06:23:54 2014 :: Loading sysdata configuration...
+Fri Jan  3 06:23:54 2014 :: Loading socials
+Fri Jan  3 06:23:54 2014 :: Loading skill table
+Fri Jan  3 06:23:54 2014 :: Sorting skill table...
+Fri Jan  3 06:23:54 2014 :: Remapping slots to sns
+Fri Jan  3 06:23:54 2014 :: Loading classes
+Fri Jan  3 06:23:54 2014 :: Loading races
+Fri Jan  3 06:23:54 2014 :: Loading herb table
+Fri Jan  3 06:23:54 2014 :: Loading tongues
+Fri Jan  3 06:23:54 2014 :: Making 6 Dragons stafflist
+Fri Jan  3 06:23:54 2014 :: Loading MSSP Data...
+Fri Jan  3 06:23:54 2014 :: Building wizinfo
+Fri Jan  3 06:23:54 2014 :: Initializing random number generator
+Fri Jan  3 06:23:54 2014 :: Setting time and weather.
+Fri Jan  3 06:23:54 2014 :: Loading holiday chart...
+Fri Jan  3 06:23:54 2014 :: Assigning gsn's
+ASSIGN_GSN: Skill rotten gut not found.
+Fri Jan  3 06:23:54 2014 :: Reading in area files...
+(help.are)
+limbo.are     : Rooms:     2 - 99    Objs:     2 - 99    Mobs:     1 - 99
+staff.are     : Rooms:  1200 - 1299  Objs:  1200 - 1299  Mobs:  1200 - 1299
+wild.are      : Rooms: 41000 - 44000 Objs: 41000 - 41026 Mobs: 41000 - 41039
+Fri Jan  3 06:23:55 2014 :: Loading buildlist
+Fri Jan  3 06:23:55 2014 :: Fixing exits
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 18300. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41100, exit explore leads to bad vnum (18300)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 41100
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 31300. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41145, exit explore leads to bad vnum (31300)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 41145
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 2904. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41176, exit explore leads to bad vnum (2904)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 41176
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 2758. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41195, exit explore leads to bad vnum (2758)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 41195
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 10567. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43266, exit explore leads to bad vnum (10567)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 43266
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 27023. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43436, exit explore leads to bad vnum (27023)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 43436
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 28251. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43446, exit explore leads to bad vnum (28251)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 43446
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 32000. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41405, exit explore leads to bad vnum (32000)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 41405
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 10441. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43475, exit explore leads to bad vnum (10441)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 43475
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 19500. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41428, exit explore leads to bad vnum (19500)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 41428
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 1400. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41458, exit explore leads to bad vnum (1400)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 41458
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 602. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41683, exit explore leads to bad vnum (602)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 41683
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 50843. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41700, exit north leads to bad vnum (50843)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41700
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 50901. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41701, exit north leads to bad vnum (50901)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41701
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 50959. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41702, exit north leads to bad vnum (50959)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41702
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 51017. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41703, exit north leads to bad vnum (51017)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41703
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 51075. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41704, exit north leads to bad vnum (51075)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41704
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 51133. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41705, exit north leads to bad vnum (51133)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41705
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 51191. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41706, exit north leads to bad vnum (51191)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41706
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 51249. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41707, exit north leads to bad vnum (51249)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41707
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 51307. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41708, exit north leads to bad vnum (51307)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41708
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 51365. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41709, exit north leads to bad vnum (51365)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41709
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 51423. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41710, exit north leads to bad vnum (51423)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41710
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 51481. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41711, exit north leads to bad vnum (51481)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41711
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 51539. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41712, exit north leads to bad vnum (51539)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41712
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 51597. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41713, exit north leads to bad vnum (51597)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41713
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 51655. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41714, exit north leads to bad vnum (51655)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41714
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 51713. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41715, exit north leads to bad vnum (51713)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41715
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 51771. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41716, exit north leads to bad vnum (51771)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41716
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 51829. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41717, exit north leads to bad vnum (51829)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41717
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 51887. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41718, exit north leads to bad vnum (51887)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41718
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 51945. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41719, exit north leads to bad vnum (51945)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41719
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52003. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41720, exit north leads to bad vnum (52003)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41720
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52061. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41721, exit north leads to bad vnum (52061)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41721
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52119. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41722, exit north leads to bad vnum (52119)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41722
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52177. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41723, exit north leads to bad vnum (52177)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41723
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52235. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41724, exit north leads to bad vnum (52235)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41724
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52293. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41725, exit north leads to bad vnum (52293)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41725
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52351. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41726, exit north leads to bad vnum (52351)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41726
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52409. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41727, exit north leads to bad vnum (52409)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41727
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52467. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41728, exit north leads to bad vnum (52467)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41728
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52525. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41729, exit north leads to bad vnum (52525)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41729
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52583. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41730, exit north leads to bad vnum (52583)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41730
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52641. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41731, exit north leads to bad vnum (52641)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41731
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52699. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41732, exit north leads to bad vnum (52699)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41732
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52757. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41733, exit north leads to bad vnum (52757)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41733
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52815. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41734, exit north leads to bad vnum (52815)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41734
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52873. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41735, exit north leads to bad vnum (52873)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41735
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52931. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41736, exit north leads to bad vnum (52931)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41736
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 52989. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41737, exit north leads to bad vnum (52989)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41737
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 53047. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41738, exit north leads to bad vnum (53047)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41738
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 53105. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41739, exit north leads to bad vnum (53105)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41739
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 53163. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41740, exit north leads to bad vnum (53163)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41740
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 53221. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41741, exit north leads to bad vnum (53221)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41741
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 53279. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41742, exit north leads to bad vnum (53279)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41742
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 53337. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41743, exit north leads to bad vnum (53337)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41743
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 53395. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41744, exit north leads to bad vnum (53395)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41744
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 53453. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41745, exit north leads to bad vnum (53453)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41745
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 53511. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41746, exit north leads to bad vnum (53511)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41746
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 53569. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41747, exit north leads to bad vnum (53569)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41747
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 53627. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41748, exit north leads to bad vnum (53627)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41748
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 53685. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41749, exit north leads to bad vnum (53685)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41749
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 53743. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41750, exit north leads to bad vnum (53743)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41750
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48001. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41751, exit north leads to bad vnum (48001)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41751
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48059. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41752, exit north leads to bad vnum (48059)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41752
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48117. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41753, exit north leads to bad vnum (48117)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41753
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48175. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41754, exit north leads to bad vnum (48175)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41754
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48233. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41755, exit north leads to bad vnum (48233)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41755
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48291. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41756, exit north leads to bad vnum (48291)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41756
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48349. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41757, exit north leads to bad vnum (48349)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41757
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48407. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41758, exit north leads to bad vnum (48407)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41758
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48465. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41759, exit north leads to bad vnum (48465)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41759
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48523. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41760, exit north leads to bad vnum (48523)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41760
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48581. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41761, exit north leads to bad vnum (48581)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41761
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48639. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41762, exit north leads to bad vnum (48639)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41762
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48697. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41763, exit north leads to bad vnum (48697)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41763
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48755. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41764, exit north leads to bad vnum (48755)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41764
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48813. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41765, exit north leads to bad vnum (48813)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41765
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48871. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41766, exit north leads to bad vnum (48871)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41766
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48929. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41767, exit north leads to bad vnum (48929)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41767
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 48987. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41768, exit north leads to bad vnum (48987)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41768
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 49045. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41769, exit north leads to bad vnum (49045)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41769
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 49103. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41770, exit north leads to bad vnum (49103)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41770
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 49161. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41771, exit north leads to bad vnum (49161)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41771
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 8310. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41771, exit explore leads to bad vnum (8310)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 41771
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 49219. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41772, exit north leads to bad vnum (49219)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41772
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 49277. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41773, exit north leads to bad vnum (49277)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41773
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 49335. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41774, exit north leads to bad vnum (49335)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41774
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 49393. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41775, exit north leads to bad vnum (49393)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41775
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 49451. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41776, exit north leads to bad vnum (49451)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41776
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 49509. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41777, exit north leads to bad vnum (49509)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41777
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 49567. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41778, exit north leads to bad vnum (49567)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41778
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 49625. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41779, exit north leads to bad vnum (49625)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41779
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 49683. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41780, exit north leads to bad vnum (49683)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41780
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 49741. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41781, exit north leads to bad vnum (49741)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41781
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 49799. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41782, exit north leads to bad vnum (49799)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41782
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 49857. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41783, exit north leads to bad vnum (49857)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41783
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 49915. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41784, exit north leads to bad vnum (49915)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41784
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 49973. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41785, exit north leads to bad vnum (49973)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41785
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 50031. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41786, exit north leads to bad vnum (50031)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41786
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 50089. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41787, exit north leads to bad vnum (50089)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41787
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 50147. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41788, exit north leads to bad vnum (50147)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41788
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 50205. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41789, exit north leads to bad vnum (50205)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41789
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 50263. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41790, exit north leads to bad vnum (50263)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41790
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 50321. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41791, exit north leads to bad vnum (50321)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41791
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 50379. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41792, exit north leads to bad vnum (50379)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41792
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 50437. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41793, exit north leads to bad vnum (50437)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41793
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 2300. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43842, exit explore leads to bad vnum (2300)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 43842
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 50495. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41794, exit north leads to bad vnum (50495)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41794
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 50553. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41795, exit north leads to bad vnum (50553)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41795
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 50611. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41796, exit north leads to bad vnum (50611)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41796
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 50669. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41797, exit north leads to bad vnum (50669)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41797
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 50727. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41798, exit north leads to bad vnum (50727)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41798
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 50785. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 41799, exit north leads to bad vnum (50785)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 41799
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61499. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43900, exit south leads to bad vnum (61499)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43900
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61529. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43901, exit south leads to bad vnum (61529)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43901
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61559. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43902, exit south leads to bad vnum (61559)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43902
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61589. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43903, exit south leads to bad vnum (61589)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43903
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61619. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43904, exit south leads to bad vnum (61619)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43904
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61649. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43905, exit south leads to bad vnum (61649)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43905
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61679. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43906, exit south leads to bad vnum (61679)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43906
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61709. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43907, exit south leads to bad vnum (61709)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43907
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61739. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43908, exit south leads to bad vnum (61739)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43908
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61769. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43909, exit south leads to bad vnum (61769)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43909
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61799. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43910, exit south leads to bad vnum (61799)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43910
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61829. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43911, exit south leads to bad vnum (61829)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43911
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61859. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43912, exit south leads to bad vnum (61859)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43912
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61889. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43913, exit south leads to bad vnum (61889)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43913
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61919. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43914, exit south leads to bad vnum (61919)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43914
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61949. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43915, exit south leads to bad vnum (61949)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43915
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61979. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43916, exit south leads to bad vnum (61979)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43916
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 1650. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43916, exit explore leads to bad vnum (1650)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 43916
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62009. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43917, exit south leads to bad vnum (62009)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43917
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62039. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43918, exit south leads to bad vnum (62039)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43918
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62069. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43919, exit south leads to bad vnum (62069)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43919
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62099. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43920, exit south leads to bad vnum (62099)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43920
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62129. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43921, exit south leads to bad vnum (62129)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43921
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62159. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43922, exit south leads to bad vnum (62159)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43922
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62189. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43923, exit south leads to bad vnum (62189)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43923
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62219. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43924, exit south leads to bad vnum (62219)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43924
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62249. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43925, exit south leads to bad vnum (62249)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43925
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62279. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43926, exit south leads to bad vnum (62279)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43926
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62309. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43927, exit south leads to bad vnum (62309)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43927
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62339. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43928, exit south leads to bad vnum (62339)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43928
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62369. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43929, exit south leads to bad vnum (62369)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43929
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62399. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43930, exit south leads to bad vnum (62399)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43930
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62429. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43931, exit south leads to bad vnum (62429)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43931
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62459. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43932, exit south leads to bad vnum (62459)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43932
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62489. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43933, exit south leads to bad vnum (62489)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43933
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62519. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43934, exit south leads to bad vnum (62519)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43934
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62549. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43935, exit south leads to bad vnum (62549)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43935
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62579. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43936, exit south leads to bad vnum (62579)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43936
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62609. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43937, exit south leads to bad vnum (62609)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43937
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62639. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43938, exit south leads to bad vnum (62639)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43938
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62669. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43939, exit south leads to bad vnum (62669)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43939
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62699. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43940, exit south leads to bad vnum (62699)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43940
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62729. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43941, exit south leads to bad vnum (62729)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43941
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62759. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43942, exit south leads to bad vnum (62759)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43942
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62789. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43943, exit south leads to bad vnum (62789)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43943
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62819. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43944, exit south leads to bad vnum (62819)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43944
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62849. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43945, exit south leads to bad vnum (62849)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43945
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62879. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43946, exit south leads to bad vnum (62879)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43946
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62909. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43947, exit south leads to bad vnum (62909)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43947
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62939. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43948, exit south leads to bad vnum (62939)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43948
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 2200. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43948, exit explore leads to bad vnum (2200)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 43948
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62969. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43949, exit south leads to bad vnum (62969)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43949
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 62999. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43950, exit south leads to bad vnum (62999)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43950
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60029. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43951, exit south leads to bad vnum (60029)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43951
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60059. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43952, exit south leads to bad vnum (60059)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43952
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60089. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43953, exit south leads to bad vnum (60089)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43953
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60119. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43954, exit south leads to bad vnum (60119)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43954
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60149. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43955, exit south leads to bad vnum (60149)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43955
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60179. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43956, exit south leads to bad vnum (60179)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43956
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60209. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43957, exit south leads to bad vnum (60209)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43957
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60239. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43958, exit south leads to bad vnum (60239)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43958
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60269. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43959, exit south leads to bad vnum (60269)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43959
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60299. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43960, exit south leads to bad vnum (60299)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43960
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60329. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43961, exit south leads to bad vnum (60329)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43961
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60359. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43962, exit south leads to bad vnum (60359)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43962
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60389. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43963, exit south leads to bad vnum (60389)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43963
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60419. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43964, exit south leads to bad vnum (60419)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43964
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60449. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43965, exit south leads to bad vnum (60449)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43965
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60479. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43966, exit south leads to bad vnum (60479)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43966
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60509. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43967, exit south leads to bad vnum (60509)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43967
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60539. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43968, exit south leads to bad vnum (60539)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43968
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60569. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43969, exit south leads to bad vnum (60569)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43969
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60599. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43970, exit south leads to bad vnum (60599)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43970
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60629. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43971, exit south leads to bad vnum (60629)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43971
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60659. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43972, exit south leads to bad vnum (60659)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43972
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60689. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43973, exit south leads to bad vnum (60689)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43973
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60719. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43974, exit south leads to bad vnum (60719)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43974
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60749. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43975, exit south leads to bad vnum (60749)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43975
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60779. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43976, exit south leads to bad vnum (60779)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43976
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60809. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43977, exit south leads to bad vnum (60809)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43977
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60839. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43978, exit south leads to bad vnum (60839)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43978
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60869. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43979, exit south leads to bad vnum (60869)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43979
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60899. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43980, exit south leads to bad vnum (60899)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43980
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60929. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43981, exit south leads to bad vnum (60929)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43981
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60959. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43982, exit south leads to bad vnum (60959)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43982
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 60989. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43983, exit south leads to bad vnum (60989)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43983
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61019. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43984, exit south leads to bad vnum (61019)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43984
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61049. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43985, exit south leads to bad vnum (61049)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43985
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61079. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43986, exit south leads to bad vnum (61079)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43986
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61109. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43987, exit south leads to bad vnum (61109)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43987
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61139. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43988, exit south leads to bad vnum (61139)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43988
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61169. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43989, exit south leads to bad vnum (61169)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43989
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61199. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43990, exit south leads to bad vnum (61199)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43990
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61229. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43991, exit south leads to bad vnum (61229)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43991
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61259. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43992, exit south leads to bad vnum (61259)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43992
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61289. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43993, exit south leads to bad vnum (61289)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43993
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61319. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43994, exit south leads to bad vnum (61319)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43994
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61349. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43995, exit south leads to bad vnum (61349)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43995
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61379. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43996, exit south leads to bad vnum (61379)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43996
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61409. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43997, exit south leads to bad vnum (61409)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43997
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61439. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43998, exit south leads to bad vnum (61439)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43998
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 61469. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 43999, exit south leads to bad vnum (61469)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting south exit in room 43999
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 31634. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 42012, exit explore leads to bad vnum (31634)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 42012
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 2500. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 42040, exit explore leads to bad vnum (2500)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 42040
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 35500. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 42081, exit explore leads to bad vnum (35500)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 42081
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 29000. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 42086, exit explore leads to bad vnum (29000)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 42086
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 10800. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 42120, exit explore leads to bad vnum (10800)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 42120
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 701. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 42152, exit explore leads to bad vnum (701)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 42152
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 1850. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 42168, exit explore leads to bad vnum (1850)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 42168
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 31093. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 1210, exit north leads to bad vnum (31093)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting north exit in room 1210
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 4008. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 42297, exit explore leads to bad vnum (4008)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 42297
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 3503. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 42300, exit explore leads to bad vnum (3503)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 42300
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 18631. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 42408, exit explore leads to bad vnum (18631)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 42408
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 16700. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 42452, exit explore leads to bad vnum (16700)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 42452
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 11601. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 42511, exit explore leads to bad vnum (11601)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 42511
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 11510. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 42557, exit explore leads to bad vnum (11510)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 42557
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 18012. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 42829, exit explore leads to bad vnum (18012)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 42829
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 986. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 42844, exit explore leads to bad vnum (986)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 42844
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: new_get_room_index: bad vnum 10001. Called from file db.c line 2814
+Fri Jan  3 06:23:55 2014 :: [*****] BOOT: Fix_exits: room 42884, exit explore leads to bad vnum (10001)
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Deleting explore exit in room 42884
+Fri Jan  3 06:23:55 2014 :: Initializing economy
+Fri Jan  3 06:23:55 2014 :: Resetting areas
+Fri Jan  3 06:23:55 2014 :: Loading storerooms
+Fri Jan  3 06:23:55 2014 :: Loading clans
+Fri Jan  3 06:23:55 2014 :: Loading clans...
+Fri Jan  3 06:23:55 2014 :: throng.cln
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open clans/throng.cln for r. Called from clans.c:878
+clans/throng.cln: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Cannot load clan file: throng.cln
+Fri Jan  3 06:23:55 2014 :: alliance.cln
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open clans/alliance.cln for r. Called from clans.c:878
+clans/alliance.cln: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Cannot load clan file: alliance.cln
+Fri Jan  3 06:23:55 2014 :: halcyon.cln
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open clans/halcyon.cln for r. Called from clans.c:878
+clans/halcyon.cln: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Cannot load clan file: halcyon.cln
+Fri Jan  3 06:23:55 2014 :: $
+Fri Jan  3 06:23:55 2014 ::  Done clans 
+Fri Jan  3 06:23:55 2014 :: Loading quests
+Fri Jan  3 06:23:55 2014 :: Loading currency...
+Fri Jan  3 06:23:55 2014 :: Loading banks
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank aarnwynn because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank account because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank aeliana because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank aeliana2 because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank agri because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank airl because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank alend because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank alia because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank allneochr because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank althalos because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank amrynn because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank anharat because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank aquaview because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank aretia because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank arlan because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank arun because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank ashugar because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank bloodsucker because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank brahmus because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank caila because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank cali because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank corwyn because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank dakar because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank dansc because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank draconis because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank eldan because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank elendil because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank elendyl because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank elfric because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank enkara because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank erendyl because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank ergo because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank erindyl because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank explore5 because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank forbidden because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank funding because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank garag because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank garain because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank garbert because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank gavrel because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank goran because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank gorb because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank hedrick because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank herrig because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank holy because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank hroch because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank ice957 because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank imperials because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank kaang because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank kithonos because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank lisara because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank lorath because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank maraver because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank mathius because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank merrus because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank mirinya because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank money because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank naka because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank nlek because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank oriana because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank padan because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank paleon because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank pedryl because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank perryl because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank petrius because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank raum because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank rivyk because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank saveone because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank seiti because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank tand because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank tarrin because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank thandon because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank torgrim because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank torgur because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank tristen because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank turrick because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank vladaar because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank wildstar because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank xaukawn because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank xryon because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank yaiba because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank yori because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: fread_bank: Deleting bank zaiden because it hasn't been used in at least 366 days.
+Fri Jan  3 06:23:55 2014 :: Loading landmarks
+Fri Jan  3 06:23:55 2014 :: Loading councils
+Fri Jan  3 06:23:55 2014 :: Loading councils...
+Fri Jan  3 06:23:55 2014 :: code.cln
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open councils/code.cln for r. Called from clans.c:934
+councils/code.cln: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Cannot load council file: code.cln
+Fri Jan  3 06:23:55 2014 :: architect.cln
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open councils/architect.cln for r. Called from clans.c:934
+councils/architect.cln: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Cannot load council file: architect.cln
+Fri Jan  3 06:23:55 2014 :: prelations.cln
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open councils/prelations.cln for r. Called from clans.c:934
+councils/prelations.cln: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Cannot load council file: prelations.cln
+Fri Jan  3 06:23:55 2014 :: phelper.cln
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open councils/phelper.cln for r. Called from clans.c:934
+councils/phelper.cln: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Cannot load council file: phelper.cln
+Fri Jan  3 06:23:55 2014 :: admin.cln
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open councils/admin.cln for r. Called from clans.c:934
+councils/admin.cln: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Cannot load council file: admin.cln
+Fri Jan  3 06:23:55 2014 :: gevents.cln
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open councils/gevents.cln for r. Called from clans.c:934
+councils/gevents.cln: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Cannot load council file: gevents.cln
+Fri Jan  3 06:23:55 2014 :: $
+Fri Jan  3 06:23:55 2014 ::  Done councils 
+Fri Jan  3 06:23:55 2014 :: Loading deities
+Fri Jan  3 06:23:55 2014 :: Loading deities...
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open deity/creator for r. Called from deity.c:279
+deity/creator: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: load_deity: Cannot load deity file: creator
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open deity/uglar for r. Called from deity.c:279
+deity/uglar: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: load_deity: Cannot load deity file: uglar
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open deity/mnera for r. Called from deity.c:279
+deity/mnera: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: load_deity: Cannot load deity file: mnera
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open deity/corellon for r. Called from deity.c:279
+deity/corellon: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: load_deity: Cannot load deity file: corellon
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open deity/calton for r. Called from deity.c:279
+deity/calton: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: load_deity: Cannot load deity file: calton
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open deity/tanzeanal for r. Called from deity.c:279
+deity/tanzeanal: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: load_deity: Cannot load deity file: tanzeanal
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open deity/thara for r. Called from deity.c:279
+deity/thara: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: load_deity: Cannot load deity file: thara
+Fri Jan  3 06:23:55 2014 :: Done deities
+Fri Jan  3 06:23:55 2014 :: Loading hometowns
+Fri Jan  3 06:23:55 2014 :: Loading htowns...
+Fri Jan  3 06:23:55 2014 :: paleon.city
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open htowns/paleon.city for r. Called from hometowns.c:157
+htowns/paleon.city: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Cannot load htown file: paleon.city
+Fri Jan  3 06:23:55 2014 :: Valnaes.htown
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open htowns/Valnaes.htown for r. Called from hometowns.c:157
+htowns/Valnaes.htown: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Cannot load htown file: Valnaes.htown
+Fri Jan  3 06:23:55 2014 :: forbidden.htown
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open htowns/forbidden.htown for r. Called from hometowns.c:157
+htowns/forbidden.htown: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Cannot load htown file: forbidden.htown
+Fri Jan  3 06:23:55 2014 :: $
+Fri Jan  3 06:23:55 2014 ::  Done htowns 
+Fri Jan  3 06:23:55 2014 :: Loading cities
+Fri Jan  3 06:23:55 2014 :: Loading cities...
+Fri Jan  3 06:23:55 2014 :: paleon.city
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open city/paleon.city for r. Called from city.c:291
+city/paleon.city: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Cannot load city file: paleon.city
+Fri Jan  3 06:23:55 2014 :: dakar.city
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open city/dakar.city for r. Called from city.c:291
+city/dakar.city: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Cannot load city file: dakar.city
+Fri Jan  3 06:23:55 2014 :: forbidden.city
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open city/forbidden.city for r. Called from city.c:291
+city/forbidden.city: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: Cannot load city file: forbidden.city
+Fri Jan  3 06:23:55 2014 :: $
+Fri Jan  3 06:23:55 2014 ::  Done cities 
+Fri Jan  3 06:23:55 2014 :: Loading watches
+Fri Jan  3 06:23:55 2014 :: Loading bans
+Fri Jan  3 06:23:55 2014 :: Done.
+Fri Jan  3 06:23:55 2014 :: Loading reserved names
+Fri Jan  3 06:23:55 2014 :: Loading auth namelist
+Fri Jan  3 06:23:55 2014 :: Loading corpses
+Fri Jan  3 06:23:55 2014 :: Loading News
+Fri Jan  3 06:23:55 2014 :: Loading Hints...
+Fri Jan  3 06:23:55 2014 :: Loading slay table
+Fri Jan  3 06:23:55 2014 :: Loading Immortal Hosts
+Fri Jan  3 06:23:55 2014 :: Done.
+Fri Jan  3 06:23:55 2014 :: Loading Morphs
+Fri Jan  3 06:23:55 2014 :: Optimizing Morphs.
+Fri Jan  3 06:23:55 2014 :: Done.
+Fri Jan  3 06:23:55 2014 :: Loading Global Boards
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open notes/General for r. Called from gboard.c:306
+notes/General: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open notes/Personal for r. Called from gboard.c:306
+notes/Personal: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open notes/Stories for r. Called from gboard.c:306
+notes/Stories: No such file or directory
+Fri Jan  3 06:23:55 2014 :: [*****] BUG: __FileOpen: can't open notes/Staff for r. Called from gboard.c:306
+notes/Staff: No such file or directory
+Fri Jan  3 06:23:55 2014 :: Initializing Autoboot
+Fri Jan  3 06:23:55 2014 :: Initializing socket
+Fri Jan  3 06:23:55 2014 :: 6 Dragons ready at address patriot-Inspiron-3521 on port 4100.
+Fri Jan  3 06:23:55 2014 :: Automated pfile cleanup beginning....
+Fri Jan  3 06:23:55 2014 :: Pfile cleanup completed.
+Fri Jan  3 06:23:55 2014 :: Total pfiles scanned: 0
+Fri Jan  3 06:23:55 2014 :: Total pfiles deleted: 0
+Fri Jan  3 06:23:55 2014 :: Total pfiles remaining: 0
+Fri Jan  3 06:24:45 2014 :: Admin@127.0.0.1 new Dragon Red.
+Fri Jan  3 06:24:48 2014 :: [*****] BUG: char_to_room: Admin -> NULL room!  Putting char in limbo (2)
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/g/Grachuus for r. Called from player.c:3465
+player/g/Grachuus: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/g/Grimble for r. Called from player.c:3465
+player/g/Grimble: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/g/Gron for r. Called from player.c:3465
+player/g/Gron: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/g/Grol for r. Called from player.c:3465
+player/g/Grol: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/m/Meckan for r. Called from player.c:3465
+player/m/Meckan: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/m/Maksim for r. Called from player.c:3465
+player/m/Maksim: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/x/Xert for r. Called from player.c:3465
+player/x/Xert: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/m/Myrlan for r. Called from player.c:3465
+player/m/Myrlan: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/u/Uriel for r. Called from player.c:3465
+player/u/Uriel: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/a/Ashugar for r. Called from player.c:3465
+player/a/Ashugar: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/s/Sarkai for r. Called from player.c:3465
+player/s/Sarkai: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/j/Javokdin for r. Called from player.c:3465
+player/j/Javokdin: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/x/Xire for r. Called from player.c:3465
+player/x/Xire: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/t/Tivuus for r. Called from player.c:3465
+player/t/Tivuus: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/s/Striker for r. Called from player.c:3465
+player/s/Striker: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/a/Althalos for r. Called from player.c:3465
+player/a/Althalos: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/l/Lorindel for r. Called from player.c:3465
+player/l/Lorindel: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/b/Barthalimual for r. Called from player.c:3465
+player/b/Barthalimual: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/v/Ventrust for r. Called from player.c:3465
+player/v/Ventrust: No such file or directory
+Fri Jan  3 06:24:58 2014 :: [*****] BUG: __FileOpen: can't open player/z/Zaiden for r. Called from player.c:3465
+player/z/Zaiden: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/g/Grachuus for r. Called from player.c:3465
+player/g/Grachuus: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/g/Grimble for r. Called from player.c:3465
+player/g/Grimble: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/g/Gron for r. Called from player.c:3465
+player/g/Gron: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/g/Grol for r. Called from player.c:3465
+player/g/Grol: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/m/Meckan for r. Called from player.c:3465
+player/m/Meckan: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/m/Maksim for r. Called from player.c:3465
+player/m/Maksim: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/x/Xert for r. Called from player.c:3465
+player/x/Xert: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/m/Myrlan for r. Called from player.c:3465
+player/m/Myrlan: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/u/Uriel for r. Called from player.c:3465
+player/u/Uriel: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/a/Ashugar for r. Called from player.c:3465
+player/a/Ashugar: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/s/Sarkai for r. Called from player.c:3465
+player/s/Sarkai: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/j/Javokdin for r. Called from player.c:3465
+player/j/Javokdin: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/x/Xire for r. Called from player.c:3465
+player/x/Xire: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/t/Tivuus for r. Called from player.c:3465
+player/t/Tivuus: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/s/Striker for r. Called from player.c:3465
+player/s/Striker: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/a/Althalos for r. Called from player.c:3465
+player/a/Althalos: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/l/Lorindel for r. Called from player.c:3465
+player/l/Lorindel: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/b/Barthalimual for r. Called from player.c:3465
+player/b/Barthalimual: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/v/Ventrust for r. Called from player.c:3465
+player/v/Ventrust: No such file or directory
+Fri Jan  3 06:25:13 2014 :: [*****] BUG: __FileOpen: can't open player/z/Zaiden for r. Called from player.c:3465
+player/z/Zaiden: No such file or directory
+Fri Jan  3 06:25:19 2014 :: Admin has quit the realms of 6 Dragons.
+Fri Jan  3 06:34:40 2014 :: Preloading player data for: Admin
+Fri Jan  3 06:34:44 2014 :: Loading player data for Admin (2K)
+Fri Jan  3 06:34:44 2014 :: Admin@127.0.0.1 has connected.
+Fri Jan  3 06:34:56 2014 :: Log Admin: aassign wild.are
+Fri Jan  3 06:34:59 2014 :: Log Admin: instazone
+Fri Jan  3 06:35:03 2014 :: Log Admin: folda wild.are
+Fri Jan  3 06:35:03 2014 :: Saving wild.are...
+Fri Jan  3 06:35:17 2014 :: Log Admin: reset list
+Fri Jan  3 06:35:31 2014 :: [*****] BUG: Buffer overflow: (Admin). Clearing buffer
+Fri Jan  3 06:35:31 2014 :: [*****] BUG: Buffer overflow: (Admin). Clearing buffer
+Fri Jan  3 06:35:31 2014 :: [*****] BUG: Buffer overflow: (Admin). Clearing buffer
+Fri Jan  3 06:35:31 2014 :: [*****] BUG: Buffer overflow: (Admin). Clearing buffer
+Fri Jan  3 06:35:31 2014 :: [*****] BUG: Buffer overflow: (Admin). Clearing buffer
+Fri Jan  3 06:35:38 2014 :: Log Admin: copy

@@ -1,0 +1,441 @@
+Name           Warrior~
+Filename       Warrior~
+Class          4
+Starting       1
+AttrPrime      1
+AttrSecond     5
+AttrDeficient  0
+Races          254208
+Nocombo        262240
+Reclass        0 0 0
+Skilladept     90
+Thac0          18
+Thac32         6
+Hpmin          32
+Hpmax          36
+ManaMin        2
+ManaMax        8
+Expbase        1100
+Craftbase        0
+Resist         0
+Suscept        0
+Skill 'nosight' 40 95
+Skill 'adrenaline rush' 10 95
+Skill 'aid' 1 95
+Skill 'assault' 16 95
+Skill 'backhand' 8 95
+Skill 'bash' 27 85
+Skill 'battle trance' 55 60
+Skill 'behead' 10 95
+Skill 'berserk' 20 95
+Skill 'blade master' 75 95
+Skill 'body drop' 96 95
+Skill 'climb' 1 95
+Skill 'cook' 1 95
+Skill 'disarm' 7 85
+Skill 'dodge' 5 95
+Skill 'doorbash' 1 85
+Skill 'dual wield' 14 95
+Skill 'dye' 1 95
+Skill 'eighth attack' 98 50
+Skill 'endurance' 22 95
+Skill 'enhanced damage' 1 95
+Skill 'enrage' 12 95
+Skill 'fifth attack' 50 95
+Skill 'find weakness' 23 95
+Skill 'flint fire' 1 30
+Skill 'fourth attack' 30 95
+Skill 'fury' 30 95
+Skill 'grendals stance' 30 95
+Skill 'grip' 50 95
+Skill 'heavy hands' 65 95
+Skill 'hide' 20 35
+Skill 'hitall' 61 95
+Skill 'judo' 20 35
+Skill 'keen eye' 20 95
+Skill 'kick' 1 85
+Skill 'lore' 25 25
+Skill 'maim' 32 90
+Skill 'maintain position' 14 95
+Skill 'mitigate' 12 95
+Skill 'mortify' 35 95
+Skill 'mount' 1 85
+Skill 'offensive stance' 44 95
+Skill 'parry' 1 85
+Skill 'pummel' 40 80
+Skill 'punch' 2 90
+Skill 'rallying cry' 24 95
+Skill 'restring' 10 95
+Skill 'scan' 1 95
+Skill 'search' 1 95
+Skill 'second attack' 5 95
+Skill 'seventh attack' 85 50
+Skill 'sidestep' 53 80
+Skill 'sixth attack' 70 80
+Skill 'slam' 30 95
+Skill 'slice' 1 95
+Skill 'sneak' 18 35
+Skill 'stun' 100 95
+Skill 'swim' 1 95
+Skill 'tackle' 5 95
+Skill 'taunt' 2 95
+Skill 'third attack' 15 95
+Skill 'track' 26 85
+Skill '1h axes' 1 95
+Skill '1h bludgeons' 1 95
+Skill '1h long blades' 1 95
+Skill '1h short blades' 1 95
+Skill '2h axes' 1 95
+Skill '2h bludgeons' 1 95
+Skill '2h long blades' 2 95
+Skill 'archery' 1 95
+Skill 'flails' 1 95
+Skill 'lances' 1 95
+Skill 'polearms' 1 95
+Skill 'pugilism' 1 95
+Skill 'spears' 1 95
+Skill 'staves' 1 95
+Skill 'whips' 1 95
+Skill 'celestial' 1 99
+Skill 'centaurian' 1 95
+Skill 'common' 1 99
+Skill 'demonic' 1 99
+Skill 'dwarven' 1 99
+Skill 'elven' 1 99
+Skill 'gnomish' 1 99
+Skill 'goblic' 1 99
+Skill 'hobbit' 1 99
+Skill 'infernal' 1 99
+Skill 'ogrian' 1 99
+Skill 'orcish' 1 99
+Skill 'pixish' 1 99
+Skill 'silent' 1 95
+Skill 'trollese' 1 95
+Title
+Man~
+Woman~
+Title
+Swordpupil~
+Swordpupil~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

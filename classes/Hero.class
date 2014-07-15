@@ -1,0 +1,448 @@
+Name           Hero~
+Filename       Hero~
+Class          20
+Starting       0
+AttrPrime      1
+AttrSecond     5
+AttrDeficient  0
+Races          0
+Nocombo        0
+Reclass        0 0 0
+Skilladept     95
+Thac0          18
+Thac32         6
+Hpmin          40
+Hpmax          50
+ManaMin        14
+ManaMax        22
+Expbase        2500
+Craftbase        50
+Resist         0
+Suscept        0
+Skill 'astral walk' 26 95
+Skill 'aura of courage' 62 95
+Skill 'aura of life' 54 95
+Skill 'battlefield view' 3 95
+Skill 'bestow vitae' 14 95
+Skill 'continual light' 3 95
+Skill 'create fire' 15 95
+Skill 'create food' 3 95
+Skill 'create spring' 3 95
+Skill 'dispel magic' 19 95
+Skill 'divine intervention' 80 95
+Skill 'divine might' 17 95
+Skill 'enchant armor' 27 95
+Skill 'enchant weapon' 18 95
+Skill 'extradimensional portal' 2 95
+Skill 'farsight' 21 95
+Skill 'feline grace' 6 95
+Skill 'fly' 7 95
+Skill 'greater heal' 33 95
+Skill 'heal' 13 95
+Skill 'heroism' 9 95
+Skill 'nosight' 7 95
+Skill 'ogre vitality' 13 95
+Skill 'paralyze' 88 50
+Skill 'pass door' 22 95
+Skill 'portal' 28 95
+Skill 'restore life' 60 95
+Skill 'sagacity' 14 95
+Skill 'sanctuary' 17 95
+Skill 'transport' 23 95
+Skill 'word of recall' 7 95
+Skill 'animal companion' 6 95
+Skill 'backstab' 4 95
+Skill 'behead' 10 95
+Skill 'biofeedback' 52 95
+Skill 'brew' 38 95
+Skill 'climb' 1 95
+Skill 'cook' 1 95
+Skill 'disarm' 7 95
+Skill 'dodge' 1 95
+Skill 'dual wield' 15 95
+Skill 'eighth attack' 98 95
+Skill 'eldritch bolt' 90 65
+Skill 'endurance' 5 95
+Skill 'enhanced damage' 1 95
+Skill 'fifth attack' 50 95
+Skill 'flint fire' 1 95
+Skill 'fourth attack' 30 95
+Skill 'grip' 8 95
+Skill 'hide' 2 95
+Skill 'hitall' 35 95
+Skill 'judge' 10 95
+Skill 'judo' 20 95
+Skill 'kick' 1 95
+Skill 'lore' 9 95
+Skill 'meditate' 8 95
+Skill 'mortify' 16 95
+Skill 'parry' 1 95
+Skill 'remember' 55 95
+Skill 'scan' 1 95
+Skill 'scribe' 47 95
+Skill 'second attack' 5 95
+Skill 'seventh attack' 86 95
+Skill 'sixth attack' 70 95
+Skill 'slice' 1 95
+Skill 'spirits ward' 42 95
+Skill 'swim' 1 95
+Skill 'third attack' 15 95
+Skill 'track' 11 95
+Skill 'trance' 37 95
+Skill 'truesight' 12 95
+Skill '1h axes' 1 95
+Skill '1h bludgeons' 1 95
+Skill '1h long blades' 1 95
+Skill '1h short blades' 1 95
+Skill '2h axes' 1 95
+Skill '2h bludgeons' 1 95
+Skill '2h long blades' 1 95
+Skill 'archery' 1 95
+Skill 'flails' 1 95
+Skill 'lances' 1 95
+Skill 'polearms' 1 95
+Skill 'pugilism' 1 95
+Skill 'spears' 1 95
+Skill 'staves' 1 95
+Skill 'whips' 1 95
+Skill 'centaurian' 1 95
+Skill 'common' 1 95
+Skill 'demonic' 1 95
+Skill 'dwarven' 1 95
+Skill 'elven' 1 95
+Skill 'gnomish' 1 95
+Skill 'hobbit' 1 95
+Skill 'infernal' 1 95
+Skill 'ogrian' 1 95
+Skill 'orcish' 1 95
+Skill 'pixish' 1 95
+Skill 'silent' 1 95
+Skill 'trollese' 1 95
+Title
+Man~
+Woman~
+Title
+the reborn Hero~
+the reborn Hero~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

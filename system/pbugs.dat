@@ -1,0 +1,145 @@
+#BUG
+FoundBy       Grachuus~
+FoundWhen     06-11-2010 00:18:16AM~
+BugDesc       failure when forging ore destroys all of your ore as opposed to just the 
+one you were working on (all in inventory) 
+----------------------
+&GEdit by Aurin: Why not make the first attempt 100% success
+rate, so that this is no longer a concern?  I'm fairly
+confident I can do this. heh
+~
+Type          -1
+FixedBy       ~
+FixedWhen     ~
+FixDesc       ~
+Reward        0
+RewardBonus   0
+Room          16229
+End
+
+#BUG
+FoundBy       Taon~
+FoundWhen     10-08-2010 08:00:40PM~
+BugDesc       There appears to be an issue with save class messing the class list up. This is just a reminder to volk. He is aware of the details of the issue.
+~
+Type          -1
+FixedBy       ~
+FixedWhen     ~
+FixDesc       ~
+Reward        0
+RewardBonus   0
+Room          12067
+End
+
+#BUG
+FoundBy       Fyndarwyn~
+FoundWhen     10-15-2010 01:11:21PM~
+BugDesc       Hello, For some reason druids can only be first or third classes. I I have 
+tried different races with the same results. Fyndarwyn 
+
+---Comment by Garick---
+Wasn't sure if this was actually a bug or not, but it sounded suspect. Went ahead and told him to send it up to one of you coder-folk.
+~
+Type          -1
+FixedBy       ~
+FixedWhen     ~
+FixDesc       ~
+Reward        0
+RewardBonus   0
+Room          1164
+End
+
+#BUG
+FoundBy       Aurin~
+FoundWhen     10-16-2010 07:40:28PM~
+BugDesc       In regards to bug 10, Druid cannot be chosen as a second class during 
+character creation. It is prevented in genesis.c at line 217 through 
+mutually exclusive if statements for CLASS_DRUID and CLASS_PRIEST. I tried 
+for several hours to get it to both show up as a second class choice, 
+while remaining mutually exclusive. I couldn't get it to do this, perhaps 
+someone else can. heh If/when this is fixed, would appreciate knowing how 
+it was done so that I'll know for next time. heh 
+
+Cheers,
+Aurin
+~
+Type          -1
+FixedBy       ~
+FixedWhen     ~
+FixDesc       ~
+Reward        0
+RewardBonus   0
+Room          1350
+End
+
+#BUG
+FoundBy       Aurin~
+FoundWhen     11-10-2010 02:57:29PM~
+BugDesc       Expire command bypasses extreme mode death penalty.
+
+Cheers,
+Aurin
+~
+Type          -1
+FixedBy       ~
+FixedWhen     ~
+FixDesc       ~
+Reward        0
+RewardBonus   0
+Room          1350
+End
+
+#BUG
+FoundBy       Aurin~
+FoundWhen     11-26-2010 09:45:52AM~
+BugDesc       interesting thing here: mob was found to be at -22 hp, but not dead. could 
+not kill. position of 0. had to set to pos 1 so that Aeliana could finish 
+off the mob. heh perhaps there should be a check to auto-correct this if 
+it should happen again? 
+
+Cheers,
+Aurin
+~
+Type          -1
+FixedBy       ~
+FixedWhen     ~
+FixDesc       ~
+Reward        0
+RewardBonus   0
+Room          1350
+End
+
+#BUG
+FoundBy       Aurin~
+FoundWhen     12-10-2010 00:44:27AM~
+BugDesc       the line: You will receive Double Experience. remains even after dexp ends 
+under the level command 
+
+Cheers,
+Aurin
+~
+Type          -1
+FixedBy       ~
+FixedWhen     ~
+FixDesc       ~
+Reward        0
+RewardBonus   0
+Room          1350
+End
+
+#BUG
+FoundBy       Ashten~
+FoundWhen     12-10-2010 08:27:50AM~
+BugDesc       I keep auto dropping all of my equipment and gear when
+i kill a mob.  doesnt seem to matter if its good evil
+I have tried several areas and same result.
+Its very varied, and strange.  Emily opinioned that
+it might be a problem with bag space.
+~
+Type          -1
+Reward        0
+RewardBonus   0
+Room          16016
+End
+
+#END

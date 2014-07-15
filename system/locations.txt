@@ -1,0 +1,10 @@
+Loc 6dstaff~ 1200
+Loc paleon~ 16007
+Loc forbidden~ 35515
+Loc dakar~ 11210
+Loc tutorial~ 5100
+Loc etutorial~ 33210
+Loc dtutorial~ 19015
+Loc quarry~ 42178
+Loc forge~ 16229
+End

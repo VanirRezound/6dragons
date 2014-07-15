@@ -1,0 +1,47 @@
+#MSSP_INFO
+Hostname          6dragons.org~
+Contact           vladaar@gmail.com~
+Icon              http://www.mudconnect.com/logos/3028_6dsmall.gif~
+Language          English~
+Location          United States~
+Website           http://6dragons.org~
+Family            dikumud~
+Genre             Fantasy~
+GamePlay          Hack and Slash~
+GameSystem        Custom~
+Intermud          IMC2~
+Status            Live~
+SubGenre          Medieval Fantasy~
+Created           2002
+MinAge            0
+Worlds            0
+Ansi              1
+MCCP              1
+MCP               0
+MSP               1
+SSL               0
+MXP               0
+Pueblo            0
+Vt100             0
+Xterm256          0
+Pay2Play          0
+Pay4Perks         0
+HiringBuilders    1
+HiringCoders      1
+AdultMaterial     0
+Multiclassing     1
+NewbieFriendly    1
+PlayerCities      1
+PlayerClans       1
+PlayerCrafting    1
+PlayerGuilds      1
+EquipmentSystem   Level~
+Multiplaying      None~
+PlayerKilling     Restricted~
+QuestSystem       Integrated~
+RolePlaying       Encouraged~
+TrainingSystem    Level~
+WorldOriginality  All Original~
+End
+
+#END

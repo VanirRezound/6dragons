@@ -1,0 +1,447 @@
+Name           Sorcerer~
+Filename       Magi~
+Class          23
+Starting       0
+AttrPrime      3
+AttrSecond     4
+AttrDeficient  0
+Races          0
+Nocombo        0
+Reclass        0 0 0
+Skilladept     0
+Thac0          18
+Thac32         10
+Hpmin          13
+Hpmax          19
+ManaMin        23
+ManaMax        32
+Expbase        2500
+Craftbase        50
+Resist         0
+Suscept        0
+Skill 'acid breath' 41 95
+Skill 'antimagic shell' 49 95
+Skill 'armor' 5 95
+Skill 'astral walk' 14 95
+Skill 'aura of courage' 51 95
+Skill 'blindness' 6 95
+Skill 'cause critical' 10 95
+Skill 'cause light' 1 95
+Skill 'chill' 13 95
+Skill 'continual light' 1 95
+Skill 'create spring' 3 95
+Skill 'curse' 14 95
+Skill 'detect hidden' 5 95
+Skill 'detect invis' 3 95
+Skill 'detect magic' 7 95
+Skill 'detect poison' 3 95
+Skill 'dispel magic' 16 95
+Skill 'enchant armor' 34 95
+Skill 'enchant weapon' 41 95
+Skill 'ethereal shield' 38 95
+Skill 'extradimensional portal' 2 95
+Skill 'fatigue' 4 95
+Skill 'fireball' 7 95
+Skill 'fireshield' 30 95
+Skill 'flamestrike' 24 95
+Skill 'fly' 4 95
+Skill 'frost breath' 35 95
+Skill 'healing essence' 14 95
+Skill 'iceshield' 22 95
+Skill 'invis' 2 95
+Skill 'mass invis' 17 95
+Skill 'portal' 31 95
+Skill 'resilience' 46 95
+Skill 'sagacity' 14 95
+Skill 'sanctuary' 15 95
+Skill 'shadowform' 55 95
+Skill 'shockshield' 24 95
+Skill 'silence' 65 95
+Skill 'sleep' 9 95
+Skill 'spiral blast' 37 95
+Skill 'summon' 25 95
+Skill 'transport' 11 95
+Skill 'valiance' 30 95
+Skill 'warm blooded' 4 95
+Skill 'weaken' 21 95
+Skill 'wizard eye' 6 95
+Skill 'wizard sight' 5 95
+Skill 'word of recall' 8 95
+Skill 'behead' 10 95
+Skill 'brew' 27 95
+Skill 'brittle bone' 70 95
+Skill 'conjure elemental' 16 95
+Skill 'dodge' 3 95
+Skill 'energy containment' 85 95
+Skill 'enhanced damage' 10 95
+Skill 'fourth attack' 50 95
+Skill 'harm touch' 20 95
+Skill 'harness mana' 12 95
+Skill 'higher magic' 20 95
+Skill 'meditate' 5 95
+Skill 'phase' 75 95
+Skill 'remember' 60 95
+Skill 'scribe' 54 95
+Skill 'second attack' 13 95
+Skill 'shield' 2 95
+Skill 'shrink' 12 95
+Skill 'spectral ward' 43 95
+Skill 'third attack' 26 95
+Skill 'trance' 40 95
+Skill '1h long blades' 1 95
+Skill '1h short blades' 1 95
+Skill 'archery' 1 95
+Skill 'blowguns' 1 95
+Skill 'flails' 1 95
+Skill 'lances' 1 95
+Skill 'polearms' 1 95
+Skill 'pugilism' 1 95
+Skill 'spears' 1 95
+Skill 'staves' 1 95
+Skill 'talons' 1 95
+Skill 'whips' 1 95
+Skill 'celestial' 1 95
+Skill 'centaurian' 1 95
+Skill 'common' 1 95
+Skill 'demonic' 1 95
+Skill 'draconic' 1 95
+Skill 'dwarven' 1 95
+Skill 'elven' 1 95
+Skill 'gnomish' 1 95
+Skill 'goblic' 1 95
+Skill 'hobbit' 1 95
+Skill 'infernal' 1 95
+Skill 'ogrian' 1 95
+Skill 'orcish' 1 95
+Skill 'pixish' 1 95
+Skill 'silent' 1 95
+Skill 'trollese' 1 95
+Skill 'uncommon' 1 95
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+(null)~
+(null)~
+End

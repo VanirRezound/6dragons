@@ -1,0 +1,419 @@
+Name           Psionic~
+Filename       Psionic~
+Class          19
+Starting       1
+AttrPrime      3
+AttrSecond     4
+AttrDeficient  1
+Races          131071
+Nocombo        0
+Reclass        0 0 0
+Skilladept     90
+Thac0          15
+Thac32         4
+Hpmin          12
+Hpmax          18
+ManaMin        10
+ManaMax        20
+Expbase        1600
+Craftbase        0
+Resist         0
+Suscept        0
+Skill 'battlefield view' 60 95
+Skill 'aid' 1 95
+Skill 'astral body' 35 95
+Skill 'behead' 10 95
+Skill 'biofeedback' 5 95
+Skill 'brain boil' 88 95
+Skill 'chameleon' 7 95
+Skill 'choke' 1 95
+Skill 'climb' 1 95
+Skill 'combat mind' 24 90
+Skill 'cook' 1 95
+Skill 'dodge' 5 95
+Skill 'dream walk' 28 95
+Skill 'drowsy' 65 50
+Skill 'dual wield' 20 95
+Skill 'dye' 1 95
+Skill 'fear' 70 40
+Skill 'fifth attack' 55 95
+Skill 'flint fire' 1 30
+Skill 'fourth attack' 44 95
+Skill 'graft weapon' 20 95
+Skill 'healing thoughts' 3 95
+Skill 'kinetic barrier ' 15 80
+Skill 'know enemy' 7 95
+Skill 'leech' 10 95
+Skill 'meditate' 3 95
+Skill 'mental assault' 10 95
+Skill 'mount' 1 85
+Skill 'object reading' 8 95
+Skill 'parry' 1 85
+Skill 'phase' 21 80
+Skill 'psionic blast' 42 95
+Skill 'scan' 1 95
+Skill 'search' 1 95
+Skill 'second attack' 8 95
+Skill 'sixth attack' 85 95
+Skill 'slice' 1 95
+Skill 'sustenance' 3 95
+Skill 'swim' 1 95
+Skill 'telepathy' 1 95
+Skill 'thicken skin' 2 95
+Skill 'third attack' 18 95
+Skill 'torture mind' 60 95
+Skill 'trance' 30 95
+Skill 'truesight' 10 95
+Skill 'whip of murazor ' 32 95
+Skill '1h bludgeons' 1 95
+Skill '1h long blades' 1 95
+Skill '1h short blades' 1 95
+Skill 'archery' 1 95
+Skill 'flails' 1 95
+Skill 'polearms' 1 95
+Skill 'spears' 1 95
+Skill 'staves' 1 95
+Skill 'whips' 1 95
+Skill 'celestial' 1 99
+Skill 'centaurian' 1 95
+Skill 'common' 1 99
+Skill 'demonic' 1 99
+Skill 'dwarven' 1 99
+Skill 'elven' 1 99
+Skill 'gnomish' 1 99
+Skill 'goblic' 1 99
+Skill 'hobbit' 1 99
+Skill 'infernal' 1 99
+Skill 'ogrian' 1 99
+Skill 'orcish' 1 99
+Skill 'pixish' 1 99
+Skill 'silent' 1 95
+Skill 'trollese' 1 95
+Title
+a young adventurer.~
+a young adventuress.~
+Title
+Psionic~
+Psionic~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

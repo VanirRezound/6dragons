@@ -1,0 +1,234 @@
+#IDEA
+MadeBy        Aurin~
+MadeWhen      09-30-2010 08:50:05AM~
+IdeaDesc      a command to count number of vnums in an area. like, I invade an area with 
+mvnum 1350, a command that would, when used, allow me to see how many of 
+that mvnum still remains in the area (or world). could possibly add to 
+mwhere <mvnum> <area.are>. ...or something complete new. heh 
+
+Cheers,
+Aurin
+&G-------------------------------
+Sounds like a good idea.  Not a high priority though
+
+-- Vladaar
+~
+Type          -1
+UsedBy        ~
+UsedWhen      ~
+UseDesc       ~
+Reward        0
+RewardBonus   0
+Room          35515
+End
+
+#IDEA
+MadeBy        Zaiden~
+MadeWhen      10-06-2010 11:36:42AM~
+IdeaDesc      hey i have a suggestion how about we had throwing knives as a skill? its just a thought. another art of fighting. just some idea i had that might look cool if someone was making a log and yeah! thanks for all you do staff!
+&G--------------------------------------
+Not a high priority at all but might be something neat
+to add at sometime.  Throwing types of weapons.
+knives, hand axes, etc.
+
+-- Vladaar
+----------------------------------
+&CPerhaps when doing this, just tag daggers as those that
+can be thrown.
+
+--Aurin
+~
+Type          -1
+UsedBy        ~
+UsedWhen      ~
+UseDesc       ~
+Reward        0
+RewardBonus   0
+Room          1124
+End
+
+#IDEA
+MadeBy        Zaiden~
+MadeWhen      10-08-2010 08:53:37AM~
+IdeaDesc      hey i was thinking why not add a third tradeskill. how about a bow and arrow making craft? i mean we have weapons why not that? oh and quivers as well. if not that then add those at least to the weapon tradeskills. thanks much for all you guys do.
+&G------------------------------------
+edited by Vladaar
+
+We are looking at adding another tradeskill, but first we
+want to make Tanner and Baker as good as Blacksmith tradeclass is
+~
+Type          -1
+UsedBy        ~
+UsedWhen      ~
+UseDesc       ~
+Reward        0
+RewardBonus   0
+Room          42168
+End
+
+#IDEA
+MadeBy        Althalos~
+MadeWhen      10-09-2010 11:37:18AM~
+IdeaDesc      when you wear all layered armor should go on in order of layer so we dont have to keep removing layers to get lower layers to fit
+
+&G------------------------
+edit by Vladaar
+
+Sounds like a good idea
+~
+Type          -1
+UsedBy        ~
+UsedWhen      ~
+UseDesc       ~
+Reward        0
+RewardBonus   0
+Room          42404
+End
+
+#IDEA
+MadeBy        Taon~
+MadeWhen      10-09-2010 00:41:43PM~
+IdeaDesc      Have multiple remort classes based on the following factors:
+Blood classes have their own set.
+Humaniods have their own set.
+Dragons have their own set.
+
+This is something that has already been talked about with Vladaar, reason for this is to get some ideas on some more remort classes.
+
+----Ideas by Garick----
+
+My main complaint about this, is I don't think remorts should be based on race.. Versatility of the system is MUCH improved if it is based on class, or, since we have multiclassing, class combinations. I brought this up before with Vlad, but he said he was against it because it would be a great deal of work. This may no longer be a factor, now that we have coders working again. I'm not sure how much help I can be if we stay with a race-based remort system, but, if we're looking for classes, I can certainly offer ideas.
+
+&G-------------------------------------------
+edit by Vladaar
+
+I like how Taon is approaching this.  It is not entirely race based
+but dragons and blood classes do need to be seperated.
+further more, players should be able to remort twice.  Not to the
+same class though.
+~
+Type          -1
+UsedBy        ~
+UsedWhen      ~
+UseDesc       ~
+Reward        0
+RewardBonus   0
+Room          500
+End
+
+#IDEA
+MadeBy        Aeliana~
+MadeWhen      10-16-2010 00:17:14PM~
+IdeaDesc      another thought for dragons: shouldn't there stat spells be dependent on type?  So silver would get dex/con, gold/red int/wis etc.  right now they get int, wis, and str, regardless of type.  I'd love it if dragons could get all the stat type spells, but since that's probably overbalanced, at least the spells should match the type of dragon someone's playing, in my opinion.
+~
+Type          -1
+UsedBy        ~
+UsedWhen      ~
+UseDesc       ~
+Reward        0
+RewardBonus   0
+Room          16771
+End
+
+#IDEA
+MadeBy        Aurin~
+MadeWhen      10-19-2010 09:32:25PM~
+IdeaDesc      okay, I have two ideas that are related here:
+1. how about a new config to squelch weather updates?
+2. how about a new config to squelch holiday updates?
+
+I realize it may not be possible, but thought I'd throw it out
+there.  Personally, I find them annoying and quite pointless.
+I'm sure other players have thought the same.
+
+Anyways, this is VERY low priority if it even gets considered.
+heh
+
+Cheers,
+Aurin
+~
+Type          -1
+UsedBy        ~
+UsedWhen      ~
+UseDesc       ~
+Reward        0
+RewardBonus   0
+Room          1350
+End
+
+#IDEA
+MadeBy        Sarkai~
+MadeWhen      10-24-2010 02:52:48AM~
+IdeaDesc      How about these remorts? I am basing remort here on race, not class. I think this would work out more consistently.
+Here goes:
+1. Shade -> Wraith  - Powerful undead. Resist damage by normal means, Draining attack, poison attack, 
+2. Troll -> Gargoyle - Stone skin. Great AC. Flying, Regenerates
+3. Elves -> Gray Elves or High Elves. Bonuses with spells and magic, better int, str, and con, great with longswords and rapiers
+4. Dwarves -> Mountain Dwarves. Great str and con. Warrior bonuses, Resistant to poison and magic. Great with axes and hammers
+Drow -> Liches. Powerful necromancers and mages. Undead. Nasy
+Vampires -> Elders. More bp, stronger and faster, harder to kill
+6. Hellspawn -> Balrogs (succubus/inucubus possiblie?) - Flaming whip creation, flying, strong, fireshield effect
+7. Ogres -> Giants. Strong, hardy, great damage. Great at bashing. Love clubs, hammers, and axes.
+8. Celestials -> Powers or Principalities - Great anti-evil abilites and spells. Flying, Healing abilities
+9. Mind Flayers -> Beholders - Horrid creatures with magical abilities. Great AC, Fly, and Magic Negation
+10. Humans -> Heroes. Great all-around adventurers
+11. Orcs -> Uru-Khai. Stronger, Bigger. Great warriors. Bonuses for combat.
+11. Halflings -> Imps or Gremlins. Great thieves. Hard to detect. Camaflouge type abilities.
+12. Goblins -> Hobgoblins. Bigger, badder. Great warriors.
+Will come up with some more, but thought this might give some ideas.
+~
+Type          -1
+UsedBy        ~
+UsedWhen      ~
+UseDesc       ~
+Reward        0
+RewardBonus   0
+Room          602
+End
+
+#IDEA
+MadeBy        Ceatrix~
+MadeWhen      11-21-2010 06:00:50AM~
+IdeaDesc      Ceatrix: A permanent but small increase to the rate of gaining exp at a high price, like maybe 500 glory or 1k glory since war can get you quite a bit, depending on the price it would be cool if it carryed over trough remorts, the increase should probaly be somewhat based on the race to, like since dragons have super slow exp gains it should be the least increase, or the most expensive for them.
+Samael: you mean as in you gain more exp per kill?
+[05:46] Ceatrix: i mean more exp when exp is gained, but per kill would be good to.
+~
+Type          -1
+UsedBy        ~
+UsedWhen      ~
+UseDesc       ~
+Reward        0
+RewardBonus   0
+Room          24832
+End
+
+#IDEA
+MadeBy        Skragna~
+MadeWhen      12-10-2010 02:35:49AM~
+IdeaDesc      You ought to be able to buy practices with glory points Something on the 
+order of 10 or 20 points 
+~
+Type          -1
+UsedBy        ~
+UsedWhen      ~
+UseDesc       ~
+Reward        0
+RewardBonus   0
+Room          16007
+End
+
+#IDEA
+MadeBy        Ashten~
+MadeWhen      12-10-2010 07:59:49AM~
+IdeaDesc      the ability to give your self items that are already in your inventory
+its used as a sort function.  so you can get the correct order
+for your layerable items in your inventory.
+that way you can wear all, and all slots go in proper order
+~
+Type          -1
+Reward        0
+RewardBonus   0
+Room          29006
+End
+
+#END

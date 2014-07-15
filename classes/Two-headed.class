@@ -1,0 +1,426 @@
+Name           Two-headed~
+Filename       Two-headed~
+Class          21
+Starting       0
+AttrPrime      1
+AttrSecond     5
+AttrDeficient  0
+Races          0
+Nocombo        0
+Reclass        0 0 0
+Skilladept     0
+Thac0          18
+Thac32         10
+Hpmin          35
+Hpmax          45
+ManaMin        14
+ManaMax        22
+Expbase        2600
+Craftbase        0
+Resist         0
+Suscept        0
+Skill 'astral walk' 14 95
+Skill 'battlefield view' 3 95
+Skill 'cure affliction' 45 95
+Skill 'dark blessings' 48 95
+Skill 'death field' 42 95
+Skill 'dispel magic' 25 95
+Skill 'ethereal shield' 65 95
+Skill 'farsight' 64 95
+Skill 'firestorm' 39 95
+Skill 'healing essence' 12 95
+Skill 'invis' 1 95
+Skill 'locate object' 16 95
+Skill 'refresh' 4 95
+Skill 'sanctuary' 13 95
+Skill 'shadow bolt' 94 95
+Skill 'shadowform' 44 95
+Skill 'shockshield' 27 95
+Skill 'slow' 37 95
+Skill 'transport' 66 95
+Skill 'valiance' 32 95
+Skill 'behead' 10 95
+Skill 'bite' 1 95
+Skill 'breathe' 2 99
+Skill 'brittle bone' 82 95
+Skill 'claw' 1 95
+Skill 'climb' 1 95
+Skill 'cone' 9 95
+Skill 'courage' 34 95
+Skill 'devour' 2 95
+Skill 'dodge' 3 95
+Skill 'doorbash' 8 99
+Skill 'endurance' 68 95
+Skill 'enhanced damage' 25 95
+Skill 'fifth attack' 52 95
+Skill 'find weakness' 56 95
+Skill 'fly home' 2 95
+Skill 'fourth attack' 40 95
+Skill 'glacial armor' 28 95
+Skill 'gust of wind' 26 95
+Skill 'gut' 3 95
+Skill 'human form' 5 95
+Skill 'impale' 54 95
+Skill 'lick' 2 95
+Skill 'lore' 11 95
+Skill 'meditate' 10 95
+Skill 'peek' 1 95
+Skill 'pluck' 22 95
+Skill 'rage' 10 95
+Skill 'scan' 1 95
+Skill 'second attack' 5 95
+Skill 'sixth attack' 75 95
+Skill 'slice' 1 95
+Skill 'smell' 4 95
+Skill 'snatch' 5 95
+Skill 'stomp' 15 95
+Skill 'swim' 1 95
+Skill 'tail swipe' 8 95
+Skill 'third attack' 20 95
+Skill 'trance' 58 95
+Skill 'truesight' 2 95
+Skill 'wings' 1 100
+Skill 'celestial' 1 99
+Skill 'centaurian' 1 95
+Skill 'common' 1 99
+Skill 'demonic' 1 99
+Skill 'draconic' 1 95
+Skill 'dwarven' 1 99
+Skill 'elven' 1 99
+Skill 'gnomish' 1 99
+Skill 'goblic' 1 99
+Skill 'hobbit' 1 99
+Skill 'infernal' 1 99
+Skill 'ogrian' 1 99
+Skill 'orcish' 1 99
+Skill 'pixish' 1 99
+Skill 'silent' 1 95
+Skill 'trollese' 1 95
+Title
+Man~
+Woman~
+Title
+very young Two-Headed Dragon~
+very young Two-Headed Dragon~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+(null)~
+(null)~
+End
